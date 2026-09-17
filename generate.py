@@ -77,12 +77,23 @@ def discover_local_playlists():
 
             continue
 
-        # City playlists generally include their country/subdivision
-        # identifiers in the published index. We'll classify them from
-        # the surrounding documentation later if necessary.
+        # City playlists use IDs beginning with their country code.
+        # Examples:
+        # Canada: caott.m3u (Ottawa), cator.m3u (Toronto)
+        # USA:    uslax.m3u (Los Angeles), usphx.m3u (Phoenix)
+        city_match = re.search(r'/cities/([a-z0-9]+)\.m3u', url)
 
-    print(f"Found {len(canada)} Canadian subdivision playlists")
-    print(f"Found {len(usa)} US subdivision playlists")
+        if city_match:
+            city_id = city_match.group(1)
+
+            if city_id.startswith("ca"):
+                canada.add(url)
+
+            elif city_id.startswith("us"):
+                usa.add(url)
+
+    print(f"Found {len(canada)} Canadian regional/city playlists")
+    print(f"Found {len(usa)} US regional/city playlists")
 
     return sorted(canada), sorted(usa)
 
