@@ -1,6 +1,10 @@
 import json
 import urllib.request
+import urllib.error
+import socket
+import os
 from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 API = "https://iptv-org.github.io/api"
 
@@ -97,12 +101,209 @@ def make_entry(channel, stream, group, logo):
 
     return lines
 
+HEALTH_FILE = "stream-health.json"
+DEAD_FILE = "dead-streams.txt"
+
+CHECK_TIMEOUT = 8
+MAX_WORKERS = 30
+FAILURES_BEFORE_REMOVAL = 2
+
+
+def load_health():
+    if not os.path.exists(HEALTH_FILE):
+        return {}
+
+    try:
+        with open(HEALTH_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def save_health(health):
+    with open(HEALTH_FILE, "w", encoding="utf-8") as f:
+        json.dump(health, f, indent=2, sort_keys=True)
+
+
+def check_stream(stream):
+    url = stream["url"]
+
+    headers = {
+        "User-Agent": stream.get("user_agent")
+        or "Mozilla/5.0"
+    }
+
+    if stream.get("referrer"):
+        headers["Referer"] = stream["referrer"]
+
+    try:
+        req = urllib.request.Request(
+            url,
+            headers=headers
+        )
+
+        # We only need enough data to establish that
+        # the endpoint responds.
+        with urllib.request.urlopen(
+            req,
+            timeout=CHECK_TIMEOUT
+        ) as response:
+            response.read(1024)
+            code = response.getcode()
+
+            return url, "working", code
+
+    except urllib.error.HTTPError as e:
+
+        if e.code in (404, 410):
+            return url, "dead", e.code
+
+        # 401/403/451 etc. may be authorization,
+        # geo-blocking or CDN restrictions.
+        return url, "restricted", e.code
+
+    except (
+        urllib.error.URLError,
+        socket.timeout,
+        TimeoutError
+    ):
+        # A GitHub runner failing to reach a stream
+        # does NOT prove the stream is dead.
+        return url, "uncertain", None
+
+    except Exception:
+        return url, "uncertain", None
+
+
+def health_check_streams(streams):
+    previous = load_health()
+    current = {}
+    results = {}
+
+    print()
+    print("========================")
+    print("CHECKING STREAM HEALTH")
+    print("========================")
+    print(f"Streams to check: {len(streams)}")
+    print(f"Workers: {MAX_WORKERS}")
+    print(f"Timeout: {CHECK_TIMEOUT}s")
+    print()
+
+    with ThreadPoolExecutor(
+        max_workers=MAX_WORKERS
+    ) as executor:
+
+        futures = {
+            executor.submit(
+                check_stream,
+                stream
+            ): stream
+            for stream in streams
+        }
+
+        completed = 0
+
+        for future in as_completed(futures):
+            stream = futures[future]
+
+            url, status, code = future.result()
+
+            old = previous.get(url, {})
+            failures = old.get(
+                "consecutive_dead",
+                0
+            )
+
+            if status == "dead":
+                failures += 1
+            else:
+                failures = 0
+
+            current[url] = {
+                "status": status,
+                "http_code": code,
+                "consecutive_dead": failures
+            }
+
+            results[url] = current[url]
+
+            completed += 1
+
+            if completed % 250 == 0:
+                print(
+                    f"Checked {completed}/{len(streams)}"
+                )
+
+    save_health(current)
+
+    return results
+
+
+def should_keep_stream(stream, health):
+    result = health.get(stream["url"])
+
+    if not result:
+        return True
+
+    # Only remove a URL after repeated,
+    # high-confidence 404/410 failures.
+    if (
+        result["status"] == "dead"
+        and result["consecutive_dead"]
+        >= FAILURES_BEFORE_REMOVAL
+    ):
+        return False
+
+    return True
+
+
+def write_dead_report(streams, health):
+    removed = []
+
+    for stream in streams:
+        result = health.get(stream["url"])
+
+        if not result:
+            continue
+
+        if (
+            result["status"] == "dead"
+            and result["consecutive_dead"]
+            >= FAILURES_BEFORE_REMOVAL
+        ):
+            removed.append(
+                (
+                    stream.get("title")
+                    or stream.get("channel")
+                    or "Unknown",
+                    result.get("http_code"),
+                    stream["url"]
+                )
+            )
+
+    with open(
+        DEAD_FILE,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        for name, code, url in sorted(removed):
+            f.write(
+                f"{name} | HTTP {code} | {url}\n"
+            )
+
+    return len(removed)
 
 def main():
     channels = download_json("channels.json")
     feeds = download_json("feeds.json")
     streams = download_json("streams.json")
     logos = download_json("logos.json")
+        health = health_check_streams(streams)
+    removed_count = write_dead_report(
+        streams,
+        health
+    )
 
     channels_by_id = {
         channel["id"]: channel
@@ -141,6 +342,11 @@ def main():
     skipped_unknown = 0
 
     for stream in streams:
+                if not should_keep_stream(
+            stream,
+            health
+        ):
+            continue
         channel_id = stream.get("channel")
 
         if not channel_id:
@@ -294,6 +500,7 @@ def main():
     print(f"Skipped unknown metadata: {skipped_unknown}")
     print()
     print("Output: playlist-v2.m3u")
+    print(f"Confirmed dead removed: {removed_count}")
 
 
 if __name__ == "__main__":
