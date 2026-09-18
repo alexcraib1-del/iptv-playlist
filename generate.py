@@ -390,7 +390,7 @@ def main():
         english_only_streams,
         health
     )
-        for stream in english_only_streams::
+        for stream in english_only_streams:
         if not should_keep_stream(
             stream,
             health
