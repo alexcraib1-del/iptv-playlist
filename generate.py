@@ -343,11 +343,12 @@ def main():
     skipped_unknown = 0
 
     for stream in streams:
-                if not should_keep_stream(
+        if not should_keep_stream(
             stream,
             health
         ):
             continue
+            
         channel_id = stream.get("channel")
 
         if not channel_id:
