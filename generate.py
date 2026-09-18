@@ -299,12 +299,6 @@ def main():
     feeds = download_json("feeds.json")
     streams = download_json("streams.json")
     logos = download_json("logos.json")
-    
-    health = health_check_streams(streams)
-    removed_count = write_dead_report(
-        streams,
-        health
-    )
 
     channels_by_id = {
         channel["id"]: channel
@@ -342,7 +336,61 @@ def main():
     skipped_non_english = 0
     skipped_unknown = 0
 
+        # Pre-filter streams to English BEFORE health checking.
+    # This prevents us from testing thousands of streams
+    # that will never appear in our playlist.
+    english_only_streams = []
+
     for stream in streams:
+        channel_id = stream.get("channel")
+
+        if not channel_id:
+            continue
+
+        channel = channels_by_id.get(channel_id)
+
+        if not channel:
+            continue
+
+        if channel.get("is_nsfw") or channel.get("closed"):
+            continue
+
+        feed_id = stream.get("feed")
+
+        if feed_id:
+            feed = feeds_by_key.get(
+                (channel_id, feed_id)
+            )
+        else:
+            feed = main_feed_by_channel.get(
+                channel_id
+            )
+
+        if not feed:
+            continue
+
+        languages = feed.get("languages") or []
+
+        if "eng" not in languages:
+            continue
+
+        english_only_streams.append(stream)
+
+    print()
+    print(
+        f"English streams selected for health check: "
+        f"{len(english_only_streams)}"
+    )
+
+    health = health_check_streams(
+        english_only_streams
+    )
+
+    removed_count = write_dead_report(
+        english_only_streams,
+        health
+    )
+        for stream in english_only_streams::
         if not should_keep_stream(
             stream,
             health
