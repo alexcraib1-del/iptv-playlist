@@ -300,7 +300,7 @@ def main():
     streams = download_json("streams.json")
     logos = download_json("logos.json")
         health = health_check_streams(streams)
-    removed_count = write_dead_report(
+        removed_count = write_dead_report(
         streams,
         health
     )
