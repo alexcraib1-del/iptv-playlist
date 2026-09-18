@@ -48,6 +48,9 @@ jobs:
             --days=1 \
             --maxConnections=5
 
+      - name: Normalize EPG IDs
+        run: python normalize_epg.py
+      
       - name: Commit updated playlist
         run: |
           git config user.name "github-actions[bot]"
