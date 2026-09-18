@@ -391,6 +391,82 @@ def main():
         english_only_streams,
         health
     )
+        # Check EPG coverage for the English streams in our playlist.
+    guide_keys = set()
+
+    for guide in guides:
+        if guide.get("lang") != "en":
+            continue
+
+        channel_id = guide.get("channel")
+
+        if not channel_id:
+            continue
+
+        feed_id = guide.get("feed")
+
+        guide_keys.add(
+            (channel_id, feed_id)
+        )
+
+        # Also allow channel-level matching.
+        guide_keys.add(
+            (channel_id, None)
+        )
+
+    playlist_channels = set()
+    epg_matched_channels = set()
+
+    for stream in english_only_streams:
+        if not should_keep_stream(
+            stream,
+            health
+        ):
+            continue
+
+        channel_id = stream.get("channel")
+
+        if not channel_id:
+            continue
+
+        feed_id = stream.get("feed")
+
+        playlist_channels.add(channel_id)
+
+        if (
+            (channel_id, feed_id) in guide_keys
+            or (channel_id, None) in guide_keys
+        ):
+            epg_matched_channels.add(channel_id)
+
+    print()
+    print("========================")
+    print("EPG COVERAGE")
+    print("========================")
+    print(
+        f"Unique playlist channels: "
+        f"{len(playlist_channels)}"
+    )
+    print(
+        f"Channels with EPG: "
+        f"{len(epg_matched_channels)}"
+    )
+    print(
+        f"Channels without EPG: "
+        f"{len(playlist_channels - epg_matched_channels)}"
+    )
+
+    if playlist_channels:
+        coverage = (
+            len(epg_matched_channels)
+            / len(playlist_channels)
+            * 100
+        )
+
+        print(
+            f"EPG coverage: "
+            f"{coverage:.1f}%"
+        )
     for stream in english_only_streams:
         if not should_keep_stream(
             stream,
