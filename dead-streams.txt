@@ -103,6 +103,7 @@ TV Maldives | HTTP 404 | https://lana.psm.mv/live/tvm.m3u8
 TV3 | HTTP 404 | https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8
 TVCARiB | HTTP 404 | https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
 TVS Television Network | HTTP 404 | https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8
+TVSA Public Channel | HTTP 404 | https://edge-f.swagit.com/live/sanantoniotx/live-2-a/playlist.m3u8
 Tanzania Safari Channel | HTTP 404 | https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
 The Bob Ross Channel | HTTP 404 | https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8
 The Jamie Oliver Channel | HTTP 404 | https://aegis-cloudfront-1.tubi.video/28fb04b8-8d48-4c2a-833a-7f51059a405d/playlist.m3u8

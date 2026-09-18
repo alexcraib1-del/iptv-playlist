@@ -4298,8 +4298,6 @@ https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="TVSAGovernmentChannel.us" tvg-name="TVSA Government Channel" group-title="United States" tvg-logo="https://i.imgur.com/3Om5TUc.png",TVSA Government Channel
 https://edge-f.swagit.com/live/sanantoniotx/live-1-a/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSAPublicChannel.us" tvg-name="TVSA Public Channel" group-title="United States" tvg-logo="https://i.imgur.com/3Om5TUc.png",TVSA Public Channel
-https://edge-f.swagit.com/live/sanantoniotx/live-2-a/playlist.m3u8
 #EXTINF:-1 tvg-id="UCTV.us" tvg-name="UCTV University of California" group-title="United States" tvg-logo="https://i.imgur.com/ehMz9T5.png",UCTV University of California
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="UNWebTV.us" tvg-name="UN Web TV" group-title="United States" tvg-logo="https://i.imgur.com/UcAwBep.png",UN Web TV
