@@ -1,34 +1,20 @@
+import json
 import urllib.request
-import re
+from collections import defaultdict
 
-BASE = "https://iptv-org.github.io/iptv"
+API = "https://iptv-org.github.io/api"
 
-# Main feeds
-MAIN_SOURCES = [
-    ("Canada", f"{BASE}/countries/ca.m3u"),
-    ("United States", f"{BASE}/countries/us.m3u"),
-    ("Movies", f"{BASE}/categories/movies.m3u"),
-    ("Series", f"{BASE}/categories/series.m3u"),
-]
-
-# Canadian province/territory codes
-CA_SUBDIVISIONS = {
-    "ab", "bc", "mb", "nb", "nl", "ns", "nt",
-    "nu", "on", "pe", "qc", "sk", "yt"
-}
-
-# US state/territory codes
-US_SUBDIVISIONS = {
-    "al", "ak", "az", "ar", "ca", "co", "ct", "de", "fl", "ga",
-    "hi", "id", "il", "in", "ia", "ks", "ky", "la", "me", "md",
-    "ma", "mi", "mn", "ms", "mo", "mt", "ne", "nv", "nh", "nj",
-    "nm", "ny", "nc", "nd", "oh", "ok", "or", "pa", "ri", "sc",
-    "sd", "tn", "tx", "ut", "vt", "va", "wa", "wv", "wi", "wy",
-    "dc", "pr", "vi", "gu", "as", "mp"
+GROUP_ORDER = {
+    "Canada": 0,
+    "United States": 1,
+    "Other English": 2,
+    "Movies": 3,
+    "Series": 4,
 }
 
 
-def download(url):
+def download_json(filename):
+    url = f"{API}/{filename}"
     print(f"Downloading {url}")
 
     req = urllib.request.Request(
@@ -36,245 +22,278 @@ def download(url):
         headers={"User-Agent": "Mozilla/5.0"}
     )
 
-    with urllib.request.urlopen(req, timeout=60) as response:
-        return response.read().decode("utf-8", errors="replace")
+    with urllib.request.urlopen(req, timeout=120) as response:
+        return json.load(response)
 
 
-def discover_local_playlists():
-    """
-    Read IPTV-org's published playlist documentation and discover
-    subdivision/city playlist URLs belonging to Canada or the USA.
-    """
-
-    url = "https://raw.githubusercontent.com/iptv-org/iptv/master/PLAYLISTS.md"
-
-    print("Discovering local IPTV-org playlists...")
-
-    text = download(url)
-
-    urls = re.findall(
-        r'https://iptv-org\.github\.io/iptv/[^\s\)<>"]+\.m3u',
-        text
-    )
-
-    canada = set()
-    usa = set()
-
-    for url in urls:
-
-        # subdivision playlists such as subdivisions/ca-on.m3u
-        match = re.search(r'/subdivisions/([a-z]{2})-([a-z]{2})\.m3u', url)
-
-        if match:
-            country = match.group(1)
-            subdivision = match.group(2)
-
-            if country == "ca" and subdivision in CA_SUBDIVISIONS:
-                canada.add(url)
-
-            elif country == "us" and subdivision in US_SUBDIVISIONS:
-                usa.add(url)
-
-            continue
-
-        # City playlists use IDs beginning with their country code.
-        # Examples:
-        # Canada: caott.m3u (Ottawa), cator.m3u (Toronto)
-        # USA:    uslax.m3u (Los Angeles), usphx.m3u (Phoenix)
-        city_match = re.search(r'/cities/([a-z0-9]+)\.m3u', url)
-
-        if city_match:
-            city_id = city_match.group(1)
-
-            if city_id.startswith("ca"):
-                canada.add(url)
-
-            elif city_id.startswith("us"):
-                usa.add(url)
-
-    print(f"Found {len(canada)} Canadian regional/city playlists")
-    print(f"Found {len(usa)} US regional/city playlists")
-
-    return sorted(canada), sorted(usa)
+def escape_attr(value):
+    if value is None:
+        return ""
+    return str(value).replace('"', "'")
 
 
-def parse_playlist(text, group_name):
-    lines = text.splitlines()
-    entries = []
+def choose_logo(channel_id, feed_id, logos_by_channel):
+    logos = logos_by_channel.get(channel_id, [])
 
-    i = 0
+    if not logos:
+        return ""
 
-    while i < len(lines):
+    # Prefer a current logo for the exact feed
+    if feed_id:
+        matches = [
+            x for x in logos
+            if x.get("feed") == feed_id and x.get("in_use")
+        ]
+        if matches:
+            return matches[0]["url"]
 
-        line = lines[i].strip()
+    # Then current channel-wide logo
+    matches = [
+        x for x in logos
+        if x.get("feed") is None and x.get("in_use")
+    ]
+    if matches:
+        return matches[0]["url"]
 
-        if line.startswith("#EXTINF"):
+    # Fall back to any current logo
+    matches = [x for x in logos if x.get("in_use")]
+    if matches:
+        return matches[0]["url"]
 
-            extinf = line
-            j = i + 1
-            extra_lines = []
+    return logos[0].get("url", "")
 
-            while j < len(lines):
 
-                next_line = lines[j].strip()
+def make_entry(channel, stream, group, logo):
+    channel_id = channel["id"]
 
-                if next_line.startswith("#EXTINF"):
-                    break
+    # Prefer stream title when it identifies a specific local/feed variant.
+    name = stream.get("title") or channel.get("name") or channel_id
 
-                if next_line and not next_line.startswith("#"):
-                    stream_url = next_line
-                    break
+    attrs = [
+        f'tvg-id="{escape_attr(channel_id)}"',
+        f'tvg-name="{escape_attr(name)}"',
+        f'group-title="{escape_attr(group)}"',
+    ]
 
-                if next_line:
-                    extra_lines.append(next_line)
+    if logo:
+        attrs.append(f'tvg-logo="{escape_attr(logo)}"')
 
-                j += 1
+    extinf = f'#EXTINF:-1 {" ".join(attrs)},{name}'
 
-            else:
-                i += 1
-                continue
+    lines = [extinf]
 
-            # Force everything into our four clean groups
-            if 'group-title="' in extinf:
+    # Preserve IPTV-org's required playback headers.
+    if stream.get("referrer"):
+        lines.append(
+            f'#EXTVLCOPT:http-referrer={stream["referrer"]}'
+        )
 
-                extinf = re.sub(
-                    r'group-title="[^"]*"',
-                    f'group-title="{group_name}"',
-                    extinf
-                )
+    if stream.get("user_agent"):
+        lines.append(
+            f'#EXTVLCOPT:http-user-agent={stream["user_agent"]}'
+        )
 
-            else:
+    lines.append(stream["url"])
 
-                extinf = extinf.replace(
-                    "#EXTINF:-1",
-                    f'#EXTINF:-1 group-title="{group_name}"',
-                    1
-                )
-
-            entries.append(
-                (extinf, extra_lines, stream_url)
-            )
-
-            i = j
-
-        i += 1
-
-    return entries
+    return lines
 
 
 def main():
+    channels = download_json("channels.json")
+    feeds = download_json("feeds.json")
+    streams = download_json("streams.json")
+    logos = download_json("logos.json")
 
-    canada_local, usa_local = discover_local_playlists()
-
-    sources = list(MAIN_SOURCES)
-
-    # Add all discovered local feeds
-    for url in canada_local:
-        sources.append(("Canada", url))
-
-    for url in usa_local:
-        sources.append(("United States", url))
-
-    all_entries = []
-    seen_urls = set()
-
-    stats = {
-        "Canada": 0,
-        "United States": 0,
-        "Movies": 0,
-        "Series": 0
+    channels_by_id = {
+        channel["id"]: channel
+        for channel in channels
     }
 
-    for group_name, url in sources:
+    # Feed metadata tells us broadcast language.
+    feeds_by_key = {}
 
-        try:
+    for feed in feeds:
+        feeds_by_key[(feed["channel"], feed["id"])] = feed
 
-            playlist = download(url)
+    # Main feed fallback for streams where feed is null.
+    main_feed_by_channel = {}
 
-            entries = parse_playlist(
-                playlist,
-                group_name
+    for feed in feeds:
+        if feed.get("is_main"):
+            main_feed_by_channel[feed["channel"]] = feed
+
+    logos_by_channel = defaultdict(list)
+
+    for logo in logos:
+        logos_by_channel[logo["channel"]].append(logo)
+
+    groups = defaultdict(list)
+
+    # Deduplicate WITHIN each group, but intentionally allow the
+    # same channel/stream to appear in a geographic group and
+    # again in Movies or Series.
+    seen_by_group = defaultdict(set)
+
+    stats = defaultdict(int)
+
+    english_streams = 0
+    skipped_non_english = 0
+    skipped_unknown = 0
+
+    for stream in streams:
+        channel_id = stream.get("channel")
+
+        if not channel_id:
+            skipped_unknown += 1
+            continue
+
+        channel = channels_by_id.get(channel_id)
+
+        if not channel:
+            skipped_unknown += 1
+            continue
+
+        # Ignore NSFW and closed channels.
+        if channel.get("is_nsfw"):
+            continue
+
+        if channel.get("closed"):
+            continue
+
+        feed_id = stream.get("feed")
+
+        if feed_id:
+            feed = feeds_by_key.get((channel_id, feed_id))
+        else:
+            feed = main_feed_by_channel.get(channel_id)
+
+        # If there is no feed metadata, we can't reliably determine
+        # that the stream is English.
+        if not feed:
+            skipped_unknown += 1
+            continue
+
+        languages = feed.get("languages") or []
+
+        if "eng" not in languages:
+            skipped_non_english += 1
+            continue
+
+        english_streams += 1
+
+        country = channel.get("country")
+        categories = set(channel.get("categories") or [])
+
+        if country == "CA":
+            geographic_group = "Canada"
+        elif country == "US":
+            geographic_group = "United States"
+        else:
+            geographic_group = "Other English"
+
+        logo = choose_logo(
+            channel_id,
+            feed_id,
+            logos_by_channel
+        )
+
+        # Geographic group
+        geo_key = stream["url"]
+
+        if geo_key not in seen_by_group[geographic_group]:
+            seen_by_group[geographic_group].add(geo_key)
+
+            groups[geographic_group].append(
+                (
+                    channel.get("name", ""),
+                    make_entry(
+                        channel,
+                        stream,
+                        geographic_group,
+                        logo
+                    )
+                )
             )
 
-            added = 0
+            stats[geographic_group] += 1
 
-            for extinf, extra_lines, stream_url in entries:
+        # Secondary category groups.
+        # These intentionally duplicate streams from the geographic groups.
+        if "movies" in categories:
+            if stream["url"] not in seen_by_group["Movies"]:
+                seen_by_group["Movies"].add(stream["url"])
 
-                # Deduplicate identical streams
-                if stream_url in seen_urls:
-                    continue
-
-                seen_urls.add(stream_url)
-
-                all_entries.append(
+                groups["Movies"].append(
                     (
-                        group_name,
-                        extinf,
-                        extra_lines,
-                        stream_url
+                        channel.get("name", ""),
+                        make_entry(
+                            channel,
+                            stream,
+                            "Movies",
+                            logo
+                        )
                     )
                 )
 
-                added += 1
-                stats[group_name] += 1
+                stats["Movies"] += 1
 
-            print(
-                f"{group_name}: +{added} unique streams"
-            )
+        if "series" in categories:
+            if stream["url"] not in seen_by_group["Series"]:
+                seen_by_group["Series"].add(stream["url"])
 
-        except Exception as e:
+                groups["Series"].append(
+                    (
+                        channel.get("name", ""),
+                        make_entry(
+                            channel,
+                            stream,
+                            "Series",
+                            logo
+                        )
+                    )
+                )
 
-            # One dead regional playlist shouldn't kill
-            # the entire daily build.
-            print(
-                f"WARNING: Could not process {url}: {e}"
-            )
+                stats["Series"] += 1
 
-    group_order = {
-        "Canada": 0,
-        "United States": 1,
-        "Movies": 2,
-        "Series": 3
-    }
-
-    all_entries.sort(
-        key=lambda x: (
-            group_order.get(x[0], 99),
-            x[1].lower()
+    # Alphabetize channels inside each group.
+    for group in groups:
+        groups[group].sort(
+            key=lambda item: item[0].lower()
         )
-    )
 
-    with open(
-        "playlist.m3u",
-        "w",
-        encoding="utf-8"
-    ) as f:
-
+    with open("playlist-v2.m3u", "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
 
-        for (
-            group_name,
-            extinf,
-            extra_lines,
-            stream_url
-        ) in all_entries:
+        for group in sorted(
+            groups,
+            key=lambda x: GROUP_ORDER.get(x, 99)
+        ):
+            for _, lines in groups[group]:
+                for line in lines:
+                    f.write(line + "\n")
 
-            f.write(extinf + "\n")
-
-            for extra in extra_lines:
-                f.write(extra + "\n")
-
-            f.write(stream_url + "\n")
-
-    print("\n========================")
-    print("PLAYLIST COMPLETE")
+    print()
+    print("========================")
+    print("PLAYLIST V2 COMPLETE")
     print("========================")
 
-    for group, count in stats.items():
-        print(f"{group}: {count}")
+    print(f"English source streams: {english_streams}")
+    print()
 
-    print("------------------------")
-    print(f"TOTAL: {len(all_entries)}")
+    for group in [
+        "Canada",
+        "United States",
+        "Other English",
+        "Movies",
+        "Series",
+    ]:
+        print(f"{group}: {stats[group]}")
+
+    print()
+    print(f"Skipped non-English: {skipped_non_english}")
+    print(f"Skipped unknown metadata: {skipped_unknown}")
+    print()
+    print("Output: playlist-v2.m3u")
 
 
 if __name__ == "__main__":
