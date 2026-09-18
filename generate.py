@@ -299,8 +299,9 @@ def main():
     feeds = download_json("feeds.json")
     streams = download_json("streams.json")
     logos = download_json("logos.json")
-        health = health_check_streams(streams)
-        removed_count = write_dead_report(
+    
+    health = health_check_streams(streams)
+    removed_count = write_dead_report(
         streams,
         health
     )
