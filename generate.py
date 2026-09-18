@@ -299,6 +299,7 @@ def main():
     feeds = download_json("feeds.json")
     streams = download_json("streams.json")
     logos = download_json("logos.json")
+    guides = download_json("guides.json")
 
     channels_by_id = {
         channel["id"]: channel
