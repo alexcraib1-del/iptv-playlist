@@ -61,10 +61,8 @@ def main():
 
     guides = download_json("guides.json")
 
-    root = ET.Element("channels")
-
-    added = set()
-    sites = set()
+    # Keep only ONE EPG mapping for each playlist channel.
+    selected = {}
 
     for guide in guides:
         if guide.get("lang") != "en":
@@ -75,8 +73,6 @@ def main():
         if not channel_id:
             continue
 
-        # The playlist currently uses the base IPTV-org
-        # channel ID as its tvg-id.
         if channel_id not in playlist_ids:
             continue
 
@@ -86,28 +82,31 @@ def main():
         if not site or not site_id:
             continue
 
+        # If we already selected an EPG source for this
+        # channel, don't add another one.
+        if channel_id in selected:
+            continue
+
+        selected[channel_id] = guide
+
+    root = ET.Element("channels")
+    sites = set()
+
+    for channel_id, guide in selected.items():
+        site = guide["site"]
+        site_id = guide["site_id"]
         feed_id = guide.get("feed")
 
-        # IPTV-org EPG uses @FeedID for a
-        # feed-specific guide.
+        sites.add(site)
+
+        # Keep feed-specific XMLTV IDs when the guide
+        # specifically identifies a feed.
         if feed_id:
             xmltv_id = (
                 f"{channel_id}@{feed_id}"
             )
         else:
             xmltv_id = channel_id
-
-        key = (
-            site,
-            site_id,
-            xmltv_id
-        )
-
-        if key in added:
-            continue
-
-        added.add(key)
-        sites.add(site)
 
         element = ET.SubElement(
             root,
@@ -144,8 +143,8 @@ def main():
     print("========================")
 
     print(
-        f"EPG mappings written: "
-        f"{len(added)}"
+        f"EPG channels selected: "
+        f"{len(selected)}"
     )
 
     print(
