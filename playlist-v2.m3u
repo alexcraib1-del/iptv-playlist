@@ -578,6 +578,8 @@ http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC
+http://41.205.93.154/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC
 http://4.30.180.36:8420/amc/index.m3u8?token=test
 #EXTINF:-1 tvg-id="AmericasNextTopModel.us" tvg-name="America's Next Top Model" group-title="United States" tvg-logo="https://images.pluto.tv/channels/68679fc6bb46d0bdd38ac9a4/colorLogoPNG_1756466390265.png",America's Next Top Model
 https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8
@@ -5877,8 +5879,6 @@ https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/440/index.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW English" group-title="Other English" tvg-logo="https://i.imgur.com/8MRNFb9.png",DW English
 https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
-#EXTINF:-1 tvg-id="DW.de" tvg-name="DW English" group-title="Other English" tvg-logo="https://i.imgur.com/8MRNFb9.png",DW English
-https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
 #EXTINF:-1 tvg-id="Dynasty.de" tvg-name="Dynasty" group-title="Other English" tvg-logo="https://images.pluto.tv/channels/65cb76ea11ced70008206b66/colorLogoPNG.png",Dynasty
 https://jmp2.uk/plu-622f48de713e510007f85808.m3u8
 #EXTINF:-1 tvg-id="EACNewsTV.kh" tvg-name="EAC News TV" group-title="Other English" tvg-logo="https://i.imgur.com/EuYhS9Z.png",EAC News TV
@@ -8721,6 +8721,8 @@ https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC
 http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC
+http://41.205.93.154/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC
 http://4.30.180.36:8420/amc/index.m3u8?token=test
 #EXTINF:-1 tvg-id="AMCEurope.uk" tvg-name="AMC Europe Czech Republic" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC Europe Czech Republic
