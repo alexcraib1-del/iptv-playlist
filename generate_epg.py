@@ -1,56 +1,31 @@
 import json
 import urllib.request
-import urllib.error
 import xml.etree.ElementTree as ET
-from collections import defaultdict
 
 API = "https://iptv-org.github.io/api"
-OUTPUT_FILE = "guide.xml"
-
-TIMEOUT = 30
+PLAYLIST = "playlist-v2.m3u"
+OUTPUT = "channels.xml"
 
 
 def download_json(filename):
-    url = f"{API}/{filename}"
-
     print(f"Downloading {filename}...")
 
     with urllib.request.urlopen(
-        url,
-        timeout=TIMEOUT
+        f"{API}/{filename}",
+        timeout=30
     ) as response:
         return json.load(response)
 
 
-def download_xml(url):
-    request = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": "Mozilla/5.0"
-        }
-    )
-
-    with urllib.request.urlopen(
-        request,
-        timeout=TIMEOUT
-    ) as response:
-        return response.read()
-
-
-def playlist_channel_ids():
-    """
-    Read the channel IDs actually present in playlist-v2.m3u.
-    """
-
+def get_playlist_ids():
     ids = set()
 
     with open(
-        "playlist-v2.m3u",
+        PLAYLIST,
         "r",
         encoding="utf-8"
     ) as f:
         for line in f:
-
             if not line.startswith("#EXTINF:"):
                 continue
 
@@ -72,13 +47,12 @@ def playlist_channel_ids():
 
 
 def main():
-
     print()
     print("========================")
-    print("GENERATING EPG")
+    print("BUILDING EPG CHANNEL LIST")
     print("========================")
 
-    playlist_ids = playlist_channel_ids()
+    playlist_ids = get_playlist_ids()
 
     print(
         f"Unique playlist IDs: "
@@ -87,11 +61,12 @@ def main():
 
     guides = download_json("guides.json")
 
-    # Find English EPG sources relevant to our playlist.
-    sources = defaultdict(set)
+    root = ET.Element("channels")
+
+    added = set()
+    sites = set()
 
     for guide in guides:
-
         if guide.get("lang") != "en":
             continue
 
@@ -100,127 +75,57 @@ def main():
         if not channel_id:
             continue
 
-        # Accept both ordinary channel IDs and
-        # feed-specific IDs used by IPTV-org.
+        # The playlist currently uses the base IPTV-org
+        # channel ID as its tvg-id.
+        if channel_id not in playlist_ids:
+            continue
+
+        site = guide.get("site")
+        site_id = guide.get("site_id")
+
+        if not site or not site_id:
+            continue
+
         feed_id = guide.get("feed")
 
-        possible_ids = {
-            channel_id
-        }
-
+        # IPTV-org EPG uses @FeedID for a
+        # feed-specific guide.
         if feed_id:
-            possible_ids.add(
+            xmltv_id = (
                 f"{channel_id}@{feed_id}"
             )
+        else:
+            xmltv_id = channel_id
 
-        matching_ids = (
-            possible_ids & playlist_ids
+        key = (
+            site,
+            site_id,
+            xmltv_id
         )
 
-        if not matching_ids:
+        if key in added:
             continue
 
-        for source in guide.get(
-            "sources",
-            []
-        ):
-            if source.get("format") != "XML":
-                continue
+        added.add(key)
+        sites.add(site)
 
-            url = source.get("url")
-
-            if not url:
-                continue
-
-            for xmltv_id in matching_ids:
-                sources[url].add(xmltv_id)
-
-    wanted_ids = set()
-
-    for ids in sources.values():
-        wanted_ids.update(ids)
-
-    print(
-        f"EPG source URLs: "
-        f"{len(sources)}"
-    )
-
-    print(
-        f"Playlist IDs with EPG mappings: "
-        f"{len(wanted_ids)}"
-    )
-
-    # Master XMLTV document.
-    output_root = ET.Element("tv")
-
-    added_channels = set()
-    programme_count = 0
-
-    successful_sources = 0
-    failed_sources = 0
-
-    for number, (url, source_ids) in enumerate(
-        sources.items(),
-        start=1
-    ):
-
-        print(
-            f"[{number}/{len(sources)}] "
-            f"Downloading EPG source..."
+        element = ET.SubElement(
+            root,
+            "channel",
+            {
+                "site": site,
+                "site_id": site_id,
+                "lang": "en",
+                "xmltv_id": xmltv_id
+            }
         )
 
-        try:
-            xml_data = download_xml(url)
+        element.text = (
+            guide.get("site_name")
+            or channel_id
+        )
 
-            root = ET.fromstring(xml_data)
-
-            successful_sources += 1
-
-        except Exception as e:
-
-            failed_sources += 1
-
-            print(
-                f"  Failed: "
-                f"{type(e).__name__}"
-            )
-
-            continue
-
-        # Add matching channel definitions.
-        for channel in root.findall(
-            "channel"
-        ):
-
-            channel_id = channel.get("id")
-
-            if (
-                channel_id in source_ids
-                and channel_id
-                not in added_channels
-            ):
-                output_root.append(channel)
-                added_channels.add(
-                    channel_id
-                )
-
-        # Add matching programmes.
-        for programme in root.findall(
-            "programme"
-        ):
-
-            channel_id = programme.get(
-                "channel"
-            )
-
-            if channel_id in source_ids:
-                output_root.append(
-                    programme
-                )
-
-                programme_count += 1
-
-    tree = ET.ElementTree(output_root)
+    tree = ET.ElementTree(root)
 
     ET.indent(
         tree,
@@ -228,39 +133,28 @@ def main():
     )
 
     tree.write(
-        OUTPUT_FILE,
+        OUTPUT,
         encoding="utf-8",
         xml_declaration=True
     )
 
     print()
     print("========================")
-    print("EPG COMPLETE")
+    print("EPG CHANNEL LIST COMPLETE")
     print("========================")
 
     print(
-        f"Sources successful: "
-        f"{successful_sources}"
+        f"EPG mappings written: "
+        f"{len(added)}"
     )
 
     print(
-        f"Sources failed: "
-        f"{failed_sources}"
+        f"Unique EPG sites: "
+        f"{len(sites)}"
     )
 
     print(
-        f"EPG channels written: "
-        f"{len(added_channels)}"
-    )
-
-    print(
-        f"Programmes written: "
-        f"{programme_count}"
-    )
-
-    print(
-        f"Output: "
-        f"{OUTPUT_FILE}"
+        f"Output: {OUTPUT}"
     )
 
 
