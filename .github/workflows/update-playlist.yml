@@ -30,10 +30,28 @@ jobs:
       - name: Build EPG channel list
         run: python generate_epg.py
 
+      - name: Clone IPTV-org EPG
+        run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git epg-grabber
+          cp channels.xml epg-grabber/channels.xml
+
+      - name: Install EPG dependencies
+        working-directory: epg-grabber
+        run: npm install
+
+      - name: Generate guide
+        working-directory: epg-grabber
+        run: |
+          npm run grab --- \
+            --channels=channels.xml \
+            --output=../guide.xml \
+            --days=2 \
+            --maxConnections=5
+
       - name: Commit updated playlist
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-                    git add playlist.m3u playlist-v2.m3u channels.xml stream-health.json dead-streams.txt
+           git add playlist.m3u playlist-v2.m3u channels.xml guide.xml stream-health.json dead-streams.txt
           git diff --cached --quiet || git commit -m "Update IPTV playlist"
           git push
