@@ -15,7 +15,6 @@ DAZN Combat | HTTP 404 | https://jmp2.uk/plu-648056f0f77b61000828f1ba.m3u8
 DAZN Combat | HTTP 404 | https://jmp2.uk/plu-64805755536e0c0008a19fa1.m3u8
 DAZN Combat | HTTP 404 | https://jmp2.uk/plu-64805922536e0c0008a1a1e6.m3u8
 DW English | HTTP 404 | https://cdn-7.pishow.tv/live/431/master.m3u8
-DW English | HTTP 404 | https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
 DanceTV EDM Mainstage | HTTP 404 | https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
 DanceTV Minimal Tech | HTTP 404 | https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 De unge mødre | HTTP 404 | https://jmp2.uk/plu-69172a4fcf4a1101befdd894.m3u8
@@ -52,7 +51,6 @@ Jamaica Travel Channel | HTTP 404 | https://stream-207076.castr.net/651b2d8bde81
 Kass TV | HTTP 404 | https://goliveafrica.media:9998/live/62f643cdca8cf/index.m3u8
 Kingsview TV | HTTP 404 | https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8
 Lakewood Channel 8 (Lakewood CO) | HTTP 404 | https://live8fd.lakewood.org/live-2/live/live.m3u8
-Le Monde en 24h | HTTP 404 | https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
 Lifetime | HTTP 404 | http://41.205.93.154/LIFETIME/index.m3u8
 Lifetime Movies | HTTP 404 | http://23.237.104.106:8080/USA_LMN/index.m3u8
 Littleton 8 TV (Littleton CO) | HTTP 404 | https://ch8.littletongov.org/live-2/live/live.m3u8
