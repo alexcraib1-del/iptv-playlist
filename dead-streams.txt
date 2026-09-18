@@ -1,5 +1,6 @@
 3 Stones TV | HTTP 404 | https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
 3ABN TV Uganda | HTTP 404 | https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8
+AMC | HTTP 404 | http://41.205.93.154/AMC/index.m3u8
 Adinkra TV | HTTP 404 | https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8
 Al Jazeera English | HTTP 404 | https://cdn-7.pishow.tv/live/429/master.m3u8
 BTL TV | HTTP 404 | https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
@@ -103,7 +104,6 @@ TBN+ | HTTP 404 | https://a-cdn.klowdtv.com/live3/tbn_720p/playlist.m3u8
 TV Maldives | HTTP 404 | https://lana.psm.mv/live/tvm.m3u8
 TV3 | HTTP 404 | https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8
 TVCARiB | HTTP 404 | https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
-TVS Television Network | HTTP 404 | https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8
 TVSA Public Channel | HTTP 404 | https://edge-f.swagit.com/live/sanantoniotx/live-2-a/playlist.m3u8
 Tanzania Safari Channel | HTTP 404 | https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
 The Bob Ross Channel | HTTP 404 | https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8
