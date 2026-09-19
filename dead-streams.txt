@@ -25,7 +25,6 @@ EBN TV | HTTP 404 | https://goliveafrica.media:9998/live/65d8475d1e6cb/index.m3u
 ESPNU | HTTP 404 | http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 Elevate TV | HTTP 404 | https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8
 Escambia County TV ECTV (Escambia County FL) | HTTP 404 | https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
-FILMBOX+ Action | HTTP 404 | https://polska.hach.workers.dev/14864.m3u8
 FX | HTTP 404 | http://23.237.104.106:8080/USA_FX/index.m3u8
 Fox Business Network | HTTP 404 | http://5.254.89.106/6187/index.m3u8
 Fox Business Network | HTTP 404 | https://tvsen6.aynaott.com/foxbusiness/index.m3u8
@@ -35,6 +34,7 @@ GTN TV | HTTP 404 | https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u
 Galaxy TV | HTTP 404 | https://stream.castr.com/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/index.fmp4.m3u8
 Giggle Mug | HTTP 404 | https://tvsen6.aynaott.com/ytv/index.m3u8
 H2 | HTTP 404 | http://213.91.179.28:8000/play/a03r
+HGPTV | HTTP 404 | https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8
 HLC TV | HTTP 404 | https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8
 Hallmark Channel | HTTP 404 | http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 Hard Knocks | HTTP 404 | https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
@@ -62,7 +62,6 @@ MS NOW | HTTP 404 | http://cdn.haititivi.com/MSNBC/index.m3u8
 MS NOW | HTTP 404 | https://tvsen6.aynaott.com/msnbc/index.m3u8
 MTV | HTTP 404 | https://tvsen6.aynaott.com/mtv/index.m3u8
 Magnificent Movies Network | HTTP 404 | https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
-Mahaasin TV | HTTP 404 | https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
 Mashariki TV | HTTP 404 | https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8
 Matlock | HTTP 404 | https://jmp2.uk/plu-6850426e53d981d1fdb0d966.m3u8
 More Grace TV | HTTP 404 | https://atechgroupuk.site/ETV.m3u8
@@ -74,12 +73,10 @@ NHK World-Japan | HTTP 404 | https://cdn-7.pishow.tv/live/455/master.m3u8
 National Geographic | HTTP 404 | http://213.91.179.28:8000/play/a0ct
 Nice TV Kenya | HTTP 404 | https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
 Njata TV | HTTP 404 | https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8
-OTV | HTTP 404 | https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8
 PGA Tour | HTTP 404 | https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
 PRIDEtv LATAM | HTTP 404 | https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 Palm Beach County TV Channel 20 (Palm Beach County FL) | HTTP 404 | https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8
 Pillar TV | HTTP 404 | https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8
-Pointe TV | HTTP 404 | https://tv.pointville.ag/hls/mystream.m3u8
 Premier Sports 1 | HTTP 410 | https://cdtest.global.ssl.fastly.net/1785070000~b023a98e129026ee64ab87ff37011c44/channel/n110/chunks.m3u8
 Quest TV | HTTP 404 | https://media2.streambrothers.com:19360/8028/8028.m3u8
 RTG int. | HTTP 404 | http://213.91.179.28:8000/play/a0bw
@@ -99,10 +96,8 @@ Summer of Movies | HTTP 404 | https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
 TBN | HTTP 404 | https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
 TBN Inspire | HTTP 404 | https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
 TBN+ | HTTP 404 | https://a-cdn.klowdtv.com/live3/tbn_720p/playlist.m3u8
-TV Maldives | HTTP 404 | https://lana.psm.mv/live/tvm.m3u8
 TV3 | HTTP 404 | https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8
 TVCARiB | HTTP 404 | https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
-TVSA Public Channel | HTTP 404 | https://edge-f.swagit.com/live/sanantoniotx/live-2-a/playlist.m3u8
 Tanzania Safari Channel | HTTP 404 | https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
 The Bob Ross Channel | HTTP 404 | https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8
 The Jamie Oliver Channel | HTTP 404 | https://aegis-cloudfront-1.tubi.video/28fb04b8-8d48-4c2a-833a-7f51059a405d/playlist.m3u8
