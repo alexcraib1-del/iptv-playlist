@@ -30,7 +30,6 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME" lang="en" xmltv_id="NDTVProfit.in@SD">NDTV Profit Prime</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS9" lang="en" xmltv_id="News9Live.in@SD">NEWS9</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NEWS18_ASSAM_NORTHSYMHYPEAST" lang="en" xmltv_id="News18AssamNorthEast.in@SD">News18 Assam North-East</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NICK_HDSYMPLUS" lang="en" xmltv_id="NickHDPlus.in@HD">NICK HD+</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NICK_JUNIOR" lang="en" xmltv_id="NickJr.in@SD">Nick Junior</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NORTH_EAST_LIVE" lang="en" xmltv_id="NortheastLive.in@HD">North East Live</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_REPUBLIC_TV" lang="en" xmltv_id="RepublicTV.in@SD">Republic Tv</channel>
@@ -784,7 +783,6 @@
   <channel site="sky.com" site_id="GB#3815" lang="en" xmltv_id="ChannelS.uk@SD">CHSTV</channel>
   <channel site="sky.com" site_id="GB#3111" lang="en" xmltv_id="EmanChannel.uk@SD">Eman Channel</channel>
   <channel site="sky.com" site_id="GB#4404" lang="en" xmltv_id="FaithWorldTV.uk@SD">Faith World TV</channel>
-  <channel site="sky.com" site_id="GB#5617" lang="en" xmltv_id="FoodNetwork.ie@SD">Food Network</channel>
   <channel site="sky.com" site_id="GB#3214" lang="en" xmltv_id="IslamChannel.uk@SD">Islam Channel</channel>
   <channel site="sky.com" site_id="GB#1228" lang="en" xmltv_id="LoveWorldUK.ng@SD">LoveWorld HD</channel>
   <channel site="sky.com" site_id="GB#4460" lang="en" xmltv_id="MadaniChannelEnglish.pk@SD">Madani Chnl</channel>
@@ -827,7 +825,6 @@
   <channel site="tvguide.com" site_id="9200006942" lang="en" xmltv_id="Freeform.us@East">Freeform</channel>
   <channel site="tvguide.com" site_id="9200006974" lang="en" xmltv_id="TeenNick.us@East">TeenNick</channel>
   <channel site="tvguide.com" site_id="9200006977" lang="en" xmltv_id="StarzKidsFamily.us@East">STARZ Kids &amp; Family</channel>
-  <channel site="tvguide.com" site_id="9200011769" lang="en" xmltv_id="Reelz.us@SD">Reelz</channel>
   <channel site="tvguide.com" site_id="9200011927" lang="en" xmltv_id="Telemundo.us@East">Telemundo</channel>
   <channel site="tvguide.com" site_id="9200012085" lang="en" xmltv_id="CMT.us@East">CMT</channel>
   <channel site="tvguide.com" site_id="9200012343" lang="en" xmltv_id="E.us@East">E!</channel>
