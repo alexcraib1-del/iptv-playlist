@@ -4,7 +4,6 @@ Adinkra TV | HTTP 404 | https://59d39900ebfb8.streamlock.net/adinkratvny/adinkra
 Al Jazeera English | HTTP 404 | https://cdn-7.pishow.tv/live/429/master.m3u8
 BTL TV | HTTP 404 | https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
 Burbank Channel | HTTP 404 | https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
-CGTN English | HTTP 404 | https://h5cul1yar48um3t.wcetv.com/hls/cgtn.m3u8
 CMTv Kenya | HTTP 404 | https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8
 CP24 | HTTP 404 | https://tvsen6.aynaott.com/cp24/index.m3u8
 Cinevault 80s | HTTP 404 | https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
@@ -49,12 +48,9 @@ Humor Mill | HTTP 404 | https://damkf751d85s1.cloudfront.net/v1/master/9d062541f
 ICTV | HTTP 404 | https://goliveafrica.media:9998/live/659a7f33bed3f/index.m3u8
 JCM TV | HTTP 404 | https://goliveafrica.media:9998/live/646c92d07b16c/index.m3u8
 Jamaica Travel Channel | HTTP 404 | https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8
-KTOO 360TV 3 (FNX) | HTTP 404 | https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
 Kass TV | HTTP 404 | https://goliveafrica.media:9998/live/62f643cdca8cf/index.m3u8
 Kingsview TV | HTTP 404 | https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8
 Lakewood Channel 8 (Lakewood CO) | HTTP 404 | https://live8fd.lakewood.org/live-2/live/live.m3u8
-Las Vegas Tonight with Dale Davidson | HTTP 404 | https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8
-Le Monde en 24h | HTTP 404 | https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
 Lifetime Movies | HTTP 404 | http://23.237.104.106:8080/USA_LMN/index.m3u8
 Littleton 8 TV (Littleton CO) | HTTP 404 | https://ch8.littletongov.org/live-2/live/live.m3u8
 Lolwe TV | HTTP 404 | https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8
@@ -64,9 +60,9 @@ MOF TV | HTTP 404 | https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u
 MS NOW | HTTP 404 | http://cdn.haititivi.com/MSNBC/index.m3u8
 MS NOW | HTTP 404 | https://tvsen6.aynaott.com/msnbc/index.m3u8
 MTV | HTTP 404 | https://tvsen6.aynaott.com/mtv/index.m3u8
+MTV Guyana | HTTP 404 | https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8
 Magnificent Movies Network | HTTP 404 | https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 Mashariki TV | HTTP 404 | https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8
-Matlock | HTTP 404 | https://jmp2.uk/plu-6850426e53d981d1fdb0d966.m3u8
 More Grace TV | HTTP 404 | https://atechgroupuk.site/ETV.m3u8
 Mwangaza TV | HTTP 404 | https://goliveafrica.media:9998/live/6516be24a6bac/index.m3u8
 NBC 8 Lima OH (WLIO-DT1) | HTTP 404 | https://live.field59.com/wlio/wlio1/playlist.m3u8
@@ -78,8 +74,8 @@ Nice TV Kenya | HTTP 404 | https://goliveafrica.media:9998/live/64ada04aa7678/in
 Njata TV | HTTP 404 | https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8
 PGA Tour | HTTP 404 | https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
 PRIDEtv LATAM | HTTP 404 | https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
-Palm Beach County TV Channel 20 (Palm Beach County FL) | HTTP 404 | https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8
 Pillar TV | HTTP 404 | https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8
+Plus TLT | HTTP 404 | http://15.204.246.24:8080/PlusTLTHD/index.m3u8
 Premier Sports 1 | HTTP 410 | https://cdtest.global.ssl.fastly.net/1785070000~b023a98e129026ee64ab87ff37011c44/channel/n110/chunks.m3u8
 Quest TV | HTTP 404 | https://media2.streambrothers.com:19360/8028/8028.m3u8
 RTG int. | HTTP 404 | http://213.91.179.28:8000/play/a0bw
@@ -122,4 +118,3 @@ WITN 22 (Wilmington DE) | HTTP 404 | https://witn.cablecast.tv/live-4/live/live.
 Willow | HTTP 404 | http://tvsen5.aynascope.net/willowhd/index.m3u8
 Willow | HTTP 404 | https://tvsen5.aynaott.com/willowhd/index.m3u8
 X 102.7 FM | HTTP 404 | https://stream.castr.com/65dee3aad6beacddbd6cd1af/live_21e811c0d60d11eeaa1a471c2c967e4a/index.m3u8
-ZNS-TV | HTTP 404 | https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8
