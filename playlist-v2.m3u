@@ -959,8 +959,6 @@ https://tvsen6.aynaott.com/bloombergtv/index.m3u8
 https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
 #EXTINF:-1 tvg-id="BMCHDTV.us" tvg-name="BMC-HD TV" group-title="United States" tvg-logo="https://i.imgur.com/c9LiTz0.png",BMC-HD TV
 https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Bobleponge.us" tvg-name="Bob l'éponge" group-title="United States" tvg-logo="https://i.imgur.com/ITwU1yZ.png",Bob l'éponge
-https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 #EXTINF:-1 tvg-id="bonappetit.us" tvg-name="bon appétit" group-title="United States" tvg-logo="https://i.imgur.com/YhFFxlE.png",bon appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Bonanza.us" tvg-name="Bonanza" group-title="United States" tvg-logo="https://images.pluto.tv/channels/696e647b07ea70192d49f6a5/colorLogoPNG_1768842647658.png",Bonanza
@@ -1464,22 +1462,6 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch1/video.m3u8
 https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CVTVChannel194.us" tvg-name="CVTV Channel 194" group-title="United States" tvg-logo="https://i.imgur.com/loGNYCc.png",CVTV Channel 194
 https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="CW.us" tvg-name="ABC 2 Portland OR (KATU)" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",ABC 2 Portland OR (KATU)
-https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="CW.us" tvg-name="NBC 3 Sacramento CA (KCRA)" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",NBC 3 Sacramento CA (KCRA)
-https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8
-#EXTINF:-1 tvg-id="CW.us" tvg-name="ABC 4 Seattle WA (KOMO)" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",ABC 4 Seattle WA (KOMO)
-https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="CW.us" tvg-name="ABC 13 Las Vegas NV (KTNV)" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",ABC 13 Las Vegas NV (KTNV)
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-#EXTINF:-1 tvg-id="CW.us" tvg-name="FOX 2 San Francisco CA (KTVU)" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",FOX 2 San Francisco CA (KTVU)
-https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
-#EXTINF:-1 tvg-id="CW.us" tvg-name="FOX 11 Green Bay WI (WLUK)" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",FOX 11 Green Bay WI (WLUK)
-https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="CW.us" tvg-name="PBS MPT Baltimore MD (WMPB)" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",PBS MPT Baltimore MD (WMPB)
-https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-id="CW.us" tvg-name="NBC 12 Winston-Salem NC (WXII)" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",NBC 12 Winston-Salem NC (WXII)
-https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8
 #EXTINF:-1 tvg-id="CypressChannel36.us" tvg-name="Cypress Public Access Channel 36 (Cypress CA)" group-title="United States" tvg-logo="https://i.imgur.com/vOvoHBC.png",Cypress Public Access Channel 36 (Cypress CA)
 https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="DangerTV.us" tvg-name="DangerTV" group-title="United States" tvg-logo="https://i.imgur.com/4aTk45R.png",DangerTV
@@ -5479,8 +5461,6 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cb
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies HD (1080p) (HEVC)" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",CBeebies HD (1080p) (HEVC)
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-name="CBeebies Asia India" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",CBeebies Asia India
-http://202.70.146.135:8000/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-id="CBNGospel.vg" tvg-name="CBN Gospel" group-title="Other English" tvg-logo="https://i.imgur.com/SHBAblV.png",CBN Gospel
 https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
 #EXTINF:-1 tvg-id="CBNTV.vg" tvg-name="CBN TV" group-title="Other English" tvg-logo="https://i.imgur.com/SHBAblV.png",CBN TV
@@ -5847,6 +5827,8 @@ http://stream.mcquack.net/440/index.m3u8
 https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW English" group-title="Other English" tvg-logo="https://i.imgur.com/8MRNFb9.png",DW English
 https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
+#EXTINF:-1 tvg-id="EACNewsTV.kh" tvg-name="EAC News TV" group-title="Other English" tvg-logo="https://i.imgur.com/EuYhS9Z.png",EAC News TV
+https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
 #EXTINF:-1 tvg-id="EbS.be" tvg-name="EBS" group-title="Other English" tvg-logo="https://i.imgur.com/DIIRPNN.png",EBS
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 #EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS E" group-title="Other English" tvg-logo="https://i.imgur.com/5wLJzb0.png",EBS E
@@ -6139,8 +6121,6 @@ https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8
 https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8
 #EXTINF:-1 tvg-id="GODTV.uk" tvg-name="GOD TV" group-title="Other English" tvg-logo="https://i.imgur.com/hW4g2oe.png",GOD TV
 https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8
-#EXTINF:-1 tvg-id="GoodNewsTV.in" tvg-name="GoodNews TV" group-title="Other English" tvg-logo="https://i.imgur.com/ZrvoGqS.png",GoodNews TV
-https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GraceNetwork.pk" tvg-name="Grace Network" group-title="Other English" tvg-logo="https://i.imgur.com/QSaZPJ4.png",Grace Network
 https://livecdn.live247stream.com/grace/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GreatCommissionTV.ke" tvg-name="Great Commission TV" group-title="Other English" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Great%20Commission%20TV.jpeg",Great Commission TV
@@ -6788,6 +6768,8 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12055/index.m3u8
 http://85.14.32.26:8800/udp/239.100.10.67:5000
 #EXTINF:-1 tvg-id="MTVGlobal.uk" tvg-name="MTV Global" group-title="Other English" tvg-logo="https://i.imgur.com/n2BoU7Q.png",MTV Global
 http://dvr2.kablova.tv/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTVGuyana.gy" tvg-name="MTV Guyana" group-title="Other English" tvg-logo="https://i.imgur.com/Ky70brA.png",MTV Guyana
+https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="MTVReality.se" tvg-name="MTV Reality" group-title="Other English" tvg-logo="https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png",MTV Reality
 https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8
 #EXTINF:-1 tvg-id="MTVReality.se" tvg-name="MTV Reality" group-title="Other English" tvg-logo="https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png",MTV Reality
@@ -7369,8 +7351,6 @@ https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
 https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
 #EXTINF:-1 tvg-id="QazaqstanInternational.kz" tvg-name="Qazaqstan International" group-title="Other English" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=",Qazaqstan International
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="QTVGambia.gm" tvg-name="QTV Gambia" group-title="Other English" tvg-logo="https://i.imgur.com/ZsTuADb.png",QTV Gambia
-https://player.qtv.gm/hls/live.stream.m3u8
 #EXTINF:-1 tvg-id="QuranTV.pk" tvg-name="Quran TV" group-title="Other English" tvg-logo="https://i.imgur.com/nc7X3Ux.png",Quran TV
 http://103.250.28.74:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="QVC.uk" tvg-name="QVC UK" group-title="Other English" tvg-logo="https://i.imgur.com/6TWUVrh.png",QVC UK
@@ -7669,6 +7649,8 @@ http://str2.iptvhd.ru:8080/SetantaEurasia/index.m3u8
 http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-id="SharjahSports.ae" tvg-name="Sharjah Sports" group-title="Other English" tvg-logo="https://i.imgur.com/CsEElsJ.png",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SheffieldLiveTV.uk" tvg-name="Sheffield Live TV" group-title="Other English" tvg-logo="https://i.imgur.com/p0QzCFs.png",Sheffield Live TV
+http://tv.sheffieldlive.org/hls/main.m3u8
 #EXTINF:-1 tvg-id="ShineStarTV.pk" tvg-name="Shine Star TV" group-title="Other English" tvg-logo="https://i.imgur.com/I3lTIeN.png",Shine Star TV
 https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8
 #EXTINF:-1 tvg-id="SilkWay.kz" tvg-name="Silk Way" group-title="Other English" tvg-logo="https://i.imgur.com/SJNDksF.png",Silk Way
@@ -8482,8 +8464,6 @@ https://newproxy3.vidivu.tv/waptv/index.m3u8
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="WazobiaMaxTVNigeria.ng" tvg-name="Wazobia Max TV Nigeria" group-title="Other English" tvg-logo="https://i.imgur.com/IeioxBp.png",Wazobia Max TV Nigeria
 https://wazobia.live:8333/channel/wmax.m3u8
-#EXTINF:-1 tvg-id="WazobiaMaxTVPortHarcourt.ng" tvg-name="Wazobia Max TV Port Harcourt" group-title="Other English" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png",Wazobia Max TV Port Harcourt
-https://wazobia.live:8333/channel/wmaxph.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.au" tvg-name="WeatherSpy" group-title="Other English" tvg-logo="https://i.imgur.com/GTxN2nH.png",WeatherSpy
 https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WedoBigStories.ch" tvg-name="Wedo Big Stories" group-title="Other English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/49cf6309-0a4a-4d39-bdcc-fa48e4ef84a7/WEDOBIGSTORIES_LIGHTTHEME_-_Sorin_Stoian.png",Wedo Big Stories

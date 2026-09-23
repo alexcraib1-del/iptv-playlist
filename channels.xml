@@ -17,7 +17,6 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ET_NOW" lang="en" xmltv_id="ETNow.in@SD">ET NOW</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ETV_BAL_BHARAT" lang="en" xmltv_id="ETVBalBharat.in@SD">ETV Bal Bharat</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_FRANCE_24" lang="en" xmltv_id="France24.fr@English">France 24</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOODNEWS_TV" lang="en" xmltv_id="GoodNewsTV.in">Goodnews TV</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_HISTORY_TV18_HD" lang="en" xmltv_id="HistoryTV18.in@HD">History TV18 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_HORNBILL" lang="en" xmltv_id="HornbillTV.in@SD">HORNBILL</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_AHEAD" lang="en" xmltv_id="IndiaAhead.in@SD">INDIA AHEAD</channel>
@@ -707,7 +706,6 @@
   <channel site="melita.com" site_id="e9aa65aa-50b3-4045-abb7-edd2c876d593" lang="en" xmltv_id="MTVGlobal.uk@SD">MTV</channel>
   <channel site="melita.com" site_id="ea43081b-08a5-41e8-ba9a-3f22e4c0535a" lang="en" xmltv_id="JimJamEurope.uk@SD">JimJam</channel>
   <channel site="melita.com" site_id="f47884ed-751b-4656-99a7-26dc294476de" lang="en" xmltv_id="StingrayiConcerts.ca@SD">iConcerts HD</channel>
-  <channel site="mewatch.sg" site_id="569516" lang="en" xmltv_id="CBeebiesAsia.uk@SD">CBeebies HD</channel>
   <channel site="mewatch.sg" site_id="97129" lang="en" xmltv_id="ChannelU.sg@SD">Channel U</channel>
   <channel site="mewatch.sg" site_id="382872" lang="en" xmltv_id="CinemaWorld.my@SD">CinemaWorld</channel>
   <channel site="mewatch.sg" site_id="97073" lang="en" xmltv_id="meWATCHLIVE1.sg@SD">LIVE 1</channel>
@@ -886,7 +884,6 @@
   <channel site="tvtv.us" site_id="49097" lang="en" xmltv_id="NRBTV.us@SD">NRBTV</channel>
   <channel site="tvtv.us" site_id="50270" lang="en" xmltv_id="MBCAmerica.us@SD">MBC America</channel>
   <channel site="tvtv.us" site_id="50338" lang="en" xmltv_id="BabyFirst.us@US">BabyFirst TV</channel>
-  <channel site="tvtv.us" site_id="51306" lang="en" xmltv_id="CW.us@East">CW East</channel>
   <channel site="tvtv.us" site_id="58595" lang="en" xmltv_id="LivingFaithTV.us@SD">Living Faith TV</channel>
   <channel site="tvtv.us" site_id="58698" lang="en" xmltv_id="MegaTV.us@SD">Mega TV</channel>
   <channel site="tvtv.us" site_id="60111" lang="en" xmltv_id="PursuitChannel.us@SD">Pursuit Channel</channel>
