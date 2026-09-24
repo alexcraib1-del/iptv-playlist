@@ -292,7 +292,6 @@
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-64e405b42b16ff56feb98444" lang="en" xmltv_id="GhostHunters.us@UK">Ghost Hunters Channel</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-63f914bffe2c3d32e1a7929f" lang="en" xmltv_id="GloryKickboxing.us@UK">GLORY Kickboxing</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2" lang="en" xmltv_id="GoTraveler.us@SD">GoTraveler</channel>
-  <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-60a9d105d162b9002d05a60c" lang="en" xmltv_id="GoUSATV.us@SD">GoUSA TV</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5efe1de7e0b3f5003f5d9f8e" lang="en" xmltv_id="GravitasMovies.us@SD">Gravitas Movies</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" lang="en" xmltv_id="GritXtra.us@SD">Grit Xtra</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-63489a771159f6a5ce819b7b" lang="en" xmltv_id="GrjngoWesternMovies.de@SD">Grjngo - Western Movies</channel>
@@ -743,6 +742,7 @@
   <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" xmltv_id="ShowtimeFamilyZone.us@East">Showtime FamilyZone (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69047892/starz-cinema-east" lang="en" xmltv_id="StarzCinema.us@East">STARZ Cinema (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69023898/starz-comedy-east" lang="en" xmltv_id="StarzComedy.us@East">Starz Comedy (East)</channel>
+  <channel site="ontvtonight.com" site_id="us#69023464/starz-edge-east" lang="en" xmltv_id="StarzEdge.us@East">Starz Edge (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69040329/starz-encore-espanol" lang="en" xmltv_id="StarzEncoreSpanish.us@East">STARZ ENCORE Español</channel>
   <channel site="ontvtonight.com" site_id="us#371340530/unimas-east" lang="en" xmltv_id="UniMas.us@East">UniMás (East)</channel>
   <channel site="osn.com" site_id="212" lang="en" xmltv_id="CrimePlusInvestigation.us@SD">C &amp; I</channel>
@@ -795,6 +795,7 @@
   <channel site="teliatv.ee" site_id="en#230" lang="en" xmltv_id="ViasatExplore.se@SD">Viasat Explore</channel>
   <channel site="teliatv.ee" site_id="en#231" lang="en" xmltv_id="ViasatHistory.se@SD">Viasat History</channel>
   <channel site="teliatv.ee" site_id="en#716" lang="en" xmltv_id="ViasatNature.se@SD">Viasat Nature</channel>
+  <channel site="teliatv.ee" site_id="en#1301" lang="en" xmltv_id="NicktoonsScandinavia.nl@SD">nicktoons</channel>
   <channel site="toonamiaftermath.com" site_id="Toonami Aftermath EST" lang="en" xmltv_id="ToonamiAftermath.us@East">Toonami Aftermath East</channel>
   <channel site="tv.blue.ch" site_id="85" lang="en" xmltv_id="BBCThreeCBBC.uk@HD">BBC Three / CBBC</channel>
   <channel site="tv.blue.ch" site_id="366" lang="en" xmltv_id="RTRPlaneta.ru@Europe">RTR Planeta</channel>
