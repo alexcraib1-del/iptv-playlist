@@ -878,6 +878,7 @@
   <channel site="tvtv.us" site_id="25148" lang="en" xmltv_id="RFDTV.us@SD">RFD-TV</channel>
   <channel site="tvtv.us" site_id="26643" lang="en" xmltv_id="GemShoppingNetwork.us@SD">Gem Shopping Network</channel>
   <channel site="tvtv.us" site_id="27512" lang="en" xmltv_id="News12Conneticut.us@SD">News12 Conneticut</channel>
+  <channel site="tvtv.us" site_id="34394" lang="en" xmltv_id="TeleHit.mx@SD">TeleHit</channel>
   <channel site="tvtv.us" site_id="44895" lang="en" xmltv_id="AWE.us@SD">AWE</channel>
   <channel site="tvtv.us" site_id="46292" lang="en" xmltv_id="News12Brooklyn.us@SD">News12 Brooklyn</channel>
   <channel site="tvtv.us" site_id="46640" lang="en" xmltv_id="News12HudsonValley.us@SD">News12 Hudson Valley</channel>
@@ -887,7 +888,6 @@
   <channel site="tvtv.us" site_id="50338" lang="en" xmltv_id="BabyFirst.us@US">BabyFirst TV</channel>
   <channel site="tvtv.us" site_id="58595" lang="en" xmltv_id="LivingFaithTV.us@SD">Living Faith TV</channel>
   <channel site="tvtv.us" site_id="58698" lang="en" xmltv_id="MegaTV.us@SD">Mega TV</channel>
-  <channel site="tvtv.us" site_id="60111" lang="en" xmltv_id="PursuitChannel.us@SD">Pursuit Channel</channel>
   <channel site="tvtv.us" site_id="62900" lang="en" xmltv_id="CatholicFaithNetwork.us@SD">Catholic Faith Network</channel>
   <channel site="tvtv.us" site_id="67676" lang="en" xmltv_id="SBNTV.us@SD">SonLife Broadcasting Network</channel>
   <channel site="tvtv.us" site_id="68605" lang="en" xmltv_id="Willow.us@SD">Willow</channel>

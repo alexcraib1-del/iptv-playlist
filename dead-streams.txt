@@ -2,7 +2,6 @@
 3ABN TV Uganda | HTTP 404 | https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8
 Adinkra TV | HTTP 404 | https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8
 Al Jazeera English | HTTP 404 | https://cdn-7.pishow.tv/live/429/master.m3u8
-Atlanta's 57 WATC TOO 57.2 | HTTP 404 | https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 BTL TV | HTTP 404 | https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
 Burbank Channel | HTTP 404 | https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
 CMTv Kenya | HTTP 404 | https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8
@@ -77,6 +76,7 @@ PRIDEtv LATAM | HTTP 404 | https://backend.energeek.cl/webtv/pridetvweb/index.m3
 Pillar TV | HTTP 404 | https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8
 Plus TLT | HTTP 404 | http://15.204.246.24:8080/PlusTLTHD/index.m3u8
 Premier Sports 1 | HTTP 410 | https://cdtest.global.ssl.fastly.net/1785070000~b023a98e129026ee64ab87ff37011c44/channel/n110/chunks.m3u8
+Pursuit Channel | HTTP 404 | https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8
 Quest TV | HTTP 404 | https://media2.streambrothers.com:19360/8028/8028.m3u8
 RTG int. | HTTP 404 | http://213.91.179.28:8000/play/a0bw
 Raia TV | HTTP 404 | https://goliveafrica.media:9998/live/64873b6222c93/index.m3u8
