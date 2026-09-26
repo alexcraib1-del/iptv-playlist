@@ -64,6 +64,7 @@ Magnificent Movies Network | HTTP 404 | https://mmn1-301f.kxcdn.com/hls/MMN-HLS.
 Mashariki TV | HTTP 404 | https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8
 More Grace TV | HTTP 404 | https://atechgroupuk.site/ETV.m3u8
 Mwangaza TV | HTTP 404 | https://goliveafrica.media:9998/live/6516be24a6bac/index.m3u8
+NBA TV | HTTP 404 | https://cdn1.ayitistream.com/NBATV/index.m3u8
 NBC 8 Lima OH (WLIO-DT1) | HTTP 404 | https://live.field59.com/wlio/wlio1/playlist.m3u8
 NFL Network | HTTP 404 | http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 NFL Network | HTTP 404 | https://tvsen6.aynaott.com/nfl/index.m3u8
@@ -87,6 +88,7 @@ Salt TV | HTTP 404 | https://live.salttelevision.com/app/stream/abr.m3u8
 Sayare TV | HTTP 404 | https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8
 Scorpion | HTTP 404 | https://jmp2.uk/plu-63d000ef4e83e700086e0d6c.m3u8
 Sky Nature | HTTP 404 | https://tvsen6.aynaott.com/skynature/index.m3u8
+Sky News Weather | HTTP 404 | https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 Star Channel | HTTP 404 | http://213.91.179.28:8000/play/a0c9
 Stockton GovTV (Stockton CA) | HTTP 404 | https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
 Summer of Movies | HTTP 404 | https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
