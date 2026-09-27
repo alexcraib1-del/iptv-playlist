@@ -153,7 +153,6 @@
   <channel site="entertainment.ie" site_id="pick" lang="en" xmltv_id="SkyMix.uk@SD">Pick</channel>
   <channel site="entertainment.ie" site_id="premier-sports-1" lang="en" xmltv_id="PremierSports1.ie@SD">Premier Sports 1</channel>
   <channel site="entertainment.ie" site_id="premier-sports-2" lang="en" xmltv_id="PremierSports2.ie@SD">Premier Sports 2</channel>
-  <channel site="entertainment.ie" site_id="sky-sports-cricket" lang="en" xmltv_id="SkySportsCricket.uk@SD">Sky Sports Cricket</channel>
   <channel site="entertainment.ie" site_id="tg4" lang="en" xmltv_id="TG4.ie@SD">TG4</channel>
   <channel site="foxtel.com.au" site_id="EXPO/EXP" lang="en" xmltv_id="ExpoChannel.au@SD">EXPO</channel>
   <channel site="foxtel.com.au" site_id="FOX-News/FNC" lang="en" xmltv_id="FoxNewsChannel.us@SD">FOX News</channel>
@@ -786,6 +785,7 @@
   <channel site="starhubtvplus.com" site_id="173fc873-1c01-4782-b0ee-f322fe23ef33" lang="en" xmltv_id="CNBC.us@SD">CNBC HD</channel>
   <channel site="starhubtvplus.com" site_id="a253b74a-ab9d-4545-9cdd-d81e2d9a056d" lang="en" xmltv_id="FashionTVAsia.fr@SD">FashionTV HD</channel>
   <channel site="taiwanplus.com" site_id="#" lang="en" xmltv_id="TaiwanPlusTV.tw@SD">TaiwanPlus TV</channel>
+  <channel site="tapdmv.com" site_id="3ceaf9fa-5f4e-4263-ad6b-925061275d24" lang="en" xmltv_id="PremierFootball.ph@SD">premierfootball</channel>
   <channel site="tapdmv.com" site_id="24249e64-374c-4c32-bc02-1bfa953fa5ea" lang="en" xmltv_id="PremierSports.ph@SD">premiersports1</channel>
   <channel site="tapdmv.com" site_id="c8997290-0446-455e-9b55-ca3c749786b6" lang="en" xmltv_id="PremierSports2.ph@SD">premiersports2</channel>
   <channel site="tataplay.com" site_id="1487" lang="en" xmltv_id="NewsXWorld.in@HD">NewsX World</channel>
