@@ -24,7 +24,6 @@ EBN TV | HTTP 404 | https://goliveafrica.media:9998/live/65d8475d1e6cb/index.m3u
 ESPNU | HTTP 404 | http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 Elevate TV | HTTP 404 | https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8
 Escambia County TV ECTV (Escambia County FL) | HTTP 404 | https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
-FX | HTTP 404 | http://23.237.104.106:8080/USA_FX/index.m3u8
 Fox Business Network | HTTP 404 | http://5.254.89.106/6187/index.m3u8
 Fox Business Network | HTTP 404 | https://tvsen6.aynaott.com/foxbusiness/index.m3u8
 GBS TV | HTTP 404 | https://goliveafrica.media:9998/live/647460ac1ddd6/index.m3u8
@@ -38,7 +37,6 @@ HGPTV | HTTP 404 | https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.ne
 HLC TV | HTTP 404 | https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8
 Hallmark Channel | HTTP 404 | http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 Hard Knocks | HTTP 404 | https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
-Harvest USA | HTTP 404 | https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
 Heaven Bound TV | HTTP 404 | https://goliveafrica.media:9998/live/62580b337c021/index.m3u8
 His Grace TV | HTTP 404 | https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8
 Homicide Hunter | HTTP 404 | https://jmp2.uk/plu-60e452730e76f20007598de8.m3u8
@@ -59,14 +57,11 @@ Lolwe TV | HTTP 404 | https://goliveafrica.media:9998/live/62580e144eb43/index.m
 Lotus TV | HTTP 404 | https://play-sh.quklive.com/live/1780907795235397.m3u8
 MIS Televizija | HTTP 404 | https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
 MOF TV | HTTP 404 | https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8
-MS NOW | HTTP 404 | http://cdn.haititivi.com/MSNBC/index.m3u8
-MS NOW | HTTP 404 | https://tvsen6.aynaott.com/msnbc/index.m3u8
-MTV | HTTP 404 | https://tvsen6.aynaott.com/mtv/index.m3u8
 Magnificent Movies Network | HTTP 404 | https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+Mahaasin TV | HTTP 404 | https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
 Mashariki TV | HTTP 404 | https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8
 More Grace TV | HTTP 404 | https://atechgroupuk.site/ETV.m3u8
 Mwangaza TV | HTTP 404 | https://goliveafrica.media:9998/live/6516be24a6bac/index.m3u8
-NBA TV | HTTP 404 | https://cdn1.ayitistream.com/NBATV/index.m3u8
 NBC 8 Lima OH (WLIO-DT1) | HTTP 404 | https://live.field59.com/wlio/wlio1/playlist.m3u8
 NFL Network | HTTP 404 | http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 NFL Network | HTTP 404 | https://tvsen6.aynaott.com/nfl/index.m3u8
@@ -75,7 +70,7 @@ National Geographic | HTTP 404 | http://213.91.179.28:8000/play/a0ct
 Nice TV Kenya | HTTP 404 | https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
 Njata TV | HTTP 404 | https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8
 PGA Tour | HTTP 404 | https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
-PRIDEtv LATAM | HTTP 404 | https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
+Pasco TV (Pasco County FL) | HTTP 404 | https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8
 Pillar TV | HTTP 404 | https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8
 Plus TLT | HTTP 404 | http://15.204.246.24:8080/PlusTLTHD/index.m3u8
 Premier Sports 1 | HTTP 410 | https://cdtest.global.ssl.fastly.net/1785070000~b023a98e129026ee64ab87ff37011c44/channel/n110/chunks.m3u8
@@ -117,6 +112,7 @@ VICE | HTTP 404 | https://aegis-cloudfront-1.tubi.video/afa9e2ab-abda-47c0-9fd5-
 Viasat Kino | HTTP 404 | http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
 Viasat Kino Action | HTTP 404 | http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
 WITN 22 (Wilmington DE) | HTTP 404 | https://witn.cablecast.tv/live-4/live/live.m3u8
+Wazobia Max TV Port Harcourt | HTTP 404 | https://wazobia.live:8333/channel/wmaxph.m3u8
 Willow | HTTP 404 | http://tvsen5.aynascope.net/willowhd/index.m3u8
 Willow | HTTP 404 | https://tvsen5.aynaott.com/willowhd/index.m3u8
 X 102.7 FM | HTTP 404 | https://stream.castr.com/65dee3aad6beacddbd6cd1af/live_21e811c0d60d11eeaa1a471c2c967e4a/index.m3u8

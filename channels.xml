@@ -207,7 +207,6 @@
   <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-c44" lang="en" xmltv_id="Channel44.au@SD">Channel 44</channel>
   <channel site="i.mjh.nz" site_id="Flash/epg#ausbiz" lang="en" xmltv_id="AusbizTV.au@SD">Ausbiz</channel>
   <channel site="i.mjh.nz" site_id="Flash/epg#i24-news" lang="en" xmltv_id="i24NEWSEnglishWorld.il@SD">i24 News</channel>
-  <channel site="i.mjh.nz" site_id="Flash/epg#msnbc" lang="en" xmltv_id="MSNOW.us@SD">MSNBC</channel>
   <channel site="i.mjh.nz" site_id="Flash/epg#nbc-news-now" lang="en" xmltv_id="NBCNewsNOW.us@SD">NBC News Now</channel>
   <channel site="i.mjh.nz" site_id="Flash/epg#quicktake" lang="en" xmltv_id="BloombergOriginals.us@SD">Bloomberg Originals</channel>
   <channel site="i.mjh.nz" site_id="Flash/epg#ticker-news" lang="en" xmltv_id="tickerNews.au@SD">Ticker News</channel>
@@ -807,10 +806,7 @@
   <channel site="tvguide.com" site_id="9200004852" lang="en" xmltv_id="DisneyXD.us@East">Disney XD</channel>
   <channel site="tvguide.com" site_id="9200004889" lang="en" xmltv_id="AE.us@East">A&amp;E</channel>
   <channel site="tvguide.com" site_id="9200004949" lang="en" xmltv_id="Oxygen.us@East">Oxygen</channel>
-  <channel site="tvguide.com" site_id="9200006932" lang="en" xmltv_id="FX.us@East">FX</channel>
   <channel site="tvguide.com" site_id="9200006939" lang="en" xmltv_id="Nickelodeon.us@East">Nickelodeon</channel>
-  <channel site="tvguide.com" site_id="9200006942" lang="en" xmltv_id="Freeform.us@East">Freeform</channel>
-  <channel site="tvguide.com" site_id="9200006974" lang="en" xmltv_id="TeenNick.us@East">TeenNick</channel>
   <channel site="tvguide.com" site_id="9200006977" lang="en" xmltv_id="StarzKidsFamily.us@East">STARZ Kids &amp; Family</channel>
   <channel site="tvguide.com" site_id="9200011927" lang="en" xmltv_id="Telemundo.us@East">Telemundo</channel>
   <channel site="tvguide.com" site_id="9200012085" lang="en" xmltv_id="CMT.us@East">CMT</channel>
@@ -822,7 +818,6 @@
   <channel site="tvguide.com" site_id="9200018475" lang="en" xmltv_id="DisneyChannel.us@East">Disney</channel>
   <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us@East">CBS National</channel>
   <channel site="tvguide.com" site_id="9200019858" lang="en" xmltv_id="GameShowNetwork.us@East">Game Show Network</channel>
-  <channel site="tvguide.com" site_id="9200020452" lang="en" xmltv_id="Lifetime.us@East">Lifetime</channel>
   <channel site="tvguide.com" site_id="9200020469" lang="en" xmltv_id="Nicktoons.us@East">Nicktoons</channel>
   <channel site="tvguide.com" site_id="9233000037" lang="en" xmltv_id="VH1.us@East">VH1</channel>
   <channel site="tvguide.com" site_id="9233001847" lang="en" xmltv_id="MNT.us@East">MyNetworkTV National</channel>
