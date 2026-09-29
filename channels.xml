@@ -739,7 +739,6 @@
   <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" xmltv_id="ShowtimeFamilyZone.us@East">Showtime FamilyZone (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69047892/starz-cinema-east" lang="en" xmltv_id="StarzCinema.us@East">STARZ Cinema (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69023898/starz-comedy-east" lang="en" xmltv_id="StarzComedy.us@East">Starz Comedy (East)</channel>
-  <channel site="ontvtonight.com" site_id="us#69023464/starz-edge-east" lang="en" xmltv_id="StarzEdge.us@East">Starz Edge (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69040329/starz-encore-espanol" lang="en" xmltv_id="StarzEncoreSpanish.us@East">STARZ ENCORE Español</channel>
   <channel site="ontvtonight.com" site_id="us#371340530/unimas-east" lang="en" xmltv_id="UniMas.us@East">UniMás (East)</channel>
   <channel site="osn.com" site_id="212" lang="en" xmltv_id="CrimePlusInvestigation.us@SD">C &amp; I</channel>
@@ -813,17 +812,14 @@
   <channel site="tvguide.com" site_id="9200012343" lang="en" xmltv_id="E.us@East">E!</channel>
   <channel site="tvguide.com" site_id="9200014754" lang="en" xmltv_id="MTV.us@East">MTV</channel>
   <channel site="tvguide.com" site_id="9200016034" lang="en" xmltv_id="HallmarkChannel.us@East">Hallmark</channel>
-  <channel site="tvguide.com" site_id="9200016599" lang="en" xmltv_id="Showtime.us@East">Paramount+ with Showtime</channel>
   <channel site="tvguide.com" site_id="9200018188" lang="en" xmltv_id="WeTV.us@East">WE tv</channel>
   <channel site="tvguide.com" site_id="9200018475" lang="en" xmltv_id="DisneyChannel.us@East">Disney</channel>
   <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us@East">CBS National</channel>
   <channel site="tvguide.com" site_id="9200019858" lang="en" xmltv_id="GameShowNetwork.us@East">Game Show Network</channel>
   <channel site="tvguide.com" site_id="9200020469" lang="en" xmltv_id="Nicktoons.us@East">Nicktoons</channel>
-  <channel site="tvguide.com" site_id="9233000037" lang="en" xmltv_id="VH1.us@East">VH1</channel>
   <channel site="tvguide.com" site_id="9233001847" lang="en" xmltv_id="MNT.us@East">MyNetworkTV National</channel>
   <channel site="tvguide.com" site_id="9233002271" lang="en" xmltv_id="Fox.us@East">FOX</channel>
   <channel site="tvguide.com" site_id="9233002310" lang="en" xmltv_id="NationalGeographic.us@East">National Geographic</channel>
-  <channel site="tvguide.com" site_id="9233004106" lang="en" xmltv_id="USANetwork.us@East">USA</channel>
   <channel site="tvguide.com" site_id="9233004141" lang="en" xmltv_id="PBS.us@East">PBS HD</channel>
   <channel site="tvguide.com" site_id="9233007153" lang="en" xmltv_id="NickJr.us@East">Nick Jr.</channel>
   <channel site="tvguide.com" site_id="9233008002" lang="en" xmltv_id="History.us@East">History</channel>
@@ -832,7 +828,6 @@
   <channel site="tvguide.com" site_id="9233009788" lang="en" xmltv_id="DisneyJunior.us@East">Disney Junior</channel>
   <channel site="tvguide.com" site_id="9233009876" lang="en" xmltv_id="NBC.us@East">NBC National</channel>
   <channel site="tvguide.com" site_id="9233011488" lang="en" xmltv_id="Fuse.us@East">Fuse HD</channel>
-  <channel site="tvguide.com" site_id="9233013810" lang="en" xmltv_id="ParamountNetwork.us@East">Paramount Network</channel>
   <channel site="tvhebdo.com" site_id="cpae/CPAE" lang="en" xmltv_id="CPACEnglish.ca@SD">CPAC English</channel>
   <channel site="tvpassport.com" site_id="three-angels-broadcasting-network/19066" lang="en" xmltv_id="3ABNEnglish.us@SD">Three Angels Broadcasting Network</channel>
   <channel site="tvpassport.com" site_id="amp2/13283" lang="en" xmltv_id="AMP2.us@SD">AMP2</channel>
@@ -882,6 +877,7 @@
   <channel site="tvtv.us" site_id="50338" lang="en" xmltv_id="BabyFirst.us@US">BabyFirst TV</channel>
   <channel site="tvtv.us" site_id="58595" lang="en" xmltv_id="LivingFaithTV.us@SD">Living Faith TV</channel>
   <channel site="tvtv.us" site_id="58698" lang="en" xmltv_id="MegaTV.us@SD">Mega TV</channel>
+  <channel site="tvtv.us" site_id="60111" lang="en" xmltv_id="PursuitChannel.us@SD">Pursuit Channel</channel>
   <channel site="tvtv.us" site_id="62900" lang="en" xmltv_id="CatholicFaithNetwork.us@SD">Catholic Faith Network</channel>
   <channel site="tvtv.us" site_id="67676" lang="en" xmltv_id="SBNTV.us@SD">SonLife Broadcasting Network</channel>
   <channel site="tvtv.us" site_id="68605" lang="en" xmltv_id="Willow.us@SD">Willow</channel>
