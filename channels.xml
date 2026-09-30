@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <channels>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ABP_NEWS" lang="en" xmltv_id="ABPNews.in@SD">ABP News</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD" lang="en" xmltv_id="Unite8Sports2.in@HD">Unite8 Sports 2 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_BBC_NEWS" lang="en" xmltv_id="BBCNews.uk@SouthAsia">BBC News</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS" lang="en" xmltv_id="BharatExpress.in@SD">Bharat Express</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CBEEBIES" lang="en" xmltv_id="CBeebies.uk@SD">CBeebies</channel>
@@ -17,6 +16,7 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ET_NOW" lang="en" xmltv_id="ETNow.in@SD">ET NOW</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ETV_BAL_BHARAT" lang="en" xmltv_id="ETVBalBharat.in@SD">ETV Bal Bharat</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_FRANCE_24" lang="en" xmltv_id="France24.fr@English">France 24</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOODNEWS_TV" lang="en" xmltv_id="GoodNewsTV.in">Goodnews TV</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_HISTORY_TV18_HD" lang="en" xmltv_id="HistoryTV18.in@HD">History TV18 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_HORNBILL" lang="en" xmltv_id="HornbillTV.in@SD">HORNBILL</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_AHEAD" lang="en" xmltv_id="IndiaAhead.in@SD">INDIA AHEAD</channel>
