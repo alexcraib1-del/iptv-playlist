@@ -51,7 +51,6 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD" lang="en" xmltv_id="StarSports1.in@HD">Star Sports 1 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD" lang="en" xmltv_id="StarSports2.in@HD">Star Sports 2 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL" lang="en" xmltv_id="StarSportsKhel.in@SD">STAR SPORTS KHEL</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD" lang="en" xmltv_id="StarSportsSelect2.in@HD">Star Sports Select 2 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VIJAY_HD" lang="en" xmltv_id="StarVijay.in@HD">Star Vijay HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA" lang="en" xmltv_id="SuperHungama.in@SD">Super Hungama</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TIMES_NOW" lang="en" xmltv_id="TimesNow.in@SD">TIMES NOW</channel>
@@ -175,6 +174,7 @@
   <channel site="freeview.co.uk" site_id="64257#14388" lang="en" xmltv_id="Blaze.uk@Plus1">Blaze+1</channel>
   <channel site="freeview.co.uk" site_id="64257#27360" lang="en" xmltv_id="GBNews.uk@SD">GB News</channel>
   <channel site="freeview.co.uk" site_id="64257#27840" lang="en" xmltv_id="HobbyMaker.uk@SD">HobbyMaker</channel>
+  <channel site="freeview.co.uk" site_id="64304#8257" lang="en" xmltv_id="ITV1.uk@Anglia">ITV1</channel>
   <channel site="freeview.co.uk" site_id="64257#16200" lang="en" xmltv_id="KetchupTV.us@SD">Ketchup TV</channel>
   <channel site="freeview.co.uk" site_id="64275#32839" lang="en" xmltv_id="LatestTV.uk@SD">Latest TV</channel>
   <channel site="freeview.co.uk" site_id="64257#13144" lang="en" xmltv_id="MBC.uk@HD">MBC</channel>
@@ -743,7 +743,6 @@
   <channel site="ontvtonight.com" site_id="us#69030398/big-ten-network-national" lang="en" xmltv_id="BigTenNetwork.us@SD">Big Ten Network (National)</channel>
   <channel site="ontvtonight.com" site_id="us#69043286/bounce-tv" lang="en" xmltv_id="Bounce.us@SD">Bounce TV</channel>
   <channel site="ontvtonight.com" site_id="us#1922365932/comet-tv" lang="en" xmltv_id="Comet.us@SD">Comet TV</channel>
-  <channel site="ontvtonight.com" site_id="us#69031480/espn-news-hdtv" lang="en" xmltv_id="ESPNews.us@SD">ESPN News HDTV</channel>
   <channel site="ontvtonight.com" site_id="us#69026524/espnu" lang="en" xmltv_id="ESPNU.us@SD">ESPNU</channel>
   <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" xmltv_id="ShowtimeFamilyZone.us@East">Showtime FamilyZone (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69047892/starz-cinema-east" lang="en" xmltv_id="StarzCinema.us@East">STARZ Cinema (East)</channel>
@@ -823,6 +822,7 @@
   <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us@East">CBS National</channel>
   <channel site="tvguide.com" site_id="9200019858" lang="en" xmltv_id="GameShowNetwork.us@East">Game Show Network</channel>
   <channel site="tvguide.com" site_id="9200020469" lang="en" xmltv_id="Nicktoons.us@East">Nicktoons</channel>
+  <channel site="tvguide.com" site_id="9233000037" lang="en" xmltv_id="VH1.us@East">VH1</channel>
   <channel site="tvguide.com" site_id="9233001847" lang="en" xmltv_id="MNT.us@East">MyNetworkTV National</channel>
   <channel site="tvguide.com" site_id="9233002271" lang="en" xmltv_id="Fox.us@East">FOX</channel>
   <channel site="tvguide.com" site_id="9233002310" lang="en" xmltv_id="NationalGeographic.us@East">National Geographic</channel>
@@ -834,6 +834,7 @@
   <channel site="tvguide.com" site_id="9233009788" lang="en" xmltv_id="DisneyJunior.us@East">Disney Junior</channel>
   <channel site="tvguide.com" site_id="9233009876" lang="en" xmltv_id="NBC.us@East">NBC National</channel>
   <channel site="tvguide.com" site_id="9233011488" lang="en" xmltv_id="Fuse.us@East">Fuse HD</channel>
+  <channel site="tvguide.com" site_id="9233013810" lang="en" xmltv_id="ParamountNetwork.us@East">Paramount Network</channel>
   <channel site="tvhebdo.com" site_id="cpae/CPAE" lang="en" xmltv_id="CPACEnglish.ca@SD">CPAC English</channel>
   <channel site="tvpassport.com" site_id="three-angels-broadcasting-network/19066" lang="en" xmltv_id="3ABNEnglish.us@SD">Three Angels Broadcasting Network</channel>
   <channel site="tvpassport.com" site_id="amp2/13283" lang="en" xmltv_id="AMP2.us@SD">AMP2</channel>
