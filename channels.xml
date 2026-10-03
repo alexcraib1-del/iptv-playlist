@@ -51,6 +51,7 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD" lang="en" xmltv_id="StarSports1.in@HD">Star Sports 1 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD" lang="en" xmltv_id="StarSports2.in@HD">Star Sports 2 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL" lang="en" xmltv_id="StarSportsKhel.in@SD">STAR SPORTS KHEL</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD" lang="en" xmltv_id="StarSportsSelect2.in@HD">Star Sports Select 2 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VIJAY_HD" lang="en" xmltv_id="StarVijay.in@HD">Star Vijay HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA" lang="en" xmltv_id="SuperHungama.in@SD">Super Hungama</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TIMES_NOW" lang="en" xmltv_id="TimesNow.in@SD">TIMES NOW</channel>
@@ -884,7 +885,6 @@
   <channel site="tvtv.us" site_id="50338" lang="en" xmltv_id="BabyFirst.us@US">BabyFirst TV</channel>
   <channel site="tvtv.us" site_id="58595" lang="en" xmltv_id="LivingFaithTV.us@SD">Living Faith TV</channel>
   <channel site="tvtv.us" site_id="58698" lang="en" xmltv_id="MegaTV.us@SD">Mega TV</channel>
-  <channel site="tvtv.us" site_id="60111" lang="en" xmltv_id="PursuitChannel.us@SD">Pursuit Channel</channel>
   <channel site="tvtv.us" site_id="62900" lang="en" xmltv_id="CatholicFaithNetwork.us@SD">Catholic Faith Network</channel>
   <channel site="tvtv.us" site_id="67676" lang="en" xmltv_id="SBNTV.us@SD">SonLife Broadcasting Network</channel>
   <channel site="tvtv.us" site_id="68605" lang="en" xmltv_id="Willow.us@SD">Willow</channel>
