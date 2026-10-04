@@ -7,6 +7,7 @@ Babyfirst | HTTP 404 | https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 Burbank Channel | HTTP 404 | https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
 CMTv Kenya | HTTP 404 | https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8
 CP24 | HTTP 404 | https://tvsen6.aynaott.com/cp24/index.m3u8
+Canaf54 TV | HTTP 404 | https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
 Cinevault 80s | HTTP 404 | https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
 Clergy TV | HTTP 404 | https://goliveafrica.media:9998/live/650452cf2ddb2/index.m3u8
 CoastTV NBC (WRDE-LD) | HTTP 404 | https://live.field59.com/wrde/wrde1/playlist.m3u8
@@ -25,7 +26,6 @@ EBN TV | HTTP 404 | https://goliveafrica.media:9998/live/65d8475d1e6cb/index.m3u
 ESPNU | HTTP 404 | http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 Elevate TV | HTTP 404 | https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8
 Escambia County TV ECTV (Escambia County FL) | HTTP 404 | https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
-Fox Business Network | HTTP 404 | http://5.254.89.106/6187/index.m3u8
 Fox Business Network | HTTP 404 | https://tvsen6.aynaott.com/foxbusiness/index.m3u8
 Fubo Sports Network | HTTP 404 | https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
 Fubo Sports Network | HTTP 404 | https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
@@ -37,9 +37,11 @@ Gainesville Community 12TV (Gainesville FL) | HTTP 404 | https://lin10.isilive.c
 Galaxy TV | HTTP 404 | https://stream.castr.com/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/index.fmp4.m3u8
 Giggle Mug | HTTP 404 | https://tvsen6.aynaott.com/ytv/index.m3u8
 H2 | HTTP 404 | http://213.91.179.28:8000/play/a03r
+HBO Drama | HTTP 404 | https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
 HBO Hits West HD | HTTP 404 | https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
 HGPTV | HTTP 404 | https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8
 HLC TV | HTTP 404 | https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8
+HSTV | HTTP 404 | https://live.castmaxcloud.com/live/hstv.m3u8
 Hallmark Channel | HTTP 404 | http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 Hard Knocks | HTTP 404 | https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
 Heaven Bound TV | HTTP 404 | https://goliveafrica.media:9998/live/62580b337c021/index.m3u8
@@ -75,13 +77,14 @@ NOW News Global | HTTP 404 | https://nowhls.wns.live/hls/stream.m3u8
 National Geographic | HTTP 404 | http://213.91.179.28:8000/play/a0ct
 New Vision TV | HTTP 404 | https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8
 Nice TV Kenya | HTTP 404 | https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
+Nick Jr. East HD | HTTP 404 | https://sra72yz.s.gy/NICK_JR_HD.m3u8
+Nicktoons | HTTP 404 | https://sra72yz.s.gy/NICKTOONS_HD.m3u8
 Njata TV | HTTP 404 | https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8
 Overcomers TV | HTTP 404 | https://glorystartv.live/Overcomers/index.m3u8
 PGA Tour | HTTP 404 | https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
 Pillar TV | HTTP 404 | https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8
 Plus TLT | HTTP 404 | http://15.204.246.24:8080/PlusTLTHD/index.m3u8
 Pluto TV Sport | HTTP 404 | https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
-Pointe TV | HTTP 404 | https://tv.pointville.ag/hls/mystream.m3u8
 Pursuit Channel | HTTP 404 | https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8
 Quest TV | HTTP 404 | https://media2.streambrothers.com:19360/8028/8028.m3u8
 RTG int. | HTTP 404 | http://213.91.179.28:8000/play/a0bw
