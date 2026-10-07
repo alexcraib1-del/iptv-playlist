@@ -176,7 +176,6 @@
   <channel site="freeview.co.uk" site_id="64257#14388" lang="en" xmltv_id="Blaze.uk@Plus1">Blaze+1</channel>
   <channel site="freeview.co.uk" site_id="64257#27360" lang="en" xmltv_id="GBNews.uk@SD">GB News</channel>
   <channel site="freeview.co.uk" site_id="64257#27840" lang="en" xmltv_id="HobbyMaker.uk@SD">HobbyMaker</channel>
-  <channel site="freeview.co.uk" site_id="64304#8257" lang="en" xmltv_id="ITV1.uk@Anglia">ITV1</channel>
   <channel site="freeview.co.uk" site_id="64257#16200" lang="en" xmltv_id="KetchupTV.us@SD">Ketchup TV</channel>
   <channel site="freeview.co.uk" site_id="64275#32839" lang="en" xmltv_id="LatestTV.uk@SD">Latest TV</channel>
   <channel site="freeview.co.uk" site_id="64257#13144" lang="en" xmltv_id="MBC.uk@HD">MBC</channel>
@@ -573,7 +572,6 @@
   <channel site="i.mjh.nz" site_id="PlutoTV/gb#5ddf8ea0d000120009bcad83" lang="en" xmltv_id="PlutoTVAnimals.de@UK">Pluto TV Animals</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/gb#612f761008a9e50007984ba0" lang="en" xmltv_id="PlutoTVAnimation.de@UK">Pluto TV Animation</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#67ed8f7e443f0671bc2b2368" lang="en" xmltv_id="PlutoTVAnimeMovies.us@SD">Pluto TV Anime Movies</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5cabdf1437b88b26947346b2" lang="en" xmltv_id="PlutoTVBackcountry.us@SD">Pluto TV Backcountry</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/gb#5d134a74ca91eedee1630faa" lang="en" xmltv_id="PlutoTVClassicTV.de@UK">Pluto TV Classic TV</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/gb#5d4ae94ef1a1bbb350ca41bb" lang="en" xmltv_id="PlutoTVConspiracy.de@UK">Pluto TV Conspiracy</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/gb#5d767790d0438aceb41d03ae" lang="en" xmltv_id="PlutoTVCrime.de@UK">Pluto TV Crime</channel>
@@ -744,7 +742,6 @@
   <channel site="ontvtonight.com" site_id="us#1922365932/comet-tv" lang="en" xmltv_id="Comet.us@SD">Comet TV</channel>
   <channel site="ontvtonight.com" site_id="us#69026524/espnu" lang="en" xmltv_id="ESPNU.us@SD">ESPNU</channel>
   <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" xmltv_id="ShowtimeFamilyZone.us@East">Showtime FamilyZone (East)</channel>
-  <channel site="ontvtonight.com" site_id="us#69047892/starz-cinema-east" lang="en" xmltv_id="StarzCinema.us@East">STARZ Cinema (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69023898/starz-comedy-east" lang="en" xmltv_id="StarzComedy.us@East">Starz Comedy (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69040329/starz-encore-espanol" lang="en" xmltv_id="StarzEncoreSpanish.us@East">STARZ ENCORE Español</channel>
   <channel site="ontvtonight.com" site_id="us#371340530/unimas-east" lang="en" xmltv_id="UniMas.us@East">UniMás (East)</channel>
@@ -785,7 +782,6 @@
   <channel site="starhubtvplus.com" site_id="173fc873-1c01-4782-b0ee-f322fe23ef33" lang="en" xmltv_id="CNBC.us@SD">CNBC HD</channel>
   <channel site="starhubtvplus.com" site_id="a253b74a-ab9d-4545-9cdd-d81e2d9a056d" lang="en" xmltv_id="FashionTVAsia.fr@SD">FashionTV HD</channel>
   <channel site="taiwanplus.com" site_id="#" lang="en" xmltv_id="TaiwanPlusTV.tw@SD">TaiwanPlus TV</channel>
-  <channel site="tapdmv.com" site_id="3ceaf9fa-5f4e-4263-ad6b-925061275d24" lang="en" xmltv_id="PremierFootball.ph@SD">premierfootball</channel>
   <channel site="tapdmv.com" site_id="24249e64-374c-4c32-bc02-1bfa953fa5ea" lang="en" xmltv_id="PremierSports.ph@SD">premiersports1</channel>
   <channel site="tapdmv.com" site_id="c8997290-0446-455e-9b55-ca3c749786b6" lang="en" xmltv_id="PremierSports2.ph@SD">premiersports2</channel>
   <channel site="tataplay.com" site_id="1487" lang="en" xmltv_id="NewsXWorld.in@HD">NewsX World</channel>
@@ -804,9 +800,7 @@
   <channel site="tvguide.com" site_id="9200002886" lang="en" xmltv_id="Bravo.us@East">Bravo</channel>
   <channel site="tvguide.com" site_id="9200004303" lang="en" xmltv_id="IFC.us@East">IFC</channel>
   <channel site="tvguide.com" site_id="9200004683" lang="en" xmltv_id="NationalGeographicWild.us@East">National Geographic Wild</channel>
-  <channel site="tvguide.com" site_id="9200004852" lang="en" xmltv_id="DisneyXD.us@East">Disney XD</channel>
   <channel site="tvguide.com" site_id="9200004889" lang="en" xmltv_id="AE.us@East">A&amp;E</channel>
-  <channel site="tvguide.com" site_id="9200004949" lang="en" xmltv_id="Oxygen.us@East">Oxygen</channel>
   <channel site="tvguide.com" site_id="9200006939" lang="en" xmltv_id="Nickelodeon.us@East">Nickelodeon</channel>
   <channel site="tvguide.com" site_id="9200006977" lang="en" xmltv_id="StarzKidsFamily.us@East">STARZ Kids &amp; Family</channel>
   <channel site="tvguide.com" site_id="9200011927" lang="en" xmltv_id="Telemundo.us@East">Telemundo</channel>
