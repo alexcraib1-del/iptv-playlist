@@ -10,6 +10,8 @@ BBC Three HD | HTTP 404 | https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_
 BBC Two HD | HTTP 404 | https://cdn.stmify.com/bbc/stream/BBC_TWO/hevc_iptv_mse_v0.mpd
 BBC Two Northern Ireland | HTTP 404 | https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd
 BBC Two Wales | HTTP 404 | https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd
+BTB Info | HTTP 404 | https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+BTB Info | HTTP 404 | https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
 BTL TV | HTTP 404 | https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
 Babyfirst | HTTP 404 | https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 Bukedde TV 2 | HTTP 404 | https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8
@@ -17,7 +19,6 @@ Burbank Channel | HTTP 404 | https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G
 CBBC HD | HTTP 404 | https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd
 CBeebies HD | HTTP 404 | https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
 CMTv Kenya | HTTP 404 | https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8
-Channel S | HTTP 404 | https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 Cinevault 80s | HTTP 404 | https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
 Clergy TV | HTTP 404 | https://goliveafrica.media:9998/live/650452cf2ddb2/index.m3u8
 CoastTV NBC (WRDE-LD) | HTTP 404 | https://live.field59.com/wrde/wrde1/playlist.m3u8
@@ -74,6 +75,7 @@ Lolwe TV | HTTP 404 | https://goliveafrica.media:9998/live/62580e144eb43/index.m
 Lotus TV | HTTP 404 | https://play-sh.quklive.com/live/1780907795235397.m3u8
 MIS Televizija | HTTP 404 | https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
 MOF TV | HTTP 404 | https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8
+MTV Guyana | HTTP 404 | https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8
 Magnificent Movies Network | HTTP 404 | https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 Mashariki TV | HTTP 404 | https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8
 More Grace TV | HTTP 404 | https://atechgroupuk.site/ETV.m3u8
@@ -94,7 +96,6 @@ Pursuit Channel | HTTP 404 | https://a-cdn.klowdtv.com/live3/pursuit_720p/playli
 Quest TV | HTTP 404 | https://media2.streambrothers.com:19360/8028/8028.m3u8
 RTG int. | HTTP 404 | http://213.91.179.28:8000/play/a0bw
 Raia TV | HTTP 404 | https://goliveafrica.media:9998/live/64873b6222c93/index.m3u8
-Rapid TV | HTTP 404 | https://stream-hls.castr-cdn.com/6a05a899db0ebd344a759542/live_9655bc604f8211f19e748901a3f596d0/index.m3u8
 Reelz | HTTP 404 | http://23.237.104.106:8080/USA_REELZ/index.m3u8
 Rocky Hill Government Access Channel 16 | HTTP 404 | https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8
 SGTV (Seminole County FL) | HTTP 404 | https://live.seminolecountyfl.gov/live-2/live/stream-1/live.m3u8
@@ -107,14 +108,17 @@ Sony Sports Ten 2 | HTTP 404 | https://cloudplay-sonyliv.pages.dev/ten2.m3u8
 Sony Sports Ten 2 HD | HTTP 404 | https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8
 Sony Sports Ten 5 | HTTP 404 | https://cloudplay-sonyliv.pages.dev/ten5.m3u8
 Star Channel | HTTP 404 | http://213.91.179.28:8000/play/a0c9
+Star Sports 1 | HTTP 404 | http://103.151.60.162:2122/play/a01a/index.m3u8?hls
+Star Sports 1 | HTTP 404 | http://51.75.127.199:3141/starsports1/index.m3u8
 Star Sports 2 | HTTP 404 | http://103.151.60.162:2122/play/a019/index.m3u8?hls
+Star Sports 2 | HTTP 404 | http://51.75.127.199:3141/starsports2/index.m3u8
 Star Sports 2 HD | HTTP 404 | http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+Star Sports 3 | HTTP 404 | http://103.151.60.162:2122/play/a029/index.m3u8?hls
 Starz Cinema | HTTP 404 | http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 Stockton GovTV (Stockton CA) | HTTP 404 | https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
 Summer of Movies | HTTP 404 | https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
 TBN | HTTP 404 | https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
 TBN Inspire | HTTP 404 | https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
-TBN+ | HTTP 404 | https://a-cdn.klowdtv.com/live3/tbn_720p/playlist.m3u8
 TRT World | HTTP 404 | https://cdn.pishow.tv/ott/live/266/master.m3u8
 TV3 | HTTP 404 | https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8
 TVCARiB | HTTP 404 | https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
