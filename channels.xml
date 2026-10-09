@@ -48,6 +48,7 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD" lang="en" xmltv_id="SonySportsTen5.in@HD">SONY SPORTS TEN 5 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_HD" lang="en" xmltv_id="StarMovies.in@HD">Star Movies HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD" lang="en" xmltv_id="StarMoviesSelect.in@HD">Star Movies Select HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD" lang="en" xmltv_id="StarSports1.in@HD">Star Sports 1 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD" lang="en" xmltv_id="StarSports2.in@HD">Star Sports 2 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL" lang="en" xmltv_id="StarSportsKhel.in@SD">STAR SPORTS KHEL</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD" lang="en" xmltv_id="StarSportsSelect1.in@HD">Star Sports Select 1 HD</channel>
@@ -706,6 +707,7 @@
   <channel site="melita.com" site_id="e9aa65aa-50b3-4045-abb7-edd2c876d593" lang="en" xmltv_id="MTVGlobal.uk@SD">MTV</channel>
   <channel site="melita.com" site_id="ea43081b-08a5-41e8-ba9a-3f22e4c0535a" lang="en" xmltv_id="JimJamEurope.uk@SD">JimJam</channel>
   <channel site="melita.com" site_id="f47884ed-751b-4656-99a7-26dc294476de" lang="en" xmltv_id="StingrayiConcerts.ca@SD">iConcerts HD</channel>
+  <channel site="mewatch.sg" site_id="97098" lang="en" xmltv_id="Channel5.sg@SD">Channel 5</channel>
   <channel site="mewatch.sg" site_id="97129" lang="en" xmltv_id="ChannelU.sg@SD">Channel U</channel>
   <channel site="mewatch.sg" site_id="382872" lang="en" xmltv_id="CinemaWorld.my@SD">CinemaWorld</channel>
   <channel site="mewatch.sg" site_id="97073" lang="en" xmltv_id="meWATCHLIVE1.sg@SD">LIVE 1</channel>
@@ -734,6 +736,7 @@
   <channel site="ontvtonight.com" site_id="us#69048344/abc" lang="en" xmltv_id="ABC.us@East">ABC</channel>
   <channel site="ontvtonight.com" site_id="us#7224220194/acc-network" lang="en" xmltv_id="ACCNetwork.us@SD">ACC Network</channel>
   <channel site="ontvtonight.com" site_id="us#69047124/amc-east" lang="en" xmltv_id="AMC.us@East">AMC (East)</channel>
+  <channel site="ontvtonight.com" site_id="us#69047235/animal-planet-east" lang="en" xmltv_id="AnimalPlanet.us@East">Animal Planet (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69044423/bbc-america-east" lang="en" xmltv_id="BBCAmerica.us@East">BBC America (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69030398/big-ten-network-national" lang="en" xmltv_id="BigTenNetwork.us@SD">Big Ten Network (National)</channel>
   <channel site="ontvtonight.com" site_id="us#69043286/bounce-tv" lang="en" xmltv_id="Bounce.us@SD">Bounce TV</channel>
@@ -795,8 +798,12 @@
   <channel site="tv.blue.ch" site_id="85" lang="en" xmltv_id="BBCThreeCBBC.uk@HD">BBC Three / CBBC</channel>
   <channel site="tv.blue.ch" site_id="366" lang="en" xmltv_id="RTRPlaneta.ru@Europe">RTR Planeta</channel>
   <channel site="tv24.se" site_id="horse-country" lang="en" xmltv_id="HorseCountryTV.uk@SD">Horse &amp; Country</channel>
+  <channel site="tv24.se" site_id="magnolia-network-hd" lang="en" xmltv_id="MagnoliaNetwork.us@East">Magnolia Network HD</channel>
+  <channel site="tvguide.com" site_id="9200000016" lang="en" xmltv_id="CookingChannel.us@SD">Cooking</channel>
   <channel site="tvguide.com" site_id="9200000657" lang="en" xmltv_id="ComedyCentral.us@East">Comedy Central</channel>
   <channel site="tvguide.com" site_id="9200000872" lang="en" xmltv_id="MTV2.us@East">MTV2</channel>
+  <channel site="tvguide.com" site_id="9200002243" lang="en" xmltv_id="InvestigationDiscovery.us@East">Investigation Discovery</channel>
+  <channel site="tvguide.com" site_id="9200002736" lang="en" xmltv_id="OWN.us@East">OWN</channel>
   <channel site="tvguide.com" site_id="9200002886" lang="en" xmltv_id="Bravo.us@East">Bravo</channel>
   <channel site="tvguide.com" site_id="9200004303" lang="en" xmltv_id="IFC.us@East">IFC</channel>
   <channel site="tvguide.com" site_id="9200004683" lang="en" xmltv_id="NationalGeographicWild.us@East">National Geographic Wild</channel>
@@ -809,6 +816,7 @@
   <channel site="tvguide.com" site_id="9200012343" lang="en" xmltv_id="E.us@East">E!</channel>
   <channel site="tvguide.com" site_id="9200014754" lang="en" xmltv_id="MTV.us@East">MTV</channel>
   <channel site="tvguide.com" site_id="9200016034" lang="en" xmltv_id="HallmarkChannel.us@East">Hallmark</channel>
+  <channel site="tvguide.com" site_id="9200016601" lang="en" xmltv_id="HLN.us@SD">HLN</channel>
   <channel site="tvguide.com" site_id="9200018188" lang="en" xmltv_id="WeTV.us@East">WE tv</channel>
   <channel site="tvguide.com" site_id="9200018475" lang="en" xmltv_id="DisneyChannel.us@East">Disney</channel>
   <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us@East">CBS National</channel>
@@ -818,18 +826,21 @@
   <channel site="tvguide.com" site_id="9233001847" lang="en" xmltv_id="MNT.us@East">MyNetworkTV National</channel>
   <channel site="tvguide.com" site_id="9233002271" lang="en" xmltv_id="Fox.us@East">FOX</channel>
   <channel site="tvguide.com" site_id="9233002310" lang="en" xmltv_id="NationalGeographic.us@East">National Geographic</channel>
+  <channel site="tvguide.com" site_id="9233004102" lang="en" xmltv_id="DiscoveryChannel.us@East">Discovery</channel>
   <channel site="tvguide.com" site_id="9233004106" lang="en" xmltv_id="USANetwork.us@East">USA</channel>
   <channel site="tvguide.com" site_id="9233004141" lang="en" xmltv_id="PBS.us@East">PBS HD</channel>
   <channel site="tvguide.com" site_id="9233007153" lang="en" xmltv_id="NickJr.us@East">Nick Jr.</channel>
   <channel site="tvguide.com" site_id="9233008002" lang="en" xmltv_id="History.us@East">History</channel>
   <channel site="tvguide.com" site_id="9233008440" lang="en" xmltv_id="FoxSports1.us@HD">FOX Sports 1</channel>
   <channel site="tvguide.com" site_id="9233008517" lang="en" xmltv_id="SECNetwork.us@SD">SEC Network</channel>
+  <channel site="tvguide.com" site_id="9233009448" lang="en" xmltv_id="FoodNetwork.us@East">Food Network</channel>
   <channel site="tvguide.com" site_id="9233009788" lang="en" xmltv_id="DisneyJunior.us@East">Disney Junior</channel>
   <channel site="tvguide.com" site_id="9233009829" lang="en" xmltv_id="Cinemax.us@East">Cinemax</channel>
   <channel site="tvguide.com" site_id="9233009876" lang="en" xmltv_id="NBC.us@East">NBC National</channel>
   <channel site="tvguide.com" site_id="9233011488" lang="en" xmltv_id="Fuse.us@East">Fuse HD</channel>
   <channel site="tvguide.com" site_id="9233011830" lang="en" xmltv_id="TNT.us@East">TNT</channel>
   <channel site="tvguide.com" site_id="9233013810" lang="en" xmltv_id="ParamountNetwork.us@East">Paramount Network</channel>
+  <channel site="tvguide.com" site_id="9233015768" lang="en" xmltv_id="AmericanHeroesChannel.us@SD">American Heroes</channel>
   <channel site="tvhebdo.com" site_id="cpae/CPAE" lang="en" xmltv_id="CPACEnglish.ca@SD">CPAC English</channel>
   <channel site="tvpassport.com" site_id="three-angels-broadcasting-network/19066" lang="en" xmltv_id="3ABNEnglish.us@SD">Three Angels Broadcasting Network</channel>
   <channel site="tvpassport.com" site_id="amp2/13283" lang="en" xmltv_id="AMP2.us@SD">AMP2</channel>

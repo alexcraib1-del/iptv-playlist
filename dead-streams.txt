@@ -42,7 +42,6 @@ Fubo Sports Network | HTTP 404 | https://aegis-cloudfront-1.tubi.video/c2ac89da-
 GBS TV | HTTP 404 | https://goliveafrica.media:9998/live/647460ac1ddd6/index.m3u8
 GMTV | HTTP 404 | https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341
 GTN TV | HTTP 404 | https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8
-GTV | HTTP 404 | https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
 GZT | HTTP 404 | https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 Gainesville Community 12TV (Gainesville FL) | HTTP 404 | https://lin10.isilive.ca/live/gainesville/live/index.m3u8
 Galaxy TV | HTTP 404 | https://stream.castr.com/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/index.fmp4.m3u8
@@ -75,7 +74,6 @@ Lolwe TV | HTTP 404 | https://goliveafrica.media:9998/live/62580e144eb43/index.m
 Lotus TV | HTTP 404 | https://play-sh.quklive.com/live/1780907795235397.m3u8
 MIS Televizija | HTTP 404 | https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
 MOF TV | HTTP 404 | https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8
-MTV Guyana | HTTP 404 | https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8
 Magnificent Movies Network | HTTP 404 | https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 Mashariki TV | HTTP 404 | https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8
 More Grace TV | HTTP 404 | https://atechgroupuk.site/ETV.m3u8
@@ -109,9 +107,7 @@ Sony Sports Ten 2 HD | HTTP 404 | https://cloudplay-sonyliv.pages.dev/ten2hd.m3u
 Sony Sports Ten 5 | HTTP 404 | https://cloudplay-sonyliv.pages.dev/ten5.m3u8
 Star Channel | HTTP 404 | http://213.91.179.28:8000/play/a0c9
 Star Sports 1 | HTTP 404 | http://103.151.60.162:2122/play/a01a/index.m3u8?hls
-Star Sports 1 | HTTP 404 | http://51.75.127.199:3141/starsports1/index.m3u8
 Star Sports 2 | HTTP 404 | http://103.151.60.162:2122/play/a019/index.m3u8?hls
-Star Sports 2 | HTTP 404 | http://51.75.127.199:3141/starsports2/index.m3u8
 Star Sports 2 HD | HTTP 404 | http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 Star Sports 3 | HTTP 404 | http://103.151.60.162:2122/play/a029/index.m3u8?hls
 Starz Cinema | HTTP 404 | http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
@@ -120,6 +116,7 @@ Summer of Movies | HTTP 404 | https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
 TBN | HTTP 404 | https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
 TBN Inspire | HTTP 404 | https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
 TRT World | HTTP 404 | https://cdn.pishow.tv/ott/live/266/master.m3u8
+TV-WEST | HTTP 404 | https://tv-west.lg.mncdn.com/tv_west/tv_west.stream/playlist.m3u8
 TV3 | HTTP 404 | https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8
 TVCARiB | HTTP 404 | https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
 Tanzania Safari Channel | HTTP 404 | https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
