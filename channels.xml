@@ -157,9 +157,15 @@
   <channel site="entertainment.ie" site_id="bbc-one-ni" lang="en" xmltv_id="BBCOne.uk@NorthernIreland">BBC One NI</channel>
   <channel site="entertainment.ie" site_id="bbc-three" lang="en" xmltv_id="BBCThree.uk@SD">BBC Three</channel>
   <channel site="entertainment.ie" site_id="cbbc" lang="en" xmltv_id="CBBC.uk@SD">CBBC</channel>
+  <channel site="entertainment.ie" site_id="channel-4" lang="en" xmltv_id="Channel4.uk@UK">Channel 4</channel>
+  <channel site="entertainment.ie" site_id="channel-5" lang="en" xmltv_id="Channel5.uk@SD">Channel 5</channel>
+  <channel site="entertainment.ie" site_id="e4" lang="en" xmltv_id="E4.uk@SD">E4</channel>
   <channel site="entertainment.ie" site_id="great-movies" lang="en" xmltv_id="GREATmovies.uk@UK">Great! Movies</channel>
   <channel site="entertainment.ie" site_id="great-movies-romance" lang="en" xmltv_id="GREATromance.uk@UK">Great! Movies Romance</channel>
   <channel site="entertainment.ie" site_id="itv2" lang="en" xmltv_id="ITV2.uk@SD">ITV2</channel>
+  <channel site="entertainment.ie" site_id="itv3" lang="en" xmltv_id="ITV3.uk@SD">ITV3</channel>
+  <channel site="entertainment.ie" site_id="itv4" lang="en" xmltv_id="ITV4.uk@SD">ITV4</channel>
+  <channel site="entertainment.ie" site_id="more4" lang="en" xmltv_id="More4.uk@SD">More4</channel>
   <channel site="entertainment.ie" site_id="nickelodeon" lang="en" xmltv_id="Nickelodeon.uk@SD">Nickelodeon</channel>
   <channel site="entertainment.ie" site_id="tg4" lang="en" xmltv_id="TG4.ie@SD">TG4</channel>
   <channel site="foxtel.com.au" site_id="EXPO/EXP" lang="en" xmltv_id="ExpoChannel.au@SD">EXPO</channel>
@@ -168,6 +174,7 @@
   <channel site="foxtel.com.au" site_id="SBS-Worldwatch/SWW" lang="en" xmltv_id="SBSWorldWatch.au@Sydney">SBS Worldwatch</channel>
   <channel site="foxtel.com.au" site_id="SKY-Racing-2/SR2" lang="en" xmltv_id="SkyRacing2.au@SD">SKY Racing 2</channel>
   <channel site="foxtel.com.au" site_id="TVSN/TVS" lang="en" xmltv_id="TVSN.au@SD">TVSN</channel>
+  <channel site="freeview.co.uk" site_id="64257#12992" lang="en" xmltv_id="5USA.uk@SD">5USA</channel>
   <channel site="freeview.co.uk" site_id="64257#4736" lang="en" xmltv_id="BBCParliament.uk@SD">BBC Parliament</channel>
   <channel site="freeview.co.uk" site_id="64257#7168" lang="en" xmltv_id="BBCRedButton1.uk@SD">BBC RB 1</channel>
   <channel site="freeview.co.uk" site_id="64392#17212" lang="en" xmltv_id="BBCScotland.uk@HD">BBC Scotland HD</channel>
@@ -175,6 +182,7 @@
   <channel site="freeview.co.uk" site_id="64257#14388" lang="en" xmltv_id="Blaze.uk@Plus1">Blaze+1</channel>
   <channel site="freeview.co.uk" site_id="64257#27360" lang="en" xmltv_id="GBNews.uk@SD">GB News</channel>
   <channel site="freeview.co.uk" site_id="64257#27840" lang="en" xmltv_id="HobbyMaker.uk@SD">HobbyMaker</channel>
+  <channel site="freeview.co.uk" site_id="64304#8257" lang="en" xmltv_id="ITV1.uk@Anglia">ITV1</channel>
   <channel site="freeview.co.uk" site_id="64257#16200" lang="en" xmltv_id="KetchupTV.us@SD">Ketchup TV</channel>
   <channel site="freeview.co.uk" site_id="64275#32839" lang="en" xmltv_id="LatestTV.uk@SD">Latest TV</channel>
   <channel site="freeview.co.uk" site_id="64257#13144" lang="en" xmltv_id="MBC.uk@HD">MBC</channel>
@@ -214,6 +222,7 @@
   <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-channel-9-sa" lang="en" xmltv_id="Channel9.au@Adelaide">Channel 9</channel>
   <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-c44" lang="en" xmltv_id="Channel44.au@SD">Channel 44</channel>
   <channel site="i.mjh.nz" site_id="Flash/epg#ausbiz" lang="en" xmltv_id="AusbizTV.au@SD">Ausbiz</channel>
+  <channel site="i.mjh.nz" site_id="Flash/epg#cnn" lang="en" xmltv_id="CNN.us@SD">CNN</channel>
   <channel site="i.mjh.nz" site_id="Flash/epg#i24-news" lang="en" xmltv_id="i24NEWSEnglishWorld.il@SD">i24 News</channel>
   <channel site="i.mjh.nz" site_id="Flash/epg#nbc-news-now" lang="en" xmltv_id="NBCNewsNOW.us@SD">NBC News Now</channel>
   <channel site="i.mjh.nz" site_id="Flash/epg#quicktake" lang="en" xmltv_id="BloombergOriginals.us@SD">Bloomberg Originals</channel>
@@ -743,6 +752,7 @@
   <channel site="ontvtonight.com" site_id="us#1922365932/comet-tv" lang="en" xmltv_id="Comet.us@SD">Comet TV</channel>
   <channel site="ontvtonight.com" site_id="us#69026524/espnu" lang="en" xmltv_id="ESPNU.us@SD">ESPNU</channel>
   <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" xmltv_id="ShowtimeFamilyZone.us@East">Showtime FamilyZone (East)</channel>
+  <channel site="ontvtonight.com" site_id="us#69023900/starz-hd-east" lang="en" xmltv_id="Starz.us@East">STARZ HD (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69023898/starz-comedy-east" lang="en" xmltv_id="StarzComedy.us@East">Starz Comedy (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69040329/starz-encore-espanol" lang="en" xmltv_id="StarzEncoreSpanish.us@East">STARZ ENCORE Español</channel>
   <channel site="ontvtonight.com" site_id="us#69046986/tbs-superstation-east" lang="en" xmltv_id="TBS.us@East">TBS Superstation (East)</channel>
@@ -809,6 +819,7 @@
   <channel site="tvguide.com" site_id="9200004683" lang="en" xmltv_id="NationalGeographicWild.us@East">National Geographic Wild</channel>
   <channel site="tvguide.com" site_id="9200004889" lang="en" xmltv_id="AE.us@East">A&amp;E</channel>
   <channel site="tvguide.com" site_id="9200006939" lang="en" xmltv_id="Nickelodeon.us@East">Nickelodeon</channel>
+  <channel site="tvguide.com" site_id="9200006974" lang="en" xmltv_id="TeenNick.us@East">TeenNick</channel>
   <channel site="tvguide.com" site_id="9200006977" lang="en" xmltv_id="StarzKidsFamily.us@East">STARZ Kids &amp; Family</channel>
   <channel site="tvguide.com" site_id="9200009245" lang="en" xmltv_id="DestinationAmerica.us@SD">Destination America</channel>
   <channel site="tvguide.com" site_id="9200011927" lang="en" xmltv_id="Telemundo.us@East">Telemundo</channel>
@@ -862,6 +873,7 @@
   <channel site="tvpassport.com" site_id="revolt-tv/11301" lang="en" xmltv_id="Revolt.us@SD">Revolt TV</channel>
   <channel site="tvpassport.com" site_id="tbn--trinity-broadcasting-network--east/1119" lang="en" xmltv_id="TBN.us@East">TBN - Trinity Broadcasting Network - East</channel>
   <channel site="tvpassport.com" site_id="the-nest/14118" lang="en" xmltv_id="TheNest.us@SD">The Nest</channel>
+  <channel site="tvpassport.com" site_id="tsn4/279" lang="en" xmltv_id="TSN4.ca@SD">TSN4</channel>
   <channel site="tvpassport.com" site_id="univision--eastern-feed-hd/8136" lang="en" xmltv_id="Univision.us@East">Univision - Eastern Feed HD</channel>
   <channel site="tvpassport.com" site_id="pbs-world/10214" lang="en" xmltv_id="WorldChannel.us@SD">PBS World</channel>
   <channel site="tvpassport.com" site_id="abc-wplg-miami-fl-hd/5722" lang="en" xmltv_id="WPLG101.us@HD">ABC (WPLG) Miami, FL HD</channel>
