@@ -260,6 +260,7 @@
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5f6b8e5900b0950040d0f2af" lang="en" xmltv_id="CheddarNews.us@SD">Cheddar</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5ef11487d33ab9004048a1d3" lang="en" xmltv_id="Choppertown.us@SD">Choppertown</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-67db0a3892cb453db28ab020" lang="en" xmltv_id="CineRomantico.us@SD">Cine Romántico</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d" lang="en" xmltv_id="CNNOriginals.us@SD">CNN Originals</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5efe1de5e0b3f5003f5d9f76" lang="en" xmltv_id="ComedyDynamics.us@SD">Comedy Dynamics</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5f07e9fdf313eb0041bbecda" lang="en" xmltv_id="CookingPanda.us@SD">Cooking Panda</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-626c1753ffda6789d20a452e" lang="en" xmltv_id="Cops.us@SD">COPS</channel>
@@ -865,7 +866,6 @@
   <channel site="tvpassport.com" site_id="msg-madison-square-gardens-hd/4695" lang="en" xmltv_id="MSG.us@SD">MSG (Madison Square Gardens) HD</channel>
   <channel site="tvpassport.com" site_id="mtv-classic--east/2093" lang="en" xmltv_id="MTVClassic.us@East">MTV Classic - East</channel>
   <channel site="tvpassport.com" site_id="mtv-live-hd/6081" lang="en" xmltv_id="MTVLive.us@SD">MTV Live HD</channel>
-  <channel site="tvpassport.com" site_id="nbc-universo--eastern-feed/1797" lang="en" xmltv_id="NBCUniverso.us@East">NBC Universo - Eastern feed</channel>
   <channel site="tvpassport.com" site_id="one-america-news-network/12614" lang="en" xmltv_id="OneAmericaNewsNetwork.us@SD">One America News Network</channel>
   <channel site="tvpassport.com" site_id="pbs-kids-247/31867" lang="en" xmltv_id="PBSKids.us@SD">PBS KIDS 24/7</channel>
   <channel site="tvpassport.com" site_id="positiv/4456" lang="en" xmltv_id="PositivTV.us@SD">PosiTiV</channel>

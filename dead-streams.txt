@@ -1,6 +1,7 @@
 3 Stones TV | HTTP 404 | https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
 3ABN TV Uganda | HTTP 404 | https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8
 5USA | HTTP 404 | https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8
+AL24 News | HTTP 404 | https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
 Afrique54 TV | HTTP 404 | https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
 Al Jazeera English | HTTP 404 | https://cdn-7.pishow.tv/live/429/master.m3u8
 ArubaTV + | HTTP 404 | https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
@@ -15,7 +16,6 @@ BBC Two Wales | HTTP 404 | https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_
 BTB Info | HTTP 404 | https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
 BTB Info | HTTP 404 | https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
 BTL TV | HTTP 404 | https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
-Babyfirst | HTTP 404 | https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 Burbank Channel | HTTP 404 | https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
 CBBC HD | HTTP 404 | https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd
 CBeebies HD | HTTP 404 | https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
@@ -58,18 +58,15 @@ Hallmark Channel | HTTP 404 | http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 Hard Knocks | HTTP 404 | https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
 Heaven Bound TV | HTTP 404 | https://goliveafrica.media:9998/live/62580b337c021/index.m3u8
 His Grace TV | HTTP 404 | https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8
-Homeful | HTTP 404 | https://jmp2.uk/plu-65786abdb3801200084c593a.m3u8
 Homicide Hunter | HTTP 404 | https://jmp2.uk/plu-60e452730e76f20007598de8.m3u8
 Homicide Hunter | HTTP 404 | https://jmp2.uk/plu-619e21b213ef6b0007d8c17a.m3u8
 Homicide Hunter | HTTP 404 | https://jmp2.uk/plu-619e286e093e7c0007489e6a.m3u8
 Homicide Hunter | HTTP 404 | https://jmp2.uk/plu-619e4a3518d6970008bebc95.m3u8
 Humor Mill | HTTP 404 | https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK
 ICTV | HTTP 404 | https://goliveafrica.media:9998/live/659a7f33bed3f/index.m3u8
-ITV1 | HTTP 404 | https://lb.iptvnetwork.net/ls28/10103/playlist.m3u8
 ITV2 | HTTP 404 | https://lb.iptvnetwork.net/ls28/10106/playlist.m3u8
 ITV3 | HTTP 404 | https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8
 ITV4 | HTTP 404 | https://lb.iptvnetwork.net/ls28/10108/playlist.m3u8
-Iron Chef | HTTP 404 | https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8
 JCM TV | HTTP 404 | https://goliveafrica.media:9998/live/646c92d07b16c/index.m3u8
 Jamaica Travel Channel | HTTP 404 | https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8
 JimJam Europe | HTTP 404 | http://158.160.149.81:8080/269/index.m3u8
@@ -92,7 +89,6 @@ NBC 8 Lima OH (WLIO-DT1) | HTTP 404 | https://live.field59.com/wlio/wlio1/playli
 NHK World-Japan | HTTP 404 | https://cdn-7.pishow.tv/live/455/master.m3u8
 NOW News Global | HTTP 404 | https://nowhls.wns.live/hls/stream.m3u8
 National Geographic | HTTP 404 | http://213.91.179.28:8000/play/a0ct
-Nevis Television | HTTP 404 | https://media.slactech.com:1936/NTvDirect/ngrp:NTvDirect_all/playlist.m3u8
 New Channel | HTTP 404 | https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
 New Channel Pop! | HTTP 404 | https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
 New Vision TV | HTTP 404 | https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8
@@ -103,7 +99,6 @@ PGA Tour | HTTP 404 | https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b
 Pillar TV | HTTP 404 | https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8
 Plus TLT | HTTP 404 | http://15.204.246.24:8080/PlusTLTHD/index.m3u8
 Pursuit Channel | HTTP 404 | https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8
-QTV Gambia | HTTP 404 | https://player.qtv.gm/hls/live.stream.m3u8
 Quest TV | HTTP 404 | https://media2.streambrothers.com:19360/8028/8028.m3u8
 RTG int. | HTTP 404 | http://213.91.179.28:8000/play/a0bw
 Raia TV | HTTP 404 | https://goliveafrica.media:9998/live/64873b6222c93/index.m3u8
@@ -123,19 +118,16 @@ Summer of Movies | HTTP 404 | https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
 TBN | HTTP 404 | https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
 TBN Inspire | HTTP 404 | https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
 TRT World | HTTP 404 | https://cdn.pishow.tv/ott/live/266/master.m3u8
-TV-WEST | HTTP 404 | https://tv-west.lg.mncdn.com/tv_west/tv_west.stream/playlist.m3u8
+TV Panou | HTTP 404 | http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
 TV3 | HTTP 404 | https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8
 TVCARiB | HTTP 404 | https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
 Tanzania Safari Channel | HTTP 404 | https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
+Tele Regency TV | HTTP 404 | https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8
 Telemundo West | HTTP 404 | http://168.228.44.241:9997/play/a07g/index.m3u8
-Teletubbies | HTTP 404 | https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8
 The Bob Ross Channel | HTTP 404 | https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8
 The Jamie Oliver Channel | HTTP 404 | https://aegis-cloudfront-1.tubi.video/28fb04b8-8d48-4c2a-833a-7f51059a405d/playlist.m3u8
 The Parliamentary Channel | HTTP 404 | https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8
 Timeless TV | HTTP 404 | https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
-Transformers | HTTP 404 | https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
-Transformers TV | HTTP 404 | https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
-True Crime Now | HTTP 404 | https://jmp2.uk/plu-65a7b04e7bdc8d0008488307.m3u8
 UTV | HTTP 404 | https://goliveafrica.media:9998/live/62580d78ac508/index.m3u8
 Unite8 Sports 2 | HTTP 404 | http://103.151.60.162:2122/play/a01m/index.m3u8?hls
 Urejesho TV Africa | HTTP 404 | https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8
