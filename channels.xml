@@ -748,6 +748,7 @@
   <channel site="ontvtonight.com" site_id="us#69023748/the-nfl-network" lang="en" xmltv_id="NFLNetwork.us@SD">The NFL Network</channel>
   <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" xmltv_id="ShowtimeFamilyZone.us@East">Showtime FamilyZone (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69023900/starz-hd-east" lang="en" xmltv_id="Starz.us@East">STARZ HD (East)</channel>
+  <channel site="ontvtonight.com" site_id="us#69047892/starz-cinema-east" lang="en" xmltv_id="StarzCinema.us@East">STARZ Cinema (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69023898/starz-comedy-east" lang="en" xmltv_id="StarzComedy.us@East">Starz Comedy (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69040329/starz-encore-espanol" lang="en" xmltv_id="StarzEncoreSpanish.us@East">STARZ ENCORE Español</channel>
   <channel site="ontvtonight.com" site_id="us#69046986/tbs-superstation-east" lang="en" xmltv_id="TBS.us@East">TBS Superstation (East)</channel>
@@ -776,7 +777,6 @@
   <channel site="singtel.com" site_id="5340" lang="en" xmltv_id="AniplusAsia.sg@SD">ANIPLUS HD</channel>
   <channel site="sky.com" site_id="GB#5087" lang="en" xmltv_id="AkaalChannel.uk@SD">Akaal Channel</channel>
   <channel site="sky.com" site_id="GB#3815" lang="en" xmltv_id="ChannelS.uk@SD">CHSTV</channel>
-  <channel site="sky.com" site_id="GB#1191" lang="en" xmltv_id="DunamisTV.ng@SD">Dunamis TV</channel>
   <channel site="sky.com" site_id="GB#3111" lang="en" xmltv_id="EmanChannel.uk@SD">Eman Channel</channel>
   <channel site="sky.com" site_id="GB#4404" lang="en" xmltv_id="FaithWorldTV.uk@SD">Faith World TV</channel>
   <channel site="sky.com" site_id="GB#3214" lang="en" xmltv_id="IslamChannel.uk@SD">Islam Channel</channel>
@@ -814,11 +814,13 @@
   <channel site="tvguide.com" site_id="9200004303" lang="en" xmltv_id="IFC.us@East">IFC</channel>
   <channel site="tvguide.com" site_id="9200004683" lang="en" xmltv_id="NationalGeographicWild.us@East">National Geographic Wild</channel>
   <channel site="tvguide.com" site_id="9200004848" lang="en" xmltv_id="CartoonNetwork.us@East">Cartoon Network</channel>
+  <channel site="tvguide.com" site_id="9200004852" lang="en" xmltv_id="DisneyXD.us@East">Disney XD</channel>
   <channel site="tvguide.com" site_id="9200004889" lang="en" xmltv_id="AE.us@East">A&amp;E</channel>
   <channel site="tvguide.com" site_id="9200006939" lang="en" xmltv_id="Nickelodeon.us@East">Nickelodeon</channel>
   <channel site="tvguide.com" site_id="9200006974" lang="en" xmltv_id="TeenNick.us@East">TeenNick</channel>
   <channel site="tvguide.com" site_id="9200006977" lang="en" xmltv_id="StarzKidsFamily.us@East">STARZ Kids &amp; Family</channel>
   <channel site="tvguide.com" site_id="9200009245" lang="en" xmltv_id="DestinationAmerica.us@SD">Destination America</channel>
+  <channel site="tvguide.com" site_id="9200011769" lang="en" xmltv_id="Reelz.us@SD">Reelz</channel>
   <channel site="tvguide.com" site_id="9200011927" lang="en" xmltv_id="Telemundo.us@East">Telemundo</channel>
   <channel site="tvguide.com" site_id="9200012085" lang="en" xmltv_id="CMT.us@East">CMT</channel>
   <channel site="tvguide.com" site_id="9200012343" lang="en" xmltv_id="E.us@East">E!</channel>
@@ -844,6 +846,7 @@
   <channel site="tvguide.com" site_id="9233008517" lang="en" xmltv_id="SECNetwork.us@SD">SEC Network</channel>
   <channel site="tvguide.com" site_id="9233009448" lang="en" xmltv_id="FoodNetwork.us@East">Food Network</channel>
   <channel site="tvguide.com" site_id="9233009788" lang="en" xmltv_id="DisneyJunior.us@East">Disney Junior</channel>
+  <channel site="tvguide.com" site_id="9233009825" lang="en" xmltv_id="LifetimeMovies.us@East">LMN</channel>
   <channel site="tvguide.com" site_id="9233009829" lang="en" xmltv_id="Cinemax.us@East">Cinemax</channel>
   <channel site="tvguide.com" site_id="9233009876" lang="en" xmltv_id="NBC.us@East">NBC National</channel>
   <channel site="tvguide.com" site_id="9233011488" lang="en" xmltv_id="Fuse.us@East">Fuse HD</channel>
@@ -902,6 +905,7 @@
   <channel site="tvtv.us" site_id="50338" lang="en" xmltv_id="BabyFirst.us@US">BabyFirst TV</channel>
   <channel site="tvtv.us" site_id="58595" lang="en" xmltv_id="LivingFaithTV.us@SD">Living Faith TV</channel>
   <channel site="tvtv.us" site_id="58698" lang="en" xmltv_id="MegaTV.us@SD">Mega TV</channel>
+  <channel site="tvtv.us" site_id="60111" lang="en" xmltv_id="PursuitChannel.us@SD">Pursuit Channel</channel>
   <channel site="tvtv.us" site_id="62900" lang="en" xmltv_id="CatholicFaithNetwork.us@SD">Catholic Faith Network</channel>
   <channel site="tvtv.us" site_id="67676" lang="en" xmltv_id="SBNTV.us@SD">SonLife Broadcasting Network</channel>
   <channel site="tvtv.us" site_id="68605" lang="en" xmltv_id="Willow.us@SD">Willow</channel>
