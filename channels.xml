@@ -17,18 +17,23 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_SHILLONG" lang="en" xmltv_id="DDMeghalaya.in@SD">DD Meghalaya</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_SPORTS_HD" lang="en" xmltv_id="DDSports.in@HD">DD Sports HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_URDU" lang="en" xmltv_id="DDUrdu.in@SD">DD Urdu</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISCOVERY_CHANNEL" lang="en" xmltv_id="DiscoveryChannel.in@SD">Discovery Channel</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS" lang="en" xmltv_id="DiscoveryKids.in@SD">Discovery Kids</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISCOVERY_SCIENCE" lang="en" xmltv_id="DiscoveryScience.in@SD">Discovery Science</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO" lang="en" xmltv_id="DiscoveryTurbo.in@SD">Discovery Turbo</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD" lang="en" xmltv_id="DisneyChannel.in@HD">DISNEY CHANNEL HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD" lang="en" xmltv_id="DisneyInternationalHD.in@SD">Disney International HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR" lang="en" xmltv_id="DisneyJunior.in@SD">Disney Junior</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ET_NOW" lang="en" xmltv_id="ETNow.in@SD">ET NOW</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ETV_BAL_BHARAT" lang="en" xmltv_id="ETVBalBharat.in@SD">ETV Bal Bharat</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_EUROSPORT" lang="en" xmltv_id="Eurosport.in@SD">Eurosport</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_FRANCE_24" lang="en" xmltv_id="France24.fr@English">France 24</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOODNEWS_TV" lang="en" xmltv_id="GoodNewsTV.in">Goodnews TV</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_HISTORY_TV18_HD" lang="en" xmltv_id="HistoryTV18.in@HD">History TV18 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_HORNBILL" lang="en" xmltv_id="HornbillTV.in@SD">HORNBILL</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_AHEAD" lang="en" xmltv_id="IndiaAhead.in@SD">INDIA AHEAD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_TODAY" lang="en" xmltv_id="IndiaToday.in@SD">India Today</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY" lang="en" xmltv_id="InvestigationDiscovery.in@SD">Investigation Discovery</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MIRROR_NOW" lang="en" xmltv_id="MirrorNow.in@SD">MIRROR NOW</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW_HD" lang="en" xmltv_id="MoviesNow.in@HD">MOVIES NOW HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL_HD" lang="en" xmltv_id="NationalGeographic.in@HD">National Geographic Channel HD</channel>
@@ -83,6 +88,7 @@
   <channel site="content.astro.com.my" site_id="371" lang="en" xmltv_id="CartoonNetworkAsia.sg@SD">Cartoon Network HD</channel>
   <channel site="content.astro.com.my" site_id="385" lang="en" xmltv_id="CCTV4Asia.cn@SD">CCTV4 HD</channel>
   <channel site="content.astro.com.my" site_id="391" lang="en" xmltv_id="HITSMovies.sg@SD">HITS MOVIES HD</channel>
+  <channel site="content.astro.com.my" site_id="423" lang="en" xmltv_id="CNBCAsia.sg@SD">CNBC Asia HD</channel>
   <channel site="content.astro.com.my" site_id="426" lang="en" xmltv_id="CGTN.cn@SD">CGTN HD</channel>
   <channel site="content.astro.com.my" site_id="428" lang="en" xmltv_id="NHKWorldPremium.jp@SD">NHK World Premium</channel>
   <channel site="content.astro.com.my" site_id="447" lang="en" xmltv_id="LifetimeAsia.us@SD">Lifetime HD</channel>
@@ -172,6 +178,7 @@
   <channel site="entertainment.ie" site_id="tg4" lang="en" xmltv_id="TG4.ie@SD">TG4</channel>
   <channel site="foxtel.com.au" site_id="EXPO/EXP" lang="en" xmltv_id="ExpoChannel.au@SD">EXPO</channel>
   <channel site="foxtel.com.au" site_id="FOX-News/FNC" lang="en" xmltv_id="FoxNewsChannel.us@SD">FOX News</channel>
+  <channel site="foxtel.com.au" site_id="Fox-Sports-News/FSN" lang="en" xmltv_id="FoxSportsNews.au@SD">Fox Sports News</channel>
   <channel site="foxtel.com.au" site_id="RAI-ITALIA/RAI" lang="en" xmltv_id="RaiItalia.it@Australia">RAI ITALIA</channel>
   <channel site="foxtel.com.au" site_id="SBS-Worldwatch/SWW" lang="en" xmltv_id="SBSWorldWatch.au@Sydney">SBS Worldwatch</channel>
   <channel site="foxtel.com.au" site_id="SKY-Racing-2/SR2" lang="en" xmltv_id="SkyRacing2.au@SD">SKY Racing 2</channel>
@@ -732,7 +739,9 @@
   <channel site="mncvision.id" site_id="307" lang="en" xmltv_id="SPOTV.id@SD">SPOTV</channel>
   <channel site="mncvision.id" site_id="19" lang="en" xmltv_id="Thrill.hk@SD">Thrill</channel>
   <channel site="mytelly.co.uk" site_id="229/mutv" lang="en" xmltv_id="MUTV.uk@SD">MUTV</channel>
+  <channel site="mytelly.co.uk" site_id="435/sky-sports-nfl" lang="en" xmltv_id="SkySportsNFL.uk@SD">Sky Sports NFL</channel>
   <channel site="mytelly.co.uk" site_id="1511/cnbc-uk" lang="en" xmltv_id="CNBCUK.uk@SD">CNBC UK</channel>
+  <channel site="mytelly.co.uk" site_id="1670/sky-sports-f1" lang="en" xmltv_id="SkySportsF1.uk@SD">Sky Sports F1</channel>
   <channel site="mytelly.co.uk" site_id="1915/now-80s" lang="en" xmltv_id="Now80s.uk@SD">NOW 80s</channel>
   <channel site="mytelly.co.uk" site_id="1917/now-70s" lang="en" xmltv_id="Now70s.uk@SD">NOW 70s</channel>
   <channel site="mytelly.co.uk" site_id="2003/channels-24" lang="en" xmltv_id="Channels24.ng@SD">Channels 24</channel>
@@ -762,7 +771,6 @@
   <channel site="ontvtonight.com" site_id="us#69023748/the-nfl-network" lang="en" xmltv_id="NFLNetwork.us@SD">The NFL Network</channel>
   <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" xmltv_id="ShowtimeFamilyZone.us@East">Showtime FamilyZone (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69023900/starz-hd-east" lang="en" xmltv_id="Starz.us@East">STARZ HD (East)</channel>
-  <channel site="ontvtonight.com" site_id="us#69047892/starz-cinema-east" lang="en" xmltv_id="StarzCinema.us@East">STARZ Cinema (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69023898/starz-comedy-east" lang="en" xmltv_id="StarzComedy.us@East">Starz Comedy (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69040329/starz-encore-espanol" lang="en" xmltv_id="StarzEncoreSpanish.us@East">STARZ ENCORE Español</channel>
   <channel site="ontvtonight.com" site_id="us#69046986/tbs-superstation-east" lang="en" xmltv_id="TBS.us@East">TBS Superstation (East)</channel>
@@ -828,13 +836,11 @@
   <channel site="tvguide.com" site_id="9200004303" lang="en" xmltv_id="IFC.us@East">IFC</channel>
   <channel site="tvguide.com" site_id="9200004683" lang="en" xmltv_id="NationalGeographicWild.us@East">National Geographic Wild</channel>
   <channel site="tvguide.com" site_id="9200004848" lang="en" xmltv_id="CartoonNetwork.us@East">Cartoon Network</channel>
-  <channel site="tvguide.com" site_id="9200004852" lang="en" xmltv_id="DisneyXD.us@East">Disney XD</channel>
   <channel site="tvguide.com" site_id="9200004889" lang="en" xmltv_id="AE.us@East">A&amp;E</channel>
   <channel site="tvguide.com" site_id="9200006939" lang="en" xmltv_id="Nickelodeon.us@East">Nickelodeon</channel>
   <channel site="tvguide.com" site_id="9200006974" lang="en" xmltv_id="TeenNick.us@East">TeenNick</channel>
   <channel site="tvguide.com" site_id="9200006977" lang="en" xmltv_id="StarzKidsFamily.us@East">STARZ Kids &amp; Family</channel>
   <channel site="tvguide.com" site_id="9200009245" lang="en" xmltv_id="DestinationAmerica.us@SD">Destination America</channel>
-  <channel site="tvguide.com" site_id="9200011769" lang="en" xmltv_id="Reelz.us@SD">Reelz</channel>
   <channel site="tvguide.com" site_id="9200011927" lang="en" xmltv_id="Telemundo.us@East">Telemundo</channel>
   <channel site="tvguide.com" site_id="9200012085" lang="en" xmltv_id="CMT.us@East">CMT</channel>
   <channel site="tvguide.com" site_id="9200012343" lang="en" xmltv_id="E.us@East">E!</channel>
@@ -851,6 +857,7 @@
   <channel site="tvguide.com" site_id="9233002271" lang="en" xmltv_id="Fox.us@East">FOX</channel>
   <channel site="tvguide.com" site_id="9233002310" lang="en" xmltv_id="NationalGeographic.us@East">National Geographic</channel>
   <channel site="tvguide.com" site_id="9233004102" lang="en" xmltv_id="DiscoveryChannel.us@East">Discovery</channel>
+  <channel site="tvguide.com" site_id="9233004104" lang="en" xmltv_id="HGTV.us@East">HGTV</channel>
   <channel site="tvguide.com" site_id="9233004106" lang="en" xmltv_id="USANetwork.us@East">USA</channel>
   <channel site="tvguide.com" site_id="9233004141" lang="en" xmltv_id="PBS.us@East">PBS HD</channel>
   <channel site="tvguide.com" site_id="9233007153" lang="en" xmltv_id="NickJr.us@East">Nick Jr.</channel>
@@ -859,7 +866,6 @@
   <channel site="tvguide.com" site_id="9233008517" lang="en" xmltv_id="SECNetwork.us@SD">SEC Network</channel>
   <channel site="tvguide.com" site_id="9233009448" lang="en" xmltv_id="FoodNetwork.us@East">Food Network</channel>
   <channel site="tvguide.com" site_id="9233009788" lang="en" xmltv_id="DisneyJunior.us@East">Disney Junior</channel>
-  <channel site="tvguide.com" site_id="9233009825" lang="en" xmltv_id="LifetimeMovies.us@East">LMN</channel>
   <channel site="tvguide.com" site_id="9233009829" lang="en" xmltv_id="Cinemax.us@East">Cinemax</channel>
   <channel site="tvguide.com" site_id="9233009876" lang="en" xmltv_id="NBC.us@East">NBC National</channel>
   <channel site="tvguide.com" site_id="9233011488" lang="en" xmltv_id="Fuse.us@East">Fuse HD</channel>
@@ -878,7 +884,6 @@
   <channel site="tvpassport.com" site_id="hsn-2/13495" lang="en" xmltv_id="HSN2.us@SD">HSN 2</channel>
   <channel site="tvpassport.com" site_id="laff--network-hd/20170" lang="en" xmltv_id="Laff.us@SD">Laff - Network HD</channel>
   <channel site="tvpassport.com" site_id="ontario-legislature/417" lang="en" xmltv_id="LegislativeAssemblyofOntario.ca@SD">Ontario Legislature</channel>
-  <channel site="tvpassport.com" site_id="msg-madison-square-gardens-hd/4695" lang="en" xmltv_id="MSG.us@SD">MSG (Madison Square Gardens) HD</channel>
   <channel site="tvpassport.com" site_id="mtv-classic--east/2093" lang="en" xmltv_id="MTVClassic.us@East">MTV Classic - East</channel>
   <channel site="tvpassport.com" site_id="mtv-live-hd/6081" lang="en" xmltv_id="MTVLive.us@SD">MTV Live HD</channel>
   <channel site="tvpassport.com" site_id="one-america-news-network/12614" lang="en" xmltv_id="OneAmericaNewsNetwork.us@SD">One America News Network</channel>
