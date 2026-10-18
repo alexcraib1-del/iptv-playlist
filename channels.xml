@@ -61,6 +61,7 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VIJAY_HD" lang="en" xmltv_id="StarVijay.in@HD">Star Vijay HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA" lang="en" xmltv_id="SuperHungama.in@SD">Super Hungama</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TIMES_NOW" lang="en" xmltv_id="TimesNow.in@SD">TIMES NOW</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TLC" lang="en" xmltv_id="TLC.in@SD">TLC</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TRAVELXP" lang="en" xmltv_id="Travelxp.in@HD">Travelxp</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_WION" lang="en" xmltv_id="WION.in@SD">WION</channel>
   <channel site="aljazeera.com" site_id="aje#" lang="en" xmltv_id="AlJazeera.qa@English">Al Jazeera English</channel>
@@ -80,7 +81,6 @@
   <channel site="content.astro.com.my" site_id="143" lang="en" xmltv_id="HBOAsia.sg@Vietnam">HBO HD</channel>
   <channel site="content.astro.com.my" site_id="144" lang="en" xmltv_id="HistoryAsia.us@SD">History HD</channel>
   <channel site="content.astro.com.my" site_id="161" lang="en" xmltv_id="KBSWorld.kr@SD">KBS World HD</channel>
-  <channel site="content.astro.com.my" site_id="190" lang="en" xmltv_id="tvNAsia.hk@SD">tvN HD</channel>
   <channel site="content.astro.com.my" site_id="198" lang="en" xmltv_id="HGTVAsia.us@SD">HGTV HD</channel>
   <channel site="content.astro.com.my" site_id="287" lang="en" xmltv_id="DW.de@English">DW English</channel>
   <channel site="content.astro.com.my" site_id="295" lang="en" xmltv_id="CNA.sg@SD">CNA HD</channel>
@@ -181,7 +181,6 @@
   <channel site="foxtel.com.au" site_id="Fox-Sports-News/FSN" lang="en" xmltv_id="FoxSportsNews.au@SD">Fox Sports News</channel>
   <channel site="foxtel.com.au" site_id="RAI-ITALIA/RAI" lang="en" xmltv_id="RaiItalia.it@Australia">RAI ITALIA</channel>
   <channel site="foxtel.com.au" site_id="SBS-Worldwatch/SWW" lang="en" xmltv_id="SBSWorldWatch.au@Sydney">SBS Worldwatch</channel>
-  <channel site="foxtel.com.au" site_id="Sky-News-Extra/ASP" lang="en" xmltv_id="SkyNewsExtra.au@SD">Sky News Extra</channel>
   <channel site="foxtel.com.au" site_id="SKY-Racing-2/SR2" lang="en" xmltv_id="SkyRacing2.au@SD">SKY Racing 2</channel>
   <channel site="foxtel.com.au" site_id="TVSN/TVS" lang="en" xmltv_id="TVSN.au@SD">TVSN</channel>
   <channel site="freeview.co.uk" site_id="64257#12992" lang="en" xmltv_id="5USA.uk@SD">5USA</channel>
@@ -737,8 +736,6 @@
   <channel site="mewatch.sg" site_id="97073" lang="en" xmltv_id="meWATCHLIVE1.sg@SD">LIVE 1</channel>
   <channel site="mncvision.id" site_id="47" lang="en" xmltv_id="DreamWorksChannelAsia.us@SD">Dreamworks</channel>
   <channel site="mncvision.id" site_id="161" lang="en" xmltv_id="KIX.hk@SD">KIX</channel>
-  <channel site="mncvision.id" site_id="308" lang="en" xmltv_id="SPOTV2.id@SD">SPOTV 2</channel>
-  <channel site="mncvision.id" site_id="307" lang="en" xmltv_id="SPOTV.id@SD">SPOTV</channel>
   <channel site="mncvision.id" site_id="19" lang="en" xmltv_id="Thrill.hk@SD">Thrill</channel>
   <channel site="mytelly.co.uk" site_id="229/mutv" lang="en" xmltv_id="MUTV.uk@SD">MUTV</channel>
   <channel site="mytelly.co.uk" site_id="435/sky-sports-nfl" lang="en" xmltv_id="SkySportsNFL.uk@SD">Sky Sports NFL</channel>
@@ -813,7 +810,6 @@
   <channel site="sky.com" site_id="GB#5426" lang="en" xmltv_id="TVOne.uk@SD">TV One</channel>
   <channel site="sky.com" site_id="GB#3825" lang="en" xmltv_id="UAlibi.uk@HD">U&amp;Alibi HD</channel>
   <channel site="starhubtvplus.com" site_id="173fc873-1c01-4782-b0ee-f322fe23ef33" lang="en" xmltv_id="CNBC.us@SD">CNBC HD</channel>
-  <channel site="starhubtvplus.com" site_id="a253b74a-ab9d-4545-9cdd-d81e2d9a056d" lang="en" xmltv_id="FashionTVAsia.fr@SD">FashionTV HD</channel>
   <channel site="taiwanplus.com" site_id="#" lang="en" xmltv_id="TaiwanPlusTV.tw@SD">TaiwanPlus TV</channel>
   <channel site="tapdmv.com" site_id="24249e64-374c-4c32-bc02-1bfa953fa5ea" lang="en" xmltv_id="PremierSports.ph@SD">premiersports1</channel>
   <channel site="tapdmv.com" site_id="c8997290-0446-455e-9b55-ca3c749786b6" lang="en" xmltv_id="PremierSports2.ph@SD">premiersports2</channel>
@@ -851,7 +847,6 @@
   <channel site="tvguide.com" site_id="9200016601" lang="en" xmltv_id="HLN.us@SD">HLN</channel>
   <channel site="tvguide.com" site_id="9200017928" lang="en" xmltv_id="TCM.us@East">Turner Classic Movies</channel>
   <channel site="tvguide.com" site_id="9200018188" lang="en" xmltv_id="WeTV.us@East">WE tv</channel>
-  <channel site="tvguide.com" site_id="9200018475" lang="en" xmltv_id="DisneyChannel.us@East">Disney</channel>
   <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us@East">CBS National</channel>
   <channel site="tvguide.com" site_id="9200019858" lang="en" xmltv_id="GameShowNetwork.us@East">Game Show Network</channel>
   <channel site="tvguide.com" site_id="9200020469" lang="en" xmltv_id="Nicktoons.us@East">Nicktoons</channel>
