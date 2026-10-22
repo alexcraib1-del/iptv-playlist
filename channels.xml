@@ -174,6 +174,7 @@
   <channel site="entertainment.ie" site_id="itv4" lang="en" xmltv_id="ITV4.uk@SD">ITV4</channel>
   <channel site="entertainment.ie" site_id="more4" lang="en" xmltv_id="More4.uk@SD">More4</channel>
   <channel site="entertainment.ie" site_id="nickelodeon" lang="en" xmltv_id="Nickelodeon.uk@SD">Nickelodeon</channel>
+  <channel site="entertainment.ie" site_id="rte-jr" lang="en" xmltv_id="RTEjr.ie@SD">RTÉ Jr</channel>
   <channel site="entertainment.ie" site_id="tg4" lang="en" xmltv_id="TG4.ie@SD">TG4</channel>
   <channel site="foxtel.com.au" site_id="EXPO/EXP" lang="en" xmltv_id="ExpoChannel.au@SD">EXPO</channel>
   <channel site="foxtel.com.au" site_id="FOX-News/FNC" lang="en" xmltv_id="FoxNewsChannel.us@SD">FOX News</channel>
@@ -809,7 +810,6 @@
   <channel site="teliatv.ee" site_id="en#230" lang="en" xmltv_id="ViasatExplore.se@SD">Viasat Explore</channel>
   <channel site="teliatv.ee" site_id="en#231" lang="en" xmltv_id="ViasatHistory.se@SD">Viasat History</channel>
   <channel site="teliatv.ee" site_id="en#716" lang="en" xmltv_id="ViasatNature.se@SD">Viasat Nature</channel>
-  <channel site="teliatv.ee" site_id="en#1301" lang="en" xmltv_id="NicktoonsScandinavia.nl@SD">nicktoons</channel>
   <channel site="toonamiaftermath.com" site_id="Toonami Aftermath EST" lang="en" xmltv_id="ToonamiAftermath.us@East">Toonami Aftermath East</channel>
   <channel site="tv.blue.ch" site_id="85" lang="en" xmltv_id="BBCThreeCBBC.uk@HD">BBC Three / CBBC</channel>
   <channel site="tv.blue.ch" site_id="366" lang="en" xmltv_id="RTRPlaneta.ru@Europe">RTR Planeta</channel>
@@ -825,10 +825,12 @@
   <channel site="tvguide.com" site_id="9200004683" lang="en" xmltv_id="NationalGeographicWild.us@East">National Geographic Wild</channel>
   <channel site="tvguide.com" site_id="9200004848" lang="en" xmltv_id="CartoonNetwork.us@East">Cartoon Network</channel>
   <channel site="tvguide.com" site_id="9200004889" lang="en" xmltv_id="AE.us@East">A&amp;E</channel>
+  <channel site="tvguide.com" site_id="9200006932" lang="en" xmltv_id="FX.us@East">FX</channel>
   <channel site="tvguide.com" site_id="9200006939" lang="en" xmltv_id="Nickelodeon.us@East">Nickelodeon</channel>
   <channel site="tvguide.com" site_id="9200006974" lang="en" xmltv_id="TeenNick.us@East">TeenNick</channel>
   <channel site="tvguide.com" site_id="9200006977" lang="en" xmltv_id="StarzKidsFamily.us@East">STARZ Kids &amp; Family</channel>
   <channel site="tvguide.com" site_id="9200009245" lang="en" xmltv_id="DestinationAmerica.us@SD">Destination America</channel>
+  <channel site="tvguide.com" site_id="9200009884" lang="en" xmltv_id="FoxSports2.us@HD">FOX Sports 2</channel>
   <channel site="tvguide.com" site_id="9200011927" lang="en" xmltv_id="Telemundo.us@East">Telemundo</channel>
   <channel site="tvguide.com" site_id="9200012085" lang="en" xmltv_id="CMT.us@East">CMT</channel>
   <channel site="tvguide.com" site_id="9200012343" lang="en" xmltv_id="E.us@East">E!</channel>
