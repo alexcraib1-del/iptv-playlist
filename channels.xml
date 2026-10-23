@@ -72,7 +72,6 @@
   <channel site="canalplus.com" site_id="#654" lang="en" xmltv_id="NHKWorldJapan.jp@SD">NHK WORLD-JAPAN</channel>
   <channel site="cgates.lt" site_id="docubox-hd" lang="en" xmltv_id="DocuBox.nl@SD">DocuBox</channel>
   <channel site="cgates.lt" site_id="kidzone-tv" lang="en" xmltv_id="KidZoneMax.ee@SD">Kidzone Max</channel>
-  <channel site="chaines-tv.orange.fr" site_id="51" lang="en" xmltv_id="CNBCEurope.uk@SD">CNBC</channel>
   <channel site="chaines-tv.orange.fr" site_id="531" lang="en" xmltv_id="LuxeTV.lu@SD">LUXE TV</channel>
   <channel site="clickthecity.com" site_id="30" lang="en" xmltv_id="CinemaxAsia.sg@SD">Cinemax</channel>
   <channel site="clickthecity.com" site_id="168" lang="en" xmltv_id="AnimaxAsia.sg@Philippines">Animax</channel>
@@ -92,7 +91,6 @@
   <channel site="content.astro.com.my" site_id="428" lang="en" xmltv_id="NHKWorldPremium.jp@SD">NHK World Premium</channel>
   <channel site="content.astro.com.my" site_id="447" lang="en" xmltv_id="LifetimeAsia.us@SD">Lifetime HD</channel>
   <channel site="content.astro.com.my" site_id="449" lang="en" xmltv_id="HBOHitsAsia.sg@SD">HBO Hits</channel>
-  <channel site="content.astro.com.my" site_id="451" lang="en" xmltv_id="BBCLifestyle.uk@Asia">BBC Lifestyle HD</channel>
   <channel site="content.astro.com.my" site_id="452" lang="en" xmltv_id="BBCEarth.uk@Asia">BBC Earth</channel>
   <channel site="content.astro.com.my" site_id="465" lang="en" xmltv_id="MoonbugKids.uk@SD">Moonbug</channel>
   <channel site="dishtv.in" site_id="142794" lang="en" xmltv_id="DDMizoram.in@SD">DD MIZORAM</channel>
@@ -300,7 +298,6 @@
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-645e328e3ea1d2d705ef8ab2" lang="en" xmltv_id="EKeepingUp.us@SD">E! Keeping Up</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f170d61b898490041b49360" lang="en" xmltv_id="ElectricNow.us@SD">Electric Now</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6578bb741a12778a8550d158" lang="en" xmltv_id="EntertainmentTonight.us@SD">Entertainment Tonight</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" lang="en" xmltv_id="EstrellaTV.us@SD">Estrella TV</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a" lang="en" xmltv_id="F1Channel.ie@US">F1 Channel</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5f170d62b898490041b4936e" lang="en" xmltv_id="FailArmy.us@UK">FailArmy</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-635195e9ccee3e1547a8831a" lang="en" xmltv_id="Farscape.us@SD">Farscape</channel>
@@ -703,7 +700,6 @@
   <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.502" lang="en" xmltv_id="TVNZ2.nz@Plus1">TVNZ 2 +1</channel>
   <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.504" lang="en" xmltv_id="TVNZDUKE.nz@Plus1">TVNZ DUKE +1</channel>
   <channel site="ionplustv.com" site_id="#" lang="en" xmltv_id="IONPlus.us@East">ION Plus</channel>
-  <channel site="m.tv.sms.cz" site_id="Baby+TV" lang="en" xmltv_id="BabyTV.uk@UK">Baby TV</channel>
   <channel site="m.tv.sms.cz" site_id="CCTV4+Europe" lang="en" xmltv_id="CCTV4Europe.cn@SD">CCTV4 Europe</channel>
   <channel site="m.tv.sms.cz" site_id="English+Club+TV" lang="en" xmltv_id="EnglishClubTV.uk@SD">English Club TV</channel>
   <channel site="m.tv.sms.cz" site_id="Gametoon+HD+%28hr%29" lang="en" xmltv_id="Gametoon.nl@SD">Gametoon HD (hr)</channel>
@@ -790,6 +786,7 @@
   <channel site="singtel.com" site_id="5340" lang="en" xmltv_id="AniplusAsia.sg@SD">ANIPLUS HD</channel>
   <channel site="sky.com" site_id="GB#5087" lang="en" xmltv_id="AkaalChannel.uk@SD">Akaal Channel</channel>
   <channel site="sky.com" site_id="GB#3815" lang="en" xmltv_id="ChannelS.uk@SD">CHSTV</channel>
+  <channel site="sky.com" site_id="GB#1191" lang="en" xmltv_id="DunamisTV.ng@SD">Dunamis TV</channel>
   <channel site="sky.com" site_id="GB#3111" lang="en" xmltv_id="EmanChannel.uk@SD">Eman Channel</channel>
   <channel site="sky.com" site_id="GB#4404" lang="en" xmltv_id="FaithWorldTV.uk@SD">Faith World TV</channel>
   <channel site="sky.com" site_id="GB#3214" lang="en" xmltv_id="IslamChannel.uk@SD">Islam Channel</channel>
@@ -807,9 +804,6 @@
   <channel site="tataplay.com" site_id="1487" lang="en" xmltv_id="NewsXWorld.in@HD">NewsX World</channel>
   <channel site="tataplay.com" site_id="1823" lang="en" xmltv_id="PrimeAsiaTV.ca@SD">Prime Asia</channel>
   <channel site="tataplay.com" site_id="1290" lang="en" xmltv_id="TVRIWorld.id@SD">TVRI World</channel>
-  <channel site="teliatv.ee" site_id="en#230" lang="en" xmltv_id="ViasatExplore.se@SD">Viasat Explore</channel>
-  <channel site="teliatv.ee" site_id="en#231" lang="en" xmltv_id="ViasatHistory.se@SD">Viasat History</channel>
-  <channel site="teliatv.ee" site_id="en#716" lang="en" xmltv_id="ViasatNature.se@SD">Viasat Nature</channel>
   <channel site="toonamiaftermath.com" site_id="Toonami Aftermath EST" lang="en" xmltv_id="ToonamiAftermath.us@East">Toonami Aftermath East</channel>
   <channel site="tv.blue.ch" site_id="85" lang="en" xmltv_id="BBCThreeCBBC.uk@HD">BBC Three / CBBC</channel>
   <channel site="tv.blue.ch" site_id="366" lang="en" xmltv_id="RTRPlaneta.ru@Europe">RTR Planeta</channel>

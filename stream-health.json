@@ -45,7 +45,7 @@
     "status": "working"
   },
   "http://103.151.60.162:2122/play/a019/index.m3u8?hls": {
-    "consecutive_dead": 17,
+    "consecutive_dead": 18,
     "http_code": 404,
     "status": "dead"
   },
@@ -60,9 +60,9 @@
     "status": "working"
   },
   "http://103.151.60.162:2122/play/a01d/index.m3u8?hls": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "consecutive_dead": 1,
+    "http_code": 404,
+    "status": "dead"
   },
   "http://103.151.60.162:2122/play/a01f/index.m3u8?hls": {
     "consecutive_dead": 0,
@@ -75,7 +75,7 @@
     "status": "working"
   },
   "http://103.151.60.162:2122/play/a01m/index.m3u8?hls": {
-    "consecutive_dead": 17,
+    "consecutive_dead": 18,
     "http_code": 404,
     "status": "dead"
   },
@@ -100,7 +100,7 @@
     "status": "working"
   },
   "http://103.151.60.162:2122/play/a029/index.m3u8?hls": {
-    "consecutive_dead": 16,
+    "consecutive_dead": 17,
     "http_code": 404,
     "status": "dead"
   },
@@ -140,59 +140,59 @@
     "status": "uncertain"
   },
   "http://103.180.240.141:8080/hls/main1/playlist.m3u8": {
-    "consecutive_dead": 5,
+    "consecutive_dead": 6,
     "http_code": 404,
     "status": "dead"
   },
   "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "http_code": null,
+    "status": "uncertain"
   },
   "http://103.185.24.134:3001/NATGEO-HD/index.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "http_code": null,
+    "status": "uncertain"
   },
   "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "http_code": null,
+    "status": "uncertain"
   },
   "http://103.185.24.134:3001/NICK-JR/index.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "http_code": null,
+    "status": "uncertain"
   },
   "http://103.185.24.134:3001/SONY-BBC/index.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "http_code": null,
+    "status": "uncertain"
   },
   "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "http_code": null,
+    "status": "uncertain"
   },
   "http://103.185.24.134:3001/SonyTenSports1/index.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "http_code": null,
+    "status": "uncertain"
   },
   "http://103.185.24.134:3001/Star-Movies/index.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "http_code": null,
+    "status": "uncertain"
   },
   "http://103.190.232.129/stream/tvb/pacifique/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg": {
     "consecutive_dead": 0,
-    "http_code": 502,
-    "status": "restricted"
+    "http_code": null,
+    "status": "uncertain"
   },
   "http://103.190.232.129/stream/tvb/pacifique?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg": {
     "consecutive_dead": 0,
-    "http_code": 502,
-    "status": "restricted"
+    "http_code": null,
+    "status": "uncertain"
   },
   "http://103.250.28.74:8000/play/a00m/index.m3u8": {
     "consecutive_dead": 0,
@@ -274,21 +274,6 @@
     "http_code": 200,
     "status": "working"
   },
-  "http://107.167.16.138/OutdoorChannel/index.m3u8?token=test": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
-  },
-  "http://107.167.16.138/cp24/index.m3u8?token=test": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
-  },
-  "http://107.167.16.138/nickjr/index.m3u8?token=test": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
-  },
   "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8": {
     "consecutive_dead": 0,
     "http_code": 200,
@@ -296,8 +281,8 @@
   },
   "http://109.104.153.220:80/TSN-4/index.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "http_code": null,
+    "status": "uncertain"
   },
   "http://115.42.65.142:9981/stream/channelid/1273966657": {
     "consecutive_dead": 0,
@@ -370,34 +355,14 @@
     "status": "working"
   },
   "http://141.94.193.53:80/axn_black/index.m3u8": {
-    "consecutive_dead": 1,
-    "http_code": 404,
-    "status": "dead"
+    "consecutive_dead": 0,
+    "http_code": 200,
+    "status": "working"
   },
   "http://144.217.14.88/hls/hope4life.m3u8": {
     "consecutive_dead": 0,
     "http_code": null,
     "status": "uncertain"
-  },
-  "http://145.239.5.177/147/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 403,
-    "status": "restricted"
-  },
-  "http://145.239.5.177/210/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 403,
-    "status": "restricted"
-  },
-  "http://145.239.5.177/215/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 403,
-    "status": "restricted"
-  },
-  "http://145.239.5.177/315/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 403,
-    "status": "restricted"
   },
   "http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8": {
     "consecutive_dead": 0,
@@ -405,7 +370,7 @@
     "status": "working"
   },
   "http://15.204.246.24:8080/PlusTLTHD/index.m3u8": {
-    "consecutive_dead": 32,
+    "consecutive_dead": 33,
     "http_code": 404,
     "status": "dead"
   },
@@ -415,7 +380,7 @@
     "status": "uncertain"
   },
   "http://158.160.149.81:8080/269/index.m3u8": {
-    "consecutive_dead": 17,
+    "consecutive_dead": 18,
     "http_code": 404,
     "status": "dead"
   },
@@ -455,7 +420,7 @@
     "status": "working"
   },
   "http://168.228.44.241:9997/play/a07g/index.m3u8": {
-    "consecutive_dead": 13,
+    "consecutive_dead": 14,
     "http_code": 404,
     "status": "dead"
   },
@@ -510,11 +475,6 @@
     "status": "uncertain"
   },
   "http://181.119.108.43:9001/play/a044/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8": {
     "consecutive_dead": 0,
     "http_code": null,
     "status": "uncertain"
@@ -826,31 +786,31 @@
   },
   "http://212.5.144.156:8080/tvc/index.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "http_code": null,
+    "status": "uncertain"
   },
   "http://213.91.179.28:8000/play/a03r": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "http://213.91.179.28:8000/play/a059": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "http://213.91.179.28:8000/play/a0bw": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "http://213.91.179.28:8000/play/a0c9": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "http://213.91.179.28:8000/play/a0ct": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -965,7 +925,7 @@
     "status": "working"
   },
   "http://23.237.104.106:8080/USA_LMN/index.m3u8": {
-    "consecutive_dead": 8,
+    "consecutive_dead": 9,
     "http_code": 404,
     "status": "dead"
   },
@@ -980,7 +940,7 @@
     "status": "working"
   },
   "http://23.237.104.106:8080/USA_MSG/index.m3u8": {
-    "consecutive_dead": 8,
+    "consecutive_dead": 9,
     "http_code": 404,
     "status": "dead"
   },
@@ -1015,7 +975,7 @@
     "status": "working"
   },
   "http://23.237.104.106:8080/USA_REELZ/index.m3u8": {
-    "consecutive_dead": 8,
+    "consecutive_dead": 9,
     "http_code": 404,
     "status": "dead"
   },
@@ -1035,7 +995,7 @@
     "status": "working"
   },
   "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8": {
-    "consecutive_dead": 8,
+    "consecutive_dead": 9,
     "http_code": 404,
     "status": "dead"
   },
@@ -1169,51 +1129,6 @@
     "http_code": null,
     "status": "uncertain"
   },
-  "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
-  },
-  "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
-  },
-  "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
-  },
-  "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12055/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 409,
-    "status": "restricted"
-  },
-  "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19093/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 409,
-    "status": "restricted"
-  },
-  "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 409,
-    "status": "restricted"
-  },
-  "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 409,
-    "status": "restricted"
-  },
-  "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 409,
-    "status": "restricted"
-  },
-  "http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
-  },
   "http://38.134.250.110:8000/play/a01t/index.m3u8": {
     "consecutive_dead": 0,
     "http_code": 200,
@@ -1230,7 +1145,7 @@
     "status": "uncertain"
   },
   "http://41.205.93.154/AMC/index.m3u8": {
-    "consecutive_dead": 8,
+    "consecutive_dead": 9,
     "http_code": 404,
     "status": "dead"
   },
@@ -1240,7 +1155,7 @@
     "status": "working"
   },
   "http://41.205.93.154/CNBC/index.m3u8": {
-    "consecutive_dead": 5,
+    "consecutive_dead": 6,
     "http_code": 404,
     "status": "dead"
   },
@@ -1260,16 +1175,6 @@
     "status": "working"
   },
   "http://45.14.84.37/bbc4/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://45.145.32.13:20440/mmatv/index.m3u8?token=test": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test": {
     "consecutive_dead": 0,
     "http_code": null,
     "status": "uncertain"
@@ -1349,110 +1254,10 @@
     "http_code": null,
     "status": "uncertain"
   },
-  "http://57.128.210.196:8080/202/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/229/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/234/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/239/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/240/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/247/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/248/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/249/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/253/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/262/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/278/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/286/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/303/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/305/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/307/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/308/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/309/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/310/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
-  "http://57.128.231.171:8080/316/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
-  },
   "http://59.103.38.46:8000/play/a126/index.m3u8": {
     "consecutive_dead": 0,
     "http_code": 403,
     "status": "restricted"
-  },
-  "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/1098/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
   },
   "http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8": {
     "consecutive_dead": 0,
@@ -1553,6 +1358,11 @@
     "consecutive_dead": 0,
     "http_code": 403,
     "status": "restricted"
+  },
+  "http://87.120.179.187:8000/play/a010": {
+    "consecutive_dead": 0,
+    "http_code": 200,
+    "status": "working"
   },
   "http://88.212.15.17/live/amc_hun/index.m3u8": {
     "consecutive_dead": 0,
@@ -1879,11 +1689,6 @@
     "http_code": 200,
     "status": "working"
   },
-  "http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
-  },
   "http://dancehits80.denvs.ru:8080/index.m3u8": {
     "consecutive_dead": 0,
     "http_code": 200,
@@ -1895,12 +1700,12 @@
     "status": "uncertain"
   },
   "http://dtv.vol.net.ua/Viasat_Kino/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -1908,11 +1713,6 @@
     "consecutive_dead": 0,
     "http_code": 403,
     "status": "restricted"
-  },
-  "http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
   },
   "http://en.imamhossaintv.com/live/ih3.m3u8": {
     "consecutive_dead": 0,
@@ -2025,11 +1825,6 @@
     "status": "working"
   },
   "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
-  },
-  "http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1099/index.m3u8": {
     "consecutive_dead": 0,
     "http_code": 200,
     "status": "working"
@@ -2220,9 +2015,9 @@
     "status": "working"
   },
   "http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "consecutive_dead": 1,
+    "http_code": 404,
+    "status": "dead"
   },
   "http://stream.pardesitv.online/pardesi/index.m3u8": {
     "consecutive_dead": 0,
@@ -2265,7 +2060,7 @@
     "status": "working"
   },
   "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8": {
-    "consecutive_dead": 1,
+    "consecutive_dead": 2,
     "http_code": 404,
     "status": "dead"
   },
@@ -2425,7 +2220,7 @@
     "status": "working"
   },
   "https://1681360479.rsc.cdn77.org/1681360479/index.m3u8": {
-    "consecutive_dead": 1,
+    "consecutive_dead": 2,
     "http_code": 404,
     "status": "dead"
   },
@@ -2445,7 +2240,7 @@
     "status": "working"
   },
   "https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8": {
-    "consecutive_dead": 9,
+    "consecutive_dead": 10,
     "http_code": 404,
     "status": "dead"
   },
@@ -2730,7 +2525,7 @@
     "status": "working"
   },
   "https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -2855,7 +2650,7 @@
     "status": "working"
   },
   "https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8": {
-    "consecutive_dead": 4,
+    "consecutive_dead": 5,
     "http_code": 404,
     "status": "dead"
   },
@@ -2890,7 +2685,7 @@
     "status": "working"
   },
   "https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -3050,9 +2845,9 @@
     "status": "working"
   },
   "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "consecutive_dead": 1,
+    "http_code": 404,
+    "status": "dead"
   },
   "https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8": {
     "consecutive_dead": 0,
@@ -3110,7 +2905,7 @@
     "status": "working"
   },
   "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8": {
-    "consecutive_dead": 9,
+    "consecutive_dead": 10,
     "http_code": 404,
     "status": "dead"
   },
@@ -3125,9 +2920,9 @@
     "status": "uncertain"
   },
   "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "consecutive_dead": 1,
+    "http_code": 404,
+    "status": "dead"
   },
   "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8": {
     "consecutive_dead": 0,
@@ -3385,7 +3180,7 @@
     "status": "working"
   },
   "https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8": {
-    "consecutive_dead": 9,
+    "consecutive_dead": 10,
     "http_code": 404,
     "status": "dead"
   },
@@ -3570,7 +3365,7 @@
     "status": "working"
   },
   "https://aegis-cloudfront-1.tubi.video/28fb04b8-8d48-4c2a-833a-7f51059a405d/playlist.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -3620,7 +3415,7 @@
     "status": "working"
   },
   "https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -3755,7 +3550,7 @@
     "status": "working"
   },
   "https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -3790,7 +3585,7 @@
     "status": "working"
   },
   "https://aegis-cloudfront-1.tubi.video/afa9e2ab-abda-47c0-9fd5-48c9641aaa9e/playlist.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -3840,12 +3635,12 @@
     "status": "working"
   },
   "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8": {
-    "consecutive_dead": 22,
+    "consecutive_dead": 23,
     "http_code": 404,
     "status": "dead"
   },
   "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8": {
-    "consecutive_dead": 22,
+    "consecutive_dead": 23,
     "http_code": 404,
     "status": "dead"
   },
@@ -3960,7 +3755,7 @@
     "status": "working"
   },
   "https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -5640,14 +5435,14 @@
     "status": "working"
   },
   "https://atechgroupuk.site/DTV.m3u8": {
-    "consecutive_dead": 10,
-    "http_code": 404,
-    "status": "dead"
+    "consecutive_dead": 0,
+    "http_code": null,
+    "status": "uncertain"
   },
   "https://atechgroupuk.site/ETV.m3u8": {
-    "consecutive_dead": 10,
-    "http_code": 404,
-    "status": "dead"
+    "consecutive_dead": 0,
+    "http_code": null,
+    "status": "uncertain"
   },
   "https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8": {
     "consecutive_dead": 0,
@@ -5765,7 +5560,7 @@
     "status": "working"
   },
   "https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8": {
-    "consecutive_dead": 9,
+    "consecutive_dead": 10,
     "http_code": 404,
     "status": "dead"
   },
@@ -6305,12 +6100,12 @@
     "status": "working"
   },
   "https://cdn-7.pishow.tv/live/429/master.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://cdn-7.pishow.tv/live/431/master.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -6650,7 +6445,7 @@
     "status": "working"
   },
   "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8": {
-    "consecutive_dead": 35,
+    "consecutive_dead": 36,
     "http_code": 404,
     "status": "dead"
   },
@@ -6855,7 +6650,7 @@
     "status": "working"
   },
   "https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -6920,7 +6715,7 @@
     "status": "working"
   },
   "https://cdn.pishow.tv/ott/live/266/master.m3u8": {
-    "consecutive_dead": 22,
+    "consecutive_dead": 23,
     "http_code": 404,
     "status": "dead"
   },
@@ -6970,52 +6765,52 @@
     "status": "working"
   },
   "https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd": {
-    "consecutive_dead": 18,
+    "consecutive_dead": 19,
     "http_code": 404,
     "status": "dead"
   },
   "https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd": {
-    "consecutive_dead": 18,
+    "consecutive_dead": 19,
     "http_code": 404,
     "status": "dead"
   },
   "https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd": {
-    "consecutive_dead": 18,
+    "consecutive_dead": 19,
     "http_code": 404,
     "status": "dead"
   },
   "https://cdn.stmify.com/bbc/stream/BBC_SCOTLAND/hevc_iptv_mse_v0.mpd": {
-    "consecutive_dead": 18,
+    "consecutive_dead": 19,
     "http_code": 404,
     "status": "dead"
   },
   "https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd": {
-    "consecutive_dead": 18,
+    "consecutive_dead": 19,
     "http_code": 404,
     "status": "dead"
   },
   "https://cdn.stmify.com/bbc/stream/BBC_TWO/hevc_iptv_mse_v0.mpd": {
-    "consecutive_dead": 18,
+    "consecutive_dead": 19,
     "http_code": 404,
     "status": "dead"
   },
   "https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd": {
-    "consecutive_dead": 18,
+    "consecutive_dead": 19,
     "http_code": 404,
     "status": "dead"
   },
   "https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd": {
-    "consecutive_dead": 18,
+    "consecutive_dead": 19,
     "http_code": 404,
     "status": "dead"
   },
   "https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd": {
-    "consecutive_dead": 18,
+    "consecutive_dead": 19,
     "http_code": 404,
     "status": "dead"
   },
   "https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd": {
-    "consecutive_dead": 18,
+    "consecutive_dead": 19,
     "http_code": 404,
     "status": "dead"
   },
@@ -7030,9 +6825,9 @@
     "status": "working"
   },
   "https://cdn.vegasplus.us/vegas/actv/playlist.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "consecutive_dead": 1,
+    "http_code": 404,
+    "status": "dead"
   },
   "https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8": {
     "consecutive_dead": 0,
@@ -7055,9 +6850,9 @@
     "status": "working"
   },
   "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8": {
-    "consecutive_dead": 1,
-    "http_code": 404,
-    "status": "dead"
+    "consecutive_dead": 0,
+    "http_code": 200,
+    "status": "working"
   },
   "https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8": {
     "consecutive_dead": 0,
@@ -7190,9 +6985,9 @@
     "status": "working"
   },
   "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8": {
-    "consecutive_dead": 2,
-    "http_code": 404,
-    "status": "dead"
+    "consecutive_dead": 0,
+    "http_code": 200,
+    "status": "working"
   },
   "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8": {
     "consecutive_dead": 0,
@@ -7350,7 +7145,7 @@
     "status": "uncertain"
   },
   "https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -7375,7 +7170,7 @@
     "status": "working"
   },
   "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -7446,8 +7241,8 @@
   },
   "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8": {
     "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
+    "http_code": 200,
+    "status": "working"
   },
   "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8": {
     "consecutive_dead": 0,
@@ -7470,7 +7265,7 @@
     "status": "working"
   },
   "https://ch8.littletongov.org/live-2/live/live.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -7805,7 +7600,7 @@
     "status": "uncertain"
   },
   "https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8": {
-    "consecutive_dead": 7,
+    "consecutive_dead": 8,
     "http_code": 404,
     "status": "dead"
   },
@@ -7850,7 +7645,7 @@
     "status": "working"
   },
   "https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -8740,7 +8535,7 @@
     "status": "working"
   },
   "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -8830,7 +8625,7 @@
     "status": "working"
   },
   "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8": {
-    "consecutive_dead": 9,
+    "consecutive_dead": 10,
     "http_code": 404,
     "status": "dead"
   },
@@ -8950,7 +8745,7 @@
     "status": "working"
   },
   "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -9146,13 +8941,13 @@
   },
   "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8": {
     "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
+    "http_code": 200,
+    "status": "working"
   },
   "https://digicom.hls.iptvdc.com/motorstv/index.m3u8": {
     "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
+    "http_code": 200,
+    "status": "working"
   },
   "https://dil9xdvretp0f.cloudfront.net/index.m3u8": {
     "consecutive_dead": 0,
@@ -9595,7 +9390,7 @@
     "status": "working"
   },
   "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8": {
-    "consecutive_dead": 16,
+    "consecutive_dead": 17,
     "http_code": 404,
     "status": "dead"
   },
@@ -9795,9 +9590,9 @@
     "status": "working"
   },
   "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8": {
-    "consecutive_dead": 1,
-    "http_code": 404,
-    "status": "dead"
+    "consecutive_dead": 0,
+    "http_code": 200,
+    "status": "working"
   },
   "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8": {
     "consecutive_dead": 0,
@@ -9955,7 +9750,7 @@
     "status": "uncertain"
   },
   "https://glorystartv.live/Overcomers/index.m3u8": {
-    "consecutive_dead": 24,
+    "consecutive_dead": 25,
     "http_code": 404,
     "status": "dead"
   },
@@ -9970,57 +9765,57 @@
     "status": "working"
   },
   "https://goliveafrica.media:9998/live/62580b337c021/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/62580d78ac508/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8": {
-    "consecutive_dead": 1,
+    "consecutive_dead": 2,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/62f643cdca8cf/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/638da5440743c/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -10030,77 +9825,77 @@
     "status": "working"
   },
   "https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/646c92d07b16c/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/647460ac1ddd6/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/64873b6222c93/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/650452cf2ddb2/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/6516be24a6bac/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/659a7f33bed3f/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://goliveafrica.media:9998/live/65d8475d1e6cb/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -10125,7 +9920,7 @@
     "status": "working"
   },
   "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8": {
-    "consecutive_dead": 23,
+    "consecutive_dead": 24,
     "http_code": 404,
     "status": "dead"
   },
@@ -10145,9 +9940,9 @@
     "status": "working"
   },
   "https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "consecutive_dead": 1,
+    "http_code": 404,
+    "status": "dead"
   },
   "https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8": {
     "consecutive_dead": 0,
@@ -11016,8 +10811,8 @@
   },
   "https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "http_code": 500,
+    "status": "restricted"
   },
   "https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8": {
     "consecutive_dead": 0,
@@ -11185,7 +10980,7 @@
     "status": "working"
   },
   "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8": {
-    "consecutive_dead": 9,
+    "consecutive_dead": 10,
     "http_code": 404,
     "status": "dead"
   },
@@ -11520,7 +11315,7 @@
     "status": "working"
   },
   "https://jmp2.uk/plu-60e452730e76f20007598de8.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -11585,7 +11380,7 @@
     "status": "working"
   },
   "https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8": {
-    "consecutive_dead": 9,
+    "consecutive_dead": 10,
     "http_code": 404,
     "status": "dead"
   },
@@ -11810,7 +11605,7 @@
     "status": "working"
   },
   "https://jmp2.uk/plu-619e21b213ef6b0007d8c17a.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -11825,7 +11620,7 @@
     "status": "working"
   },
   "https://jmp2.uk/plu-619e286e093e7c0007489e6a.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -11840,7 +11635,7 @@
     "status": "working"
   },
   "https://jmp2.uk/plu-619e4a3518d6970008bebc95.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -13090,7 +12885,7 @@
     "status": "working"
   },
   "https://jmp2.uk/plu-63d000ef4e83e700086e0d6c.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -13110,7 +12905,7 @@
     "status": "working"
   },
   "https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8": {
-    "consecutive_dead": 9,
+    "consecutive_dead": 10,
     "http_code": 404,
     "status": "dead"
   },
@@ -13330,7 +13125,7 @@
     "status": "working"
   },
   "https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8": {
-    "consecutive_dead": 21,
+    "consecutive_dead": 22,
     "http_code": 404,
     "status": "dead"
   },
@@ -13350,17 +13145,17 @@
     "status": "working"
   },
   "https://jmp2.uk/plu-648056f0f77b61000828f1ba.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://jmp2.uk/plu-64805755536e0c0008a19fa1.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://jmp2.uk/plu-64805922536e0c0008a1a1e6.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -13440,7 +13235,7 @@
     "status": "working"
   },
   "https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8": {
-    "consecutive_dead": 9,
+    "consecutive_dead": 10,
     "http_code": 404,
     "status": "dead"
   },
@@ -13780,7 +13575,7 @@
     "status": "working"
   },
   "https://jmp2.uk/plu-65786abdb3801200084c593a.m3u8": {
-    "consecutive_dead": 9,
+    "consecutive_dead": 10,
     "http_code": 404,
     "status": "dead"
   },
@@ -13825,7 +13620,7 @@
     "status": "working"
   },
   "https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8": {
-    "consecutive_dead": 9,
+    "consecutive_dead": 10,
     "http_code": 404,
     "status": "dead"
   },
@@ -13840,7 +13635,7 @@
     "status": "working"
   },
   "https://jmp2.uk/plu-65a7b04e7bdc8d0008488307.m3u8": {
-    "consecutive_dead": 9,
+    "consecutive_dead": 10,
     "http_code": 404,
     "status": "dead"
   },
@@ -14235,7 +14030,7 @@
     "status": "working"
   },
   "https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8": {
-    "consecutive_dead": 21,
+    "consecutive_dead": 22,
     "http_code": 404,
     "status": "dead"
   },
@@ -14355,7 +14150,7 @@
     "status": "working"
   },
   "https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -15080,7 +14875,7 @@
     "status": "working"
   },
   "https://jmp2.uk/plu-69172a4fcf4a1101befdd894.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -15795,7 +15590,7 @@
     "status": "working"
   },
   "https://lin10.isilive.ca/live/gainesville/live/index.m3u8": {
-    "consecutive_dead": 22,
+    "consecutive_dead": 23,
     "http_code": 404,
     "status": "dead"
   },
@@ -15930,97 +15725,97 @@
     "status": "working"
   },
   "https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-694.frequency.stream/dist/stirr/694/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
@@ -16195,9 +15990,9 @@
     "status": "working"
   },
   "https://live.castmaxcloud.com/live/hstv.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "consecutive_dead": 1,
+    "http_code": 404,
+    "status": "dead"
   },
   "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8": {
     "consecutive_dead": 0,
@@ -16220,7 +16015,7 @@
     "status": "working"
   },
   "https://live.esteem.africa/kstv/hls/0/stream.m3u8": {
-    "consecutive_dead": 14,
+    "consecutive_dead": 15,
     "http_code": 404,
     "status": "dead"
   },
@@ -16235,12 +16030,12 @@
     "status": "working"
   },
   "https://live.field59.com/wlio/wlio1/playlist.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://live.field59.com/wrde/wrde1/playlist.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -16335,14 +16130,14 @@
     "status": "working"
   },
   "https://live.presstv.co.uk/hls/ifilmen.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "consecutive_dead": 1,
+    "http_code": 404,
+    "status": "dead"
   },
   "https://live.presstv.co.uk/hls/presstv.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "consecutive_dead": 1,
+    "http_code": 404,
+    "status": "dead"
   },
   "https://live.presstv.ir/hls/presstv_5_482/index.m3u8": {
     "consecutive_dead": 0,
@@ -16355,7 +16150,7 @@
     "status": "uncertain"
   },
   "https://live.seminolecountyfl.gov/live-2/live/stream-1/live.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -16470,7 +16265,7 @@
     "status": "working"
   },
   "https://live8fd.lakewood.org/live-2/live/live.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -16515,17 +16310,17 @@
     "status": "working"
   },
   "https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8": {
-    "consecutive_dead": 10,
+    "consecutive_dead": 11,
     "http_code": 404,
     "status": "dead"
   },
   "https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -16535,7 +16330,7 @@
     "status": "working"
   },
   "https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -17090,12 +16885,12 @@
     "status": "working"
   },
   "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8": {
-    "consecutive_dead": 1,
+    "consecutive_dead": 2,
     "http_code": 404,
     "status": "dead"
   },
   "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8": {
-    "consecutive_dead": 1,
+    "consecutive_dead": 2,
     "http_code": 404,
     "status": "dead"
   },
@@ -17116,28 +16911,28 @@
   },
   "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https": {
     "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "http_code": 408,
+    "status": "restricted"
   },
   "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https": {
     "consecutive_dead": 0,
-    "http_code": 408,
-    "status": "restricted"
+    "http_code": 200,
+    "status": "working"
   },
   "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https": {
     "consecutive_dead": 0,
-    "http_code": 408,
-    "status": "restricted"
+    "http_code": 200,
+    "status": "working"
   },
   "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https": {
     "consecutive_dead": 0,
-    "http_code": 408,
-    "status": "restricted"
+    "http_code": 200,
+    "status": "working"
   },
   "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 408,
-    "status": "restricted"
+    "http_code": 200,
+    "status": "working"
   },
   "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8": {
     "consecutive_dead": 0,
@@ -17146,13 +16941,13 @@
   },
   "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 408,
-    "status": "restricted"
+    "http_code": 200,
+    "status": "working"
   },
   "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 408,
-    "status": "restricted"
+    "http_code": 200,
+    "status": "working"
   },
   "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8": {
     "consecutive_dead": 0,
@@ -17161,13 +16956,13 @@
   },
   "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https": {
     "consecutive_dead": 0,
-    "http_code": 408,
-    "status": "restricted"
+    "http_code": 200,
+    "status": "working"
   },
   "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https": {
     "consecutive_dead": 0,
-    "http_code": 408,
-    "status": "restricted"
+    "http_code": 200,
+    "status": "working"
   },
   "https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8": {
     "consecutive_dead": 0,
@@ -17220,7 +17015,7 @@
     "status": "working"
   },
   "https://media2.streambrothers.com:19360/8028/8028.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -17250,7 +17045,7 @@
     "status": "working"
   },
   "https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -17675,7 +17470,7 @@
     "status": "working"
   },
   "https://nowhls.wns.live/hls/stream.m3u8": {
-    "consecutive_dead": 21,
+    "consecutive_dead": 22,
     "http_code": 404,
     "status": "dead"
   },
@@ -17716,18 +17511,18 @@
   },
   "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8": {
     "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
+    "http_code": 200,
+    "status": "working"
   },
   "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8": {
     "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
+    "http_code": 200,
+    "status": "working"
   },
   "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8": {
     "consecutive_dead": 0,
-    "http_code": null,
-    "status": "uncertain"
+    "http_code": 200,
+    "status": "working"
   },
   "https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8": {
     "consecutive_dead": 0,
@@ -17865,7 +17660,7 @@
     "status": "working"
   },
   "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8": {
-    "consecutive_dead": 16,
+    "consecutive_dead": 17,
     "http_code": 404,
     "status": "dead"
   },
@@ -18205,14 +18000,14 @@
     "status": "working"
   },
   "https://play-sh.quklive.com/live/1780907795235397.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://player.qtv.gm/hls/live.stream.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "http_code": null,
+    "status": "uncertain"
   },
   "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8": {
     "consecutive_dead": 0,
@@ -18381,8 +18176,8 @@
   },
   "https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 429,
-    "status": "restricted"
+    "http_code": 200,
+    "status": "working"
   },
   "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8": {
     "consecutive_dead": 0,
@@ -18425,7 +18220,7 @@
     "status": "working"
   },
   "https://rarelivetv8080.neocities.org/USA_KARTOON_CHANNEL/index.m3u8": {
-    "consecutive_dead": 21,
+    "consecutive_dead": 22,
     "http_code": 404,
     "status": "dead"
   },
@@ -18453,11 +18248,6 @@
     "consecutive_dead": 0,
     "http_code": 200,
     "status": "working"
-  },
-  "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/english-club-global.m3u8": {
-    "consecutive_dead": 6,
-    "http_code": 404,
-    "status": "dead"
   },
   "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8": {
     "consecutive_dead": 0,
@@ -19220,7 +19010,7 @@
     "status": "working"
   },
   "https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8": {
-    "consecutive_dead": 24,
+    "consecutive_dead": 25,
     "http_code": 404,
     "status": "dead"
   },
@@ -19325,9 +19115,9 @@
     "status": "uncertain"
   },
   "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8": {
-    "consecutive_dead": 1,
-    "http_code": 404,
-    "status": "dead"
+    "consecutive_dead": 0,
+    "http_code": 200,
+    "status": "working"
   },
   "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8": {
     "consecutive_dead": 0,
@@ -19375,7 +19165,7 @@
     "status": "working"
   },
   "https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -19555,7 +19345,7 @@
     "status": "restricted"
   },
   "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -19565,7 +19355,7 @@
     "status": "working"
   },
   "https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -19595,7 +19385,7 @@
     "status": "working"
   },
   "https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8": {
-    "consecutive_dead": 2,
+    "consecutive_dead": 3,
     "http_code": 404,
     "status": "dead"
   },
@@ -19746,8 +19536,8 @@
   },
   "https://stream.asiatvnet.com/1/live/master.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 521,
-    "status": "restricted"
+    "http_code": null,
+    "status": "uncertain"
   },
   "https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8": {
     "consecutive_dead": 0,
@@ -19760,7 +19550,7 @@
     "status": "working"
   },
   "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8": {
-    "consecutive_dead": 27,
+    "consecutive_dead": 28,
     "http_code": 404,
     "status": "dead"
   },
@@ -19770,12 +19560,12 @@
     "status": "working"
   },
   "https://stream.castr.com/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/index.fmp4.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
   "https://stream.castr.com/65dee3aad6beacddbd6cd1af/live_21e811c0d60d11eeaa1a471c2c967e4a/index.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -20121,8 +19911,8 @@
   },
   "https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "http_code": null,
+    "status": "uncertain"
   },
   "https://streams.prd.commavservices.eu/live/ebs/index.m3u8": {
     "consecutive_dead": 0,
@@ -20156,8 +19946,8 @@
   },
   "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8": {
     "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "http_code": 401,
+    "status": "restricted"
   },
   "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8": {
     "consecutive_dead": 0,
@@ -20395,7 +20185,7 @@
     "status": "working"
   },
   "https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
@@ -20645,7 +20435,7 @@
     "status": "working"
   },
   "https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8": {
-    "consecutive_dead": 2,
+    "consecutive_dead": 3,
     "http_code": 404,
     "status": "dead"
   },
@@ -20713,6 +20503,11 @@
     "consecutive_dead": 0,
     "http_code": 200,
     "status": "working"
+  },
+  "https://tvsen7.aynascope.net/pbskids/index.m3u8": {
+    "consecutive_dead": 1,
+    "http_code": 404,
+    "status": "dead"
   },
   "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8": {
     "consecutive_dead": 0,
@@ -21114,6 +20909,11 @@
     "http_code": 200,
     "status": "working"
   },
+  "https://vid.hls.protv.ro/liveibu8/liveibu8_highw/index.m3u8?1": {
+    "consecutive_dead": 0,
+    "http_code": 200,
+    "status": "working"
+  },
   "https://video.ejeserver.com/live/mcitelevision.m3u8": {
     "consecutive_dead": 0,
     "http_code": 200,
@@ -21160,7 +20960,7 @@
     "status": "working"
   },
   "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8": {
-    "consecutive_dead": 13,
+    "consecutive_dead": 14,
     "http_code": 404,
     "status": "dead"
   },
@@ -21285,7 +21085,7 @@
     "status": "working"
   },
   "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8": {
-    "consecutive_dead": 22,
+    "consecutive_dead": 23,
     "http_code": 404,
     "status": "dead"
   },
@@ -21321,8 +21121,8 @@
   },
   "https://vmttv.dpdns.org/tv360/?id=davinci-hd": {
     "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "http_code": null,
+    "status": "uncertain"
   },
   "https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8": {
     "consecutive_dead": 0,
@@ -21355,12 +21155,12 @@
     "status": "working"
   },
   "https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8": {
-    "consecutive_dead": 12,
+    "consecutive_dead": 13,
     "http_code": 404,
     "status": "dead"
   },
   "https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8": {
-    "consecutive_dead": 12,
+    "consecutive_dead": 13,
     "http_code": 404,
     "status": "dead"
   },
@@ -21840,9 +21640,9 @@
     "status": "restricted"
   },
   "https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8": {
-    "consecutive_dead": 0,
-    "http_code": 200,
-    "status": "working"
+    "consecutive_dead": 1,
+    "http_code": 404,
+    "status": "dead"
   },
   "https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8": {
     "consecutive_dead": 0,
@@ -21870,9 +21670,9 @@
     "status": "restricted"
   },
   "https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8": {
-    "consecutive_dead": 1,
-    "http_code": 404,
-    "status": "dead"
+    "consecutive_dead": 0,
+    "http_code": 200,
+    "status": "working"
   },
   "https://watch.sardius.media/channels/Ea867F3e1F56B06/site_09a4778E89/live.m3u8": {
     "consecutive_dead": 0,
@@ -22030,7 +21830,7 @@
     "status": "working"
   },
   "https://witn.cablecast.tv/live-4/live/live.m3u8": {
-    "consecutive_dead": 3,
+    "consecutive_dead": 4,
     "http_code": 404,
     "status": "dead"
   },
@@ -22200,7 +22000,7 @@
     "status": "working"
   },
   "https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8": {
-    "consecutive_dead": 43,
+    "consecutive_dead": 44,
     "http_code": 404,
     "status": "dead"
   },
