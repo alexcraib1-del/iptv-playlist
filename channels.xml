@@ -24,6 +24,7 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD" lang="en" xmltv_id="DisneyInternationalHD.in@SD">Disney International HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR" lang="en" xmltv_id="DisneyJunior.in@SD">Disney Junior</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ET_NOW" lang="en" xmltv_id="ETNow.in@SD">ET NOW</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH" lang="en" xmltv_id="ETNowSwadesh.in@SD">ET SWADESH</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ETV_BAL_BHARAT" lang="en" xmltv_id="ETVBalBharat.in@SD">ETV Bal Bharat</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_EUROSPORT" lang="en" xmltv_id="Eurosport.in@SD">Eurosport</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_FRANCE_24" lang="en" xmltv_id="France24.fr@English">France 24</channel>
@@ -35,8 +36,6 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY" lang="en" xmltv_id="InvestigationDiscovery.in@SD">Investigation Discovery</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MIRROR_NOW" lang="en" xmltv_id="MirrorNow.in@SD">MIRROR NOW</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW_HD" lang="en" xmltv_id="MoviesNow.in@HD">MOVIES NOW HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL_HD" lang="en" xmltv_id="NationalGeographic.in@HD">National Geographic Channel HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NAT_GEO_WILD_HD" lang="en" xmltv_id="NationalGeographicWild.in@HD">Nat Geo Wild HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NDTV_24X7" lang="en" xmltv_id="NDTV24x7.in@SD">NDTV 24x7</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOOD_TIMES" lang="en" xmltv_id="NDTVGoodTimes.in@SD">GOOD TiMES</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME" lang="en" xmltv_id="NDTVProfit.in@SD">NDTV Profit Prime</channel>
@@ -52,7 +51,6 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_PIX_HD" lang="en" xmltv_id="SonyPix.in@HD">Sony Pix HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD" lang="en" xmltv_id="SonySportsTen1.in@HD">SONY SPORTS TEN 1 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD" lang="en" xmltv_id="SonySportsTen2.in@HD">SONY SPORTS TEN 2 HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD" lang="en" xmltv_id="SonySportsTen5.in@HD">SONY SPORTS TEN 5 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_HD" lang="en" xmltv_id="StarMovies.in@HD">Star Movies HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD" lang="en" xmltv_id="StarSports2.in@HD">Star Sports 2 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD" lang="en" xmltv_id="StarSportsSelect1.in@HD">Star Sports Select 1 HD</channel>
