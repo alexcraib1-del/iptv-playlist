@@ -51,6 +51,7 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_PIX_HD" lang="en" xmltv_id="SonyPix.in@HD">Sony Pix HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD" lang="en" xmltv_id="SonySportsTen1.in@HD">SONY SPORTS TEN 1 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD" lang="en" xmltv_id="SonySportsTen2.in@HD">SONY SPORTS TEN 2 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD" lang="en" xmltv_id="SonySportsTen5.in@HD">SONY SPORTS TEN 5 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_HD" lang="en" xmltv_id="StarMovies.in@HD">Star Movies HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD" lang="en" xmltv_id="StarSports2.in@HD">Star Sports 2 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD" lang="en" xmltv_id="StarSportsSelect1.in@HD">Star Sports Select 1 HD</channel>
@@ -815,6 +816,7 @@
   <channel site="tvguide.com" site_id="9200004303" lang="en" xmltv_id="IFC.us@East">IFC</channel>
   <channel site="tvguide.com" site_id="9200004683" lang="en" xmltv_id="NationalGeographicWild.us@East">National Geographic Wild</channel>
   <channel site="tvguide.com" site_id="9200004848" lang="en" xmltv_id="CartoonNetwork.us@East">Cartoon Network</channel>
+  <channel site="tvguide.com" site_id="9200004852" lang="en" xmltv_id="DisneyXD.us@East">Disney XD</channel>
   <channel site="tvguide.com" site_id="9200004889" lang="en" xmltv_id="AE.us@East">A&amp;E</channel>
   <channel site="tvguide.com" site_id="9200006932" lang="en" xmltv_id="FX.us@East">FX</channel>
   <channel site="tvguide.com" site_id="9200006939" lang="en" xmltv_id="Nickelodeon.us@East">Nickelodeon</channel>
