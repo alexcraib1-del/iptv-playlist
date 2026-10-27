@@ -169,7 +169,6 @@
   <channel site="entertainment.ie" site_id="itv3" lang="en" xmltv_id="ITV3.uk@SD">ITV3</channel>
   <channel site="entertainment.ie" site_id="itv4" lang="en" xmltv_id="ITV4.uk@SD">ITV4</channel>
   <channel site="entertainment.ie" site_id="more4" lang="en" xmltv_id="More4.uk@SD">More4</channel>
-  <channel site="entertainment.ie" site_id="nickelodeon" lang="en" xmltv_id="Nickelodeon.uk@SD">Nickelodeon</channel>
   <channel site="entertainment.ie" site_id="rte-jr" lang="en" xmltv_id="RTEjr.ie@SD">RTÉ Jr</channel>
   <channel site="entertainment.ie" site_id="tg4" lang="en" xmltv_id="TG4.ie@SD">TG4</channel>
   <channel site="foxtel.com.au" site_id="EXPO/EXP" lang="en" xmltv_id="ExpoChannel.au@SD">EXPO</channel>
@@ -752,7 +751,6 @@
   <channel site="ontvtonight.com" site_id="us#69026454/espn2-hdtv" lang="en" xmltv_id="ESPN2.us@SD">ESPN2 HDTV</channel>
   <channel site="ontvtonight.com" site_id="us#69023272/espn-hdtv" lang="en" xmltv_id="ESPN.us@SD">ESPN HDTV</channel>
   <channel site="ontvtonight.com" site_id="us#69026524/espnu" lang="en" xmltv_id="ESPNU.us@SD">ESPNU</channel>
-  <channel site="ontvtonight.com" site_id="us#69022151/hbo-hdtv-east" lang="en" xmltv_id="HBO.us@East">HBO HDTV (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69023748/the-nfl-network" lang="en" xmltv_id="NFLNetwork.us@SD">The NFL Network</channel>
   <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" xmltv_id="ShowtimeFamilyZone.us@East">Showtime FamilyZone (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69023900/starz-hd-east" lang="en" xmltv_id="Starz.us@East">STARZ HD (East)</channel>
@@ -818,12 +816,9 @@
   <channel site="tvguide.com" site_id="9200004848" lang="en" xmltv_id="CartoonNetwork.us@East">Cartoon Network</channel>
   <channel site="tvguide.com" site_id="9200004852" lang="en" xmltv_id="DisneyXD.us@East">Disney XD</channel>
   <channel site="tvguide.com" site_id="9200004889" lang="en" xmltv_id="AE.us@East">A&amp;E</channel>
-  <channel site="tvguide.com" site_id="9200006932" lang="en" xmltv_id="FX.us@East">FX</channel>
   <channel site="tvguide.com" site_id="9200006939" lang="en" xmltv_id="Nickelodeon.us@East">Nickelodeon</channel>
-  <channel site="tvguide.com" site_id="9200006974" lang="en" xmltv_id="TeenNick.us@East">TeenNick</channel>
   <channel site="tvguide.com" site_id="9200006977" lang="en" xmltv_id="StarzKidsFamily.us@East">STARZ Kids &amp; Family</channel>
   <channel site="tvguide.com" site_id="9200009245" lang="en" xmltv_id="DestinationAmerica.us@SD">Destination America</channel>
-  <channel site="tvguide.com" site_id="9200009884" lang="en" xmltv_id="FoxSports2.us@HD">FOX Sports 2</channel>
   <channel site="tvguide.com" site_id="9200011927" lang="en" xmltv_id="Telemundo.us@East">Telemundo</channel>
   <channel site="tvguide.com" site_id="9200012085" lang="en" xmltv_id="CMT.us@East">CMT</channel>
   <channel site="tvguide.com" site_id="9200012343" lang="en" xmltv_id="E.us@East">E!</channel>
@@ -839,7 +834,6 @@
   <channel site="tvguide.com" site_id="9233002271" lang="en" xmltv_id="Fox.us@East">FOX</channel>
   <channel site="tvguide.com" site_id="9233002310" lang="en" xmltv_id="NationalGeographic.us@East">National Geographic</channel>
   <channel site="tvguide.com" site_id="9233004102" lang="en" xmltv_id="DiscoveryChannel.us@East">Discovery</channel>
-  <channel site="tvguide.com" site_id="9233004104" lang="en" xmltv_id="HGTV.us@East">HGTV</channel>
   <channel site="tvguide.com" site_id="9233004106" lang="en" xmltv_id="USANetwork.us@East">USA</channel>
   <channel site="tvguide.com" site_id="9233004141" lang="en" xmltv_id="PBS.us@East">PBS HD</channel>
   <channel site="tvguide.com" site_id="9233007153" lang="en" xmltv_id="NickJr.us@East">Nick Jr.</channel>
@@ -860,7 +854,6 @@
   <channel site="tvpassport.com" site_id="amp2/13283" lang="en" xmltv_id="AMP2.us@SD">AMP2</channel>
   <channel site="tvpassport.com" site_id="charge/15228" lang="en" xmltv_id="Charge.us@SD">CHARGE!</channel>
   <channel site="tvpassport.com" site_id="cottage-life/455" lang="en" xmltv_id="CottageLife.ca@SD">Cottage Life</channel>
-  <channel site="tvpassport.com" site_id="cp24-cablepulse-24/321" lang="en" xmltv_id="CP24.ca@SD">CP24 (CablePulse 24)</channel>
   <channel site="tvpassport.com" site_id="fox-deportes-hd/10502" lang="en" xmltv_id="FoxDeportes.us@SD">Fox Deportes HD</channel>
   <channel site="tvpassport.com" site_id="hope-channel/6827" lang="en" xmltv_id="HopeChannelNorthAmerica.us@SD">Hope Channel</channel>
   <channel site="tvpassport.com" site_id="hsn-2/13495" lang="en" xmltv_id="HSN2.us@SD">HSN 2</channel>
