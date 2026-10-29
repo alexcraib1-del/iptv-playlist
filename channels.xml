@@ -25,7 +25,6 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR" lang="en" xmltv_id="DisneyJunior.in@SD">Disney Junior</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ET_NOW" lang="en" xmltv_id="ETNow.in@SD">ET NOW</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH" lang="en" xmltv_id="ETNowSwadesh.in@SD">ET SWADESH</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ETV_BAL_BHARAT" lang="en" xmltv_id="ETVBalBharat.in@SD">ETV Bal Bharat</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_EUROSPORT" lang="en" xmltv_id="Eurosport.in@SD">Eurosport</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_FRANCE_24" lang="en" xmltv_id="France24.fr@English">France 24</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOODNEWS_TV" lang="en" xmltv_id="GoodNewsTV.in">Goodnews TV</channel>
@@ -54,6 +53,7 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD" lang="en" xmltv_id="SonySportsTen5.in@HD">SONY SPORTS TEN 5 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_HD" lang="en" xmltv_id="StarMovies.in@HD">Star Movies HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD" lang="en" xmltv_id="StarSports2.in@HD">Star Sports 2 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_3" lang="en" xmltv_id="StarSports3.in@SD">Star Sports 3</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD" lang="en" xmltv_id="StarSportsSelect1.in@HD">Star Sports Select 1 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD" lang="en" xmltv_id="StarSportsSelect2.in@HD">Star Sports Select 2 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VIJAY_HD" lang="en" xmltv_id="StarVijay.in@HD">Star Vijay HD</channel>
@@ -147,6 +147,7 @@
   <channel site="dstv.com" site_id="nga#348" lang="en" xmltv_id="EWTN.us@AfricaAsia">Eternal Word Television Network</channel>
   <channel site="dstv.com" site_id="zaf#191" lang="en" xmltv_id="SABC1.za@SD">SABC 1 HD</channel>
   <channel site="dstv.com" site_id="zaf#192" lang="en" xmltv_id="SABC2.za@SD">SABC 2 HD</channel>
+  <channel site="dstv.com" site_id="zaf#193" lang="en" xmltv_id="SABC3.za@SD">SABC 3 HD</channel>
   <channel site="dstv.com" site_id="zaf#251" lang="en" xmltv_id="SowetoTV.za@SD">Soweto TV</channel>
   <channel site="dstv.com" site_id="zaf#261" lang="en" xmltv_id="1KZNTV.za@SD">1 KZN</channel>
   <channel site="dstv.com" site_id="zaf#262" lang="en" xmltv_id="TshwaneTV.za@SD">Tshwane TV</channel>
@@ -189,6 +190,7 @@
   <channel site="freeview.co.uk" site_id="64257#16200" lang="en" xmltv_id="KetchupTV.us@SD">Ketchup TV</channel>
   <channel site="freeview.co.uk" site_id="64275#32839" lang="en" xmltv_id="LatestTV.uk@SD">Latest TV</channel>
   <channel site="freeview.co.uk" site_id="64257#13144" lang="en" xmltv_id="MBC.uk@HD">MBC</channel>
+  <channel site="freeview.co.uk" site_id="64257#27968" lang="en" xmltv_id="PBSAmerica.uk@SD">PBS America</channel>
   <channel site="freeview.co.uk" site_id="64257#16272" lang="en" xmltv_id="Pop.uk@SD">POP</channel>
   <channel site="freeview.co.uk" site_id="64257#27424" lang="en" xmltv_id="PopUp.uk@SD">POP UP</channel>
   <channel site="freeview.co.uk" site_id="64257#13120" lang="en" xmltv_id="QVC.uk@SD">QVC</channel>
@@ -863,6 +865,7 @@
   <channel site="tvpassport.com" site_id="amp2/13283" lang="en" xmltv_id="AMP2.us@SD">AMP2</channel>
   <channel site="tvpassport.com" site_id="charge/15228" lang="en" xmltv_id="Charge.us@SD">CHARGE!</channel>
   <channel site="tvpassport.com" site_id="cottage-life/455" lang="en" xmltv_id="CottageLife.ca@SD">Cottage Life</channel>
+  <channel site="tvpassport.com" site_id="cp24-cablepulse-24/321" lang="en" xmltv_id="CP24.ca@SD">CP24 (CablePulse 24)</channel>
   <channel site="tvpassport.com" site_id="fox-deportes-hd/10502" lang="en" xmltv_id="FoxDeportes.us@SD">Fox Deportes HD</channel>
   <channel site="tvpassport.com" site_id="hope-channel/6827" lang="en" xmltv_id="HopeChannelNorthAmerica.us@SD">Hope Channel</channel>
   <channel site="tvpassport.com" site_id="hsn-2/13495" lang="en" xmltv_id="HSN2.us@SD">HSN 2</channel>
