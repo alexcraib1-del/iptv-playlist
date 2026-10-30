@@ -238,7 +238,6 @@
   <channel site="i.mjh.nz" site_id="Foxtel/epg#NAT" lang="en" xmltv_id="NatureTime.ca@AU">Nature Time</channel>
   <channel site="i.mjh.nz" site_id="Foxtel/epg#RTV" lang="en" xmltv_id="Racingcom.au@SD">RACING.COM</channel>
   <channel site="i.mjh.nz" site_id="Foxtel/epg#SRA" lang="en" xmltv_id="SkyRacing1.au@SD">Sky Racing 1</channel>
-  <channel site="i.mjh.nz" site_id="MeTV/epg#metv" lang="en" xmltv_id="MeTV.us@SD">MeTV</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" lang="en" xmltv_id="50CentAction.us@SD">50 Cent Action</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1" lang="en" xmltv_id="ACCDigitalNetwork.us@SD">ACCDN</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01" lang="en" xmltv_id="AccuWeatherNOW.us@SD">AccuWeather NOW</channel>
@@ -318,6 +317,7 @@
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" lang="en" xmltv_id="HallmarkMoviesMore.us@SD">Hallmark Movies &amp;amp; More</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5fd115bdb7ef8d002dcf1820" lang="en" xmltv_id="HardKnocks.ca@SD">Hard Knocks</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-646c0794fb58444e4e1e2629" lang="en" xmltv_id="HauntTV.ca@CA">HauntTV</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" lang="en" xmltv_id="HBCUGOSports.us@SD">HBCUGO SPORTS</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-679425abf343fe9fe16c47a7" lang="en" xmltv_id="Heartland.us@Pacific">Heartland</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-65829d90a90606db3c841b19" lang="en" xmltv_id="HellsKitchen.us">Hell's Kitchen</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-64f1177d79fd56092f9061bf" lang="en" xmltv_id="HighwaytoHeaven.us@UK">Highway to Heaven</channel>
@@ -419,7 +419,6 @@
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6668b7a5e4f56766e556a415" lang="en" xmltv_id="TheConners.us@SD">The Conners</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5f0641d3e8ffda004033b16e" lang="en" xmltv_id="TheDesignNetwork.us@SD">The Design Network</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-68dcbb869beaa3a402966dba" lang="en" xmltv_id="TheGrahamNortonShow.uk@SD">The Graham Norton Show</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fe27da18cdd46002d85efed" lang="en" xmltv_id="TheGrioTV.us@SD">The Grio</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-64b7170c4612b1f48e9ad31e" lang="en" xmltv_id="TheJamieOliverChannel.us@SD">The Jamie Oliver Channel</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-67cbd471cc5136329877e098" lang="en" xmltv_id="TheNewDetectives.us@US">The New Detectives</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5f170d61b898490041b49369" lang="en" xmltv_id="ThePetCollective.us@UK">The Pet Collective</channel>
@@ -915,6 +914,7 @@
   <channel site="tvtv.us" site_id="67676" lang="en" xmltv_id="SBNTV.us@SD">SonLife Broadcasting Network</channel>
   <channel site="tvtv.us" site_id="68605" lang="en" xmltv_id="Willow.us@SD">Willow</channel>
   <channel site="tvtv.us" site_id="68639" lang="en" xmltv_id="StingrayTodaysLatinPop.ca@SD">Stingray Exitos del Momento</channel>
+  <channel site="tvtv.us" site_id="69091" lang="en" xmltv_id="SonyMovies.us@SD">Sony Movies</channel>
   <channel site="tvtv.us" site_id="69639" lang="en" xmltv_id="TheCountryNetwork.us@SD">The Country Network</channel>
   <channel site="tvtv.us" site_id="70113" lang="en" xmltv_id="PixLTV.us@SD">PixL TV</channel>
   <channel site="tvtv.us" site_id="71297" lang="en" xmltv_id="PetsTV.us@SD">Pets.TV</channel>
