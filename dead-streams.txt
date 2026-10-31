@@ -23,6 +23,7 @@ BBC Two Northern Ireland | HTTP 404 | https://cdn.stmify.com/bbc/stream/BBC_TWO_
 BBC Two Wales | HTTP 404 | https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd
 BTL TV | HTTP 404 | https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
 Babyfirst | HTTP 404 | https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+Breinholts | HTTP 404 | https://jmp2.uk/plu-660d6c0094db140008fe2f74.m3u8
 Burbank Channel | HTTP 404 | https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
 CBBC HD | HTTP 404 | https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd
 CBC News Network | HTTP 404 | https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
@@ -52,6 +53,7 @@ DanceTV EDM Mainstage | HTTP 404 | https://mbit1.worldcast.tv/dancetelevisionsev
 DanceTV Minimal Tech | HTTP 404 | https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 De unge mødre | HTTP 404 | https://jmp2.uk/plu-69172a4fcf4a1101befdd894.m3u8
 Det sene show med Christian Fuhlendorff | HTTP 404 | https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8
+Distrito Comedia | HTTP 404 | http://45.5.57.58:8000/play/a07n/index.m3u8
 EBN TV | HTTP 404 | https://goliveafrica.media:9998/live/65d8475d1e6cb/index.m3u8
 Elevate TV | HTTP 404 | https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8
 Escambia County TV ECTV (Escambia County FL) | HTTP 404 | https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
@@ -67,6 +69,7 @@ FOX 45 Baltimore MD (WBFF) | HTTP 404 | https://linear-688.frequency.stream/dist
 FOX 5 New York NY (WNYW) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
 FOX 5 Washington DC (WTTG) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/4b125d60-5d81-4a3c-99c3-726c9cb8cf99/index.m3u8
 FOX 6 Milwaukee WI (WITI) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/f16a76f1-fdb8-4e18-a14b-1e40e98eb1ff/index.m3u8
+Fernandina Beach City Meeting (Fernandina Beach FL) | HTTP 404 | https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
 Fox Soul | HTTP 404 | https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8
 Fubo Sports Network | HTTP 404 | https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
 Fubo Sports Network | HTTP 404 | https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
@@ -146,8 +149,8 @@ Starz Cinema | HTTP 404 | http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 Stockton GovTV (Stockton CA) | HTTP 404 | https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
 Summer of Movies | HTTP 404 | https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
 TBN | HTTP 404 | https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
+TBN Armenia | HTTP 404 | https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
 TBN Inspire | HTTP 404 | https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
-TRT World | HTTP 404 | https://cdn.pishow.tv/ott/live/266/master.m3u8
 TV3 | HTTP 404 | https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8
 TVCARiB | HTTP 404 | https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
 Tanzania Safari Channel | HTTP 404 | https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
@@ -157,6 +160,7 @@ The Bob Ross Channel | HTTP 404 | https://aegis-cloudfront-1.tubi.video/45301c94
 The Carol Burnett Show | HTTP 404 | https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8
 The Jamie Oliver Channel | HTTP 404 | https://aegis-cloudfront-1.tubi.video/28fb04b8-8d48-4c2a-833a-7f51059a405d/playlist.m3u8
 The Parliamentary Channel | HTTP 404 | https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8
+The Yellow Couch with Jeremy Lynch | HTTP 404 | https://jmp2.uk/plu-68e8ffee9d1d49e672fe790f.m3u8
 TheGrio | HTTP 404 | https://a-cdn.klowdtv.com/live2/thegrio_720p/playlist.m3u8
 Timeless TV | HTTP 404 | https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
 Transformers | HTTP 404 | https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
