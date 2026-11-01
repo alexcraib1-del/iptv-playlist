@@ -12,6 +12,7 @@ AMC | HTTP 404 | http://41.205.93.154/AMC/index.m3u8
 Adinkra TV | HTTP 404 | https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8
 Afrique54 TV | HTTP 404 | https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
 Al Jazeera English | HTTP 404 | https://cdn-7.pishow.tv/live/429/master.m3u8
+Alabama Weather Network | HTTP 404 | https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8
 ArubaTV + | HTTP 404 | https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
 BBC Four | HTTP 404 | https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 BBC One | HTTP 404 | https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd
@@ -49,11 +50,13 @@ DD Assam | HTTP 404 | https://fta.ektv.in/live/672/master.m3u8
 DD Nagaland | HTTP 404 | https://fta.ektv.in/live/670/master.m3u8
 DW English | HTTP 404 | https://cdn-7.pishow.tv/live/431/master.m3u8
 DW English | HTTP 404 | https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
+Da Vinci Asia Vietnam | HTTP 404 | https://vmttv.dpdns.org/tv360/?id=davinci-hd
 DanceTV EDM Mainstage | HTTP 404 | https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
 DanceTV Minimal Tech | HTTP 404 | https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 De unge mødre | HTTP 404 | https://jmp2.uk/plu-69172a4fcf4a1101befdd894.m3u8
 Det sene show med Christian Fuhlendorff | HTTP 404 | https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8
 Distrito Comedia | HTTP 404 | http://45.5.57.58:8000/play/a07n/index.m3u8
+Documentary+ International | HTTP 404 | https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
 EBN TV | HTTP 404 | https://goliveafrica.media:9998/live/65d8475d1e6cb/index.m3u8
 Elevate TV | HTTP 404 | https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8
 Escambia County TV ECTV (Escambia County FL) | HTTP 404 | https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
@@ -70,6 +73,7 @@ FOX 5 New York NY (WNYW) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/36a4
 FOX 5 Washington DC (WTTG) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/4b125d60-5d81-4a3c-99c3-726c9cb8cf99/index.m3u8
 FOX 6 Milwaukee WI (WITI) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/f16a76f1-fdb8-4e18-a14b-1e40e98eb1ff/index.m3u8
 Fernandina Beach City Meeting (Fernandina Beach FL) | HTTP 404 | https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
+For You TV | HTTP 404 | https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
 Fox Soul | HTTP 404 | https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8
 Fubo Sports Network | HTTP 404 | https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
 Fubo Sports Network | HTTP 404 | https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
@@ -151,6 +155,10 @@ Summer of Movies | HTTP 404 | https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
 TBN | HTTP 404 | https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
 TBN Armenia | HTTP 404 | https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
 TBN Inspire | HTTP 404 | https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
+TNT Sports 1 | HTTP 404 | http://37.49.224.5:80/stream/1/index.m3u8
+TNT Sports 2 | HTTP 404 | http://37.49.224.5:80/stream/2/index.m3u8
+TNT Sports 3 | HTTP 404 | http://37.49.224.5:80/stream/3/index.m3u8
+TNT Sports 4 | HTTP 404 | http://37.49.224.5:80/stream/4/index.m3u8
 TV3 | HTTP 404 | https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8
 TVCARiB | HTTP 404 | https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
 Tanzania Safari Channel | HTTP 404 | https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
