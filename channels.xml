@@ -158,17 +158,12 @@
   <channel site="dstv.com" site_id="zaf#407" lang="en" xmltv_id="RT.ru@SD">Russia Today</channel>
   <channel site="dtv8.net" site_id="#" lang="en" xmltv_id="DTV8.gy@SD">DTV-8</channel>
   <channel site="elcinema.com" site_id="1385" lang="en" xmltv_id="DijlahTV.iq@SD">Dijlah TV</channel>
-  <channel site="entertainment.ie" site_id="animal-planet" lang="en" xmltv_id="AnimalPlanet.uk@SD">Animal Planet</channel>
   <channel site="entertainment.ie" site_id="bbc-four" lang="en" xmltv_id="BBCFour.uk@UK">BBC Four</channel>
   <channel site="entertainment.ie" site_id="bbc-one-ni" lang="en" xmltv_id="BBCOne.uk@NorthernIreland">BBC One NI</channel>
   <channel site="entertainment.ie" site_id="bbc-three" lang="en" xmltv_id="BBCThree.uk@SD">BBC Three</channel>
   <channel site="entertainment.ie" site_id="cbbc" lang="en" xmltv_id="CBBC.uk@SD">CBBC</channel>
   <channel site="entertainment.ie" site_id="channel-4" lang="en" xmltv_id="Channel4.uk@UK">Channel 4</channel>
   <channel site="entertainment.ie" site_id="channel-5" lang="en" xmltv_id="Channel5.uk@SD">Channel 5</channel>
-  <channel site="entertainment.ie" site_id="discovery-channel" lang="en" xmltv_id="DiscoveryChannel.uk@UK">Discovery Channel</channel>
-  <channel site="entertainment.ie" site_id="discovery-history" lang="en" xmltv_id="DiscoveryHistory.uk@SD">Discovery History</channel>
-  <channel site="entertainment.ie" site_id="discovery-science" lang="en" xmltv_id="DiscoveryScienceEurope.uk@UKHD">Discovery Science</channel>
-  <channel site="entertainment.ie" site_id="discovery-turbo" lang="en" xmltv_id="DiscoveryTurbo.uk@SD">Discovery Turbo</channel>
   <channel site="entertainment.ie" site_id="e4" lang="en" xmltv_id="E4.uk@SD">E4</channel>
   <channel site="entertainment.ie" site_id="great-movies" lang="en" xmltv_id="GREATmovies.uk@UK">Great! Movies</channel>
   <channel site="entertainment.ie" site_id="great-movies-romance" lang="en" xmltv_id="GREATromance.uk@UK">Great! Movies Romance</channel>
@@ -177,7 +172,6 @@
   <channel site="entertainment.ie" site_id="itv4" lang="en" xmltv_id="ITV4.uk@SD">ITV4</channel>
   <channel site="entertainment.ie" site_id="more4" lang="en" xmltv_id="More4.uk@SD">More4</channel>
   <channel site="entertainment.ie" site_id="nickelodeon" lang="en" xmltv_id="Nickelodeon.uk@SD">Nickelodeon</channel>
-  <channel site="entertainment.ie" site_id="really" lang="en" xmltv_id="Really.uk@SD">Really</channel>
   <channel site="entertainment.ie" site_id="rte-jr" lang="en" xmltv_id="RTEjr.ie@SD">RTÉ Jr</channel>
   <channel site="entertainment.ie" site_id="tg4" lang="en" xmltv_id="TG4.ie@SD">TG4</channel>
   <channel site="foxtel.com.au" site_id="EXPO/EXP" lang="en" xmltv_id="ExpoChannel.au@SD">EXPO</channel>
@@ -705,13 +699,6 @@
   <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.206" lang="en" xmltv_id="Firstlight.nz@SD">Firstlight</channel>
   <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.21" lang="en" xmltv_id="HGTV.nz@SD">HGTV</channel>
   <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.86" lang="en" xmltv_id="ParliamentTV.nz@SD">Parliament</channel>
-  <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.51" lang="en" xmltv_id="SkySport1.nz@SD">Sky Sport 1</channel>
-  <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.52" lang="en" xmltv_id="SkySport2.nz@SD">Sky Sport 2</channel>
-  <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.53" lang="en" xmltv_id="SkySport3.nz@SD">Sky Sport 3</channel>
-  <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.54" lang="en" xmltv_id="SkySport4.nz@SD">Sky Sport 4</channel>
-  <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.57" lang="en" xmltv_id="SkySport7.nz@SD">Sky Sport 7</channel>
-  <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.59" lang="en" xmltv_id="SkySport9.nz@SD">Sky Sport 9</channel>
-  <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.50" lang="en" xmltv_id="SkySportSelect.nz@SD">Sky Sport Select</channel>
   <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.501" lang="en" xmltv_id="TVNZ1.nz@Plus1">TVNZ 1 +1</channel>
   <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.502" lang="en" xmltv_id="TVNZ2.nz@Plus1">TVNZ 2 +1</channel>
   <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.504" lang="en" xmltv_id="TVNZDUKE.nz@Plus1">TVNZ DUKE +1</channel>
@@ -801,7 +788,6 @@
   <channel site="shahid.mbc.net" site_id="986064" lang="en" xmltv_id="MoviesAction.sa@SD">Movies Action</channel>
   <channel site="shahid.mbc.net" site_id="986069" lang="en" xmltv_id="MoviesThriller.sa@SD">Movies Thriller</channel>
   <channel site="singtel.com" site_id="5340" lang="en" xmltv_id="AniplusAsia.sg@SD">ANIPLUS HD</channel>
-  <channel site="sky.co.nz" site_id="58" lang="en" xmltv_id="SkySport8.nz@SD">SKY Sport 8</channel>
   <channel site="sky.com" site_id="GB#5087" lang="en" xmltv_id="AkaalChannel.uk@SD">Akaal Channel</channel>
   <channel site="sky.com" site_id="GB#3815" lang="en" xmltv_id="ChannelS.uk@SD">CHSTV</channel>
   <channel site="sky.com" site_id="GB#1191" lang="en" xmltv_id="DunamisTV.ng@SD">Dunamis TV</channel>
@@ -880,7 +866,6 @@
   <channel site="tvpassport.com" site_id="amp2/13283" lang="en" xmltv_id="AMP2.us@SD">AMP2</channel>
   <channel site="tvpassport.com" site_id="charge/15228" lang="en" xmltv_id="Charge.us@SD">CHARGE!</channel>
   <channel site="tvpassport.com" site_id="cottage-life/455" lang="en" xmltv_id="CottageLife.ca@SD">Cottage Life</channel>
-  <channel site="tvpassport.com" site_id="cp24-cablepulse-24/321" lang="en" xmltv_id="CP24.ca@SD">CP24 (CablePulse 24)</channel>
   <channel site="tvpassport.com" site_id="estv-hd/18805" lang="en" xmltv_id="ESTV.us@SD">ES.TV HD</channel>
   <channel site="tvpassport.com" site_id="fox-deportes-hd/10502" lang="en" xmltv_id="FoxDeportes.us@SD">Fox Deportes HD</channel>
   <channel site="tvpassport.com" site_id="hope-channel/6827" lang="en" xmltv_id="HopeChannelNorthAmerica.us@SD">Hope Channel</channel>
