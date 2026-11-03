@@ -837,6 +837,7 @@
   <channel site="tvguide.com" site_id="9200016601" lang="en" xmltv_id="HLN.us@SD">HLN</channel>
   <channel site="tvguide.com" site_id="9200017928" lang="en" xmltv_id="TCM.us@East">Turner Classic Movies</channel>
   <channel site="tvguide.com" site_id="9200018188" lang="en" xmltv_id="WeTV.us@East">WE tv</channel>
+  <channel site="tvguide.com" site_id="9200018475" lang="en" xmltv_id="DisneyChannel.us@East">Disney</channel>
   <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us@East">CBS National</channel>
   <channel site="tvguide.com" site_id="9200019858" lang="en" xmltv_id="GameShowNetwork.us@East">Game Show Network</channel>
   <channel site="tvguide.com" site_id="9200020469" lang="en" xmltv_id="Nicktoons.us@East">Nicktoons</channel>
@@ -866,6 +867,7 @@
   <channel site="tvpassport.com" site_id="amp2/13283" lang="en" xmltv_id="AMP2.us@SD">AMP2</channel>
   <channel site="tvpassport.com" site_id="charge/15228" lang="en" xmltv_id="Charge.us@SD">CHARGE!</channel>
   <channel site="tvpassport.com" site_id="cottage-life/455" lang="en" xmltv_id="CottageLife.ca@SD">Cottage Life</channel>
+  <channel site="tvpassport.com" site_id="cp24-cablepulse-24/321" lang="en" xmltv_id="CP24.ca@SD">CP24 (CablePulse 24)</channel>
   <channel site="tvpassport.com" site_id="estv-hd/18805" lang="en" xmltv_id="ESTV.us@SD">ES.TV HD</channel>
   <channel site="tvpassport.com" site_id="fox-deportes-hd/10502" lang="en" xmltv_id="FoxDeportes.us@SD">Fox Deportes HD</channel>
   <channel site="tvpassport.com" site_id="hope-channel/6827" lang="en" xmltv_id="HopeChannelNorthAmerica.us@SD">Hope Channel</channel>
