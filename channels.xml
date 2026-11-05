@@ -66,6 +66,7 @@
   <channel site="bein.com" site_id="entertainment#22" lang="en" xmltv_id="BloombergTV.us@MiddleEast">22</channel>
   <channel site="bein.com" site_id="entertainment#27" lang="en" xmltv_id="EuronewsEnglish.fr@SD">27</channel>
   <channel site="beinsports.com" site_id="1ACADCF1-DFAC-480B-872C-53D51FE1B45D" lang="en" xmltv_id="beINSPORTSXTRA.us@SD">beIN SPORTS XTRA</channel>
+  <channel site="beinsports.com" site_id="C244C48D-3B54-406A-94C9-D63B16318267" lang="en" xmltv_id="beINSportsUSA.us@SD">beIN SPORTS</channel>
   <channel site="canalplus.com" site_id="#654" lang="en" xmltv_id="NHKWorldJapan.jp@SD">NHK WORLD-JAPAN</channel>
   <channel site="cgates.lt" site_id="docubox-hd" lang="en" xmltv_id="DocuBox.nl@SD">DocuBox</channel>
   <channel site="cgates.lt" site_id="kidzone-tv" lang="en" xmltv_id="KidZoneMax.ee@SD">Kidzone Max</channel>
@@ -911,7 +912,6 @@
   <channel site="tvtv.us" site_id="49097" lang="en" xmltv_id="NRBTV.us@SD">NRBTV</channel>
   <channel site="tvtv.us" site_id="50270" lang="en" xmltv_id="MBCAmerica.us@SD">MBC America</channel>
   <channel site="tvtv.us" site_id="50338" lang="en" xmltv_id="BabyFirst.us@US">BabyFirst TV</channel>
-  <channel site="tvtv.us" site_id="58595" lang="en" xmltv_id="LivingFaithTV.us@SD">Living Faith TV</channel>
   <channel site="tvtv.us" site_id="58698" lang="en" xmltv_id="MegaTV.us@SD">Mega TV</channel>
   <channel site="tvtv.us" site_id="60111" lang="en" xmltv_id="PursuitChannel.us@SD">Pursuit Channel</channel>
   <channel site="tvtv.us" site_id="62900" lang="en" xmltv_id="CatholicFaithNetwork.us@SD">Catholic Faith Network</channel>

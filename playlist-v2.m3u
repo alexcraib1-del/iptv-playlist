@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="3ABNCanada.ca" tvg-name="3ABN Canada" group-title="Canada" tvg-logo="https://i.imgur.com/U99CsEc.png",3ABN Canada
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
-#EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-name="Amazing Discoveries TV" group-title="Canada" tvg-logo="https://i.imgur.com/I0oPFTj.png",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-name="Amazing Discoveries TV" group-title="Canada" tvg-logo="https://i.imgur.com/I0oPFTj.png",Amazing Discoveries TV
-https://rpn.bozztv.com/gfaith/gfaith-amazing/index.m3u8
 #EXTINF:-1 tvg-id="BNNBloomberg.ca" tvg-name="BNN Bloomberg" group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/960px-BNN_Bloomberg.svg.png",BNN Bloomberg
 https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
 #EXTINF:-1 tvg-id="CanadaOne.ca" tvg-name="Canada One" group-title="Canada",Canada One
@@ -792,6 +788,8 @@ https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="BeachTVPanamaCity.us" tvg-name="Beach TV Panama City" group-title="United States" tvg-logo="https://i.imgur.com/HCQDvEe.png",Beach TV Panama City
 https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-name="beIN Sports USA" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg",beIN Sports USA
+https://tvsen6.aynaott.com/beinsports/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA" group-title="United States" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png",beIN SPORTS XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="BeIN Sports XTRA" group-title="United States" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png",BeIN Sports XTRA
@@ -1780,6 +1778,8 @@ https://d2y1l0qikd751h.cloudfront.net/Fear_Factor.m3u8
 https://aegis-cloudfront-1.tubi.video/2a9fb8e7-51c2-40d0-9cc0-6eb963199568/playlist.m3u8
 #EXTINF:-1 tvg-id="FeelGoodDrama.us" tvg-name="Feel Good Drama" group-title="United States" tvg-logo="https://images.pluto.tv/channels/65775af3b3801200084a3aa4/colorLogoPNG.png",Feel Good Drama
 https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
+#EXTINF:-1 tvg-id="FernandinaBeachChannel.us" tvg-name="Fernandina Beach City Meeting (Fernandina Beach FL)" group-title="United States" tvg-logo="https://i.imgur.com/9UfyekJ.png",Fernandina Beach City Meeting (Fernandina Beach FL)
+https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="FGTV.us" tvg-name="FGTV" group-title="United States" tvg-logo="https://i.imgur.com/RXFmzVY.png",FGTV
 https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8
 #EXTINF:-1 tvg-id="FilAmTVNetwork.us" tvg-name="FilAmTV Network" group-title="United States" tvg-logo="https://i.imgur.com/nRiApdI.png",FilAmTV Network
@@ -2430,8 +2430,6 @@ https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
 https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8
 #EXTINF:-1 tvg-id="LIVExLIVE.us" tvg-name="LiveXLive" group-title="United States" tvg-logo="https://i.imgur.com/KFzEoed.png",LiveXLive
 https://livestream.liveone.com/lc1/p1.m3u8
-#EXTINF:-1 tvg-id="LivingFaithTV.us" tvg-name="Living Faith TV" group-title="United States" tvg-logo="https://i.imgur.com/FuNpesJ.png",Living Faith TV
-https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
 #EXTINF:-1 tvg-id="LLBNHisLight.us" tvg-name="Lighting Lives Blessing Nations His Light (LLBN)" group-title="United States" tvg-logo="https://i.imgur.com/YkLZjRw.png",Lighting Lives Blessing Nations His Light (LLBN)
 https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream.m3u8
 #EXTINF:-1 tvg-id="LLBNHisWord.us" tvg-name="Lighting Lives Blessing Nations His Word (LLBN)" group-title="United States" tvg-logo="https://i.imgur.com/GbyHlS2.png",Lighting Lives Blessing Nations His Word (LLBN)
@@ -2779,6 +2777,8 @@ https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
 https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC WKYC" group-title="United States" tvg-logo="https://i.imgur.com/zsZrW2K.png",NBC WKYC
 https://video.tegnaone.com/wkyc/live/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC-Production/d39cf8a9-40a6-4cba-85f7-6c9d633843b3/2.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC 8 Lima OH (WLIO-DT1)" group-title="United States" tvg-logo="https://i.imgur.com/nxY84W5.png",NBC 8 Lima OH (WLIO-DT1)
+https://live.field59.com/wlio/wlio1/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC 5 Chicago Live News" group-title="United States" tvg-logo="https://i.imgur.com/wblxisu.png",NBC 5 Chicago Live News
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="WMGT-TV News (Macon GA)" group-title="United States" tvg-logo="https://i.imgur.com/nxY84W5.png",WMGT-TV News (Macon GA)
@@ -4941,6 +4941,8 @@ https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
 #EXTINF:-1 tvg-id="BBCFirst.uk" tvg-name="BBC First Turkiye" group-title="Other English" tvg-logo="https://i.imgur.com/UBoBYUI.png",BBC First Turkiye
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/bbc_first/index.m3u8
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",BBC Four
+https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four HD" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",BBC Four HD
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four HD" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",BBC Four HD
@@ -5001,6 +5003,8 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_e
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One East Midlands (1080p) (HEVC)" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",BBC One East Midlands (1080p) (HEVC)
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",BBC One
+https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One London" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",BBC One London
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One London" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",BBC One London
@@ -5089,6 +5093,8 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_e
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One Yorks (1080p) (HEVC)" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",BBC One Yorks (1080p) (HEVC)
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png",BBC Parliament
+https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png",BBC Parliament
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament (1080p) (HEVC)" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png",BBC Parliament (1080p) (HEVC)
@@ -5194,11 +5200,15 @@ https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_str
 #EXTINF:-1 tvg-id="BBCRedButton9.uk" tvg-name="BBC Red Button 9 (1080p) (HEVC)" group-title="Other English" tvg-logo="https://i.imgur.com/g2Aga13.png",BBC Red Button 9 (1080p) (HEVC)
 https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="BBC Scotland" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/960px-BBC_Scotland_2021_%28channel%29.svg.png",BBC Scotland
+https://cdn.stmify.com/bbc/stream/BBC_SCOTLAND/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="BBC Scotland" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/960px-BBC_Scotland_2021_%28channel%29.svg.png",BBC Scotland
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="BBC Scotland HD" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/960px-BBC_Scotland_2021_%28channel%29.svg.png",BBC Scotland HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="BBC Scotland HD (1080p) (HEVC)" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/960px-BBC_Scotland_2021_%28channel%29.svg.png",BBC Scotland HD (1080p) (HEVC)
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC Three HD" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png",BBC Three HD
+https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC Three HD" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png",BBC Three HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC Three HD" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png",BBC Three HD
@@ -5212,6 +5222,8 @@ http://193.46.58.239:8080/CBBCHD/index.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two HD" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two HD
 http://193.46.58.239:8080/BBCTwoHD/index.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two HD" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two HD
+https://cdn.stmify.com/bbc/stream/BBC_TWO/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two HD" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two HD
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two HD" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two HD
 https://vs-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.mpd
@@ -5222,6 +5234,8 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two HD (1080p) (HEVC)" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two HD (1080p) (HEVC)
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two Northern Ireland" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two Northern Ireland
+https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two Northern Ireland" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two Northern Ireland
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two Northern Ireland HD" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two Northern Ireland HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_hd_abr_v1.mpd
@@ -5229,6 +5243,8 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_n
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/mobile_wifi_main_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two Northern Ireland HD (1080p) (HEVC)" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two Northern Ireland HD (1080p) (HEVC)
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two Wales" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two Wales
+https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two Wales" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two Wales
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two Wales (1080p) (HEVC)" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",BBC Two Wales (1080p) (HEVC)
@@ -5399,8 +5415,6 @@ https://jmp2.uk/plu-66a7aa44cd0d31000843942b.m3u8
 https://jmp2.uk/plu-66a7aac9d512590008ab2dcb.m3u8
 #EXTINF:-1 tvg-id="CarolineintheCity.se" tvg-name="Caroline in the City" group-title="Other English" tvg-logo="https://images.pluto.tv/channels/66a7aa44cd0d31000843942b/colorLogoPNG.png",Caroline in the City
 https://jmp2.uk/plu-66a7ab4dcd0d3100084395b4.m3u8
-#EXTINF:-1 tvg-id="CartoonClassics.pl" tvg-name="Cartoon Classics" group-title="Other English" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg",Cartoon Classics
-https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.pk" tvg-name="Cartoon Network" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network Asia
@@ -5422,6 +5436,8 @@ https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1 tvg-id="CaughtUpTV.ng" tvg-name="Caught-Up TV" group-title="Other English" tvg-logo="https://i.imgur.com/7jeoulU.png",Caught-Up TV
 https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC HD" group-title="Other English" tvg-logo="https://i.imgur.com/tk8G4CU.png",CBBC HD
+https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC HD" group-title="Other English" tvg-logo="https://i.imgur.com/tk8G4CU.png",CBBC HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC HD" group-title="Other English" tvg-logo="https://i.imgur.com/tk8G4CU.png",CBBC HD
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
@@ -5435,6 +5451,8 @@ https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 http://92.114.85.87:8017/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="CBeebies.pl" tvg-name="CBeebies" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",CBeebies
 https://gist.githubusercontent.com/xykt-fix/e01ce187bbad74d0a0c5a86e0fc1b885/raw/eb00491161b819c2321733e929a27aeb2972b416/cbeeb-stream.m3u8
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies HD" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",CBeebies HD
+https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies HD" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",CBeebies HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies HD" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",CBeebies HD
@@ -5568,8 +5586,6 @@ http://125.227.210.55:1001/VideoInput/play.ts
 http://163.61.227.29:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="cLoveworldTV.ng" tvg-name="cLoveworld TV" group-title="Other English" tvg-logo="https://i.imgur.com/MKKap2F.png",cLoveworld TV
 https://live-hls-5rxy.livepush.io/live_cdn/em_LJ5aZjqp0LdiQ/index.m3u8
-#EXTINF:-1 tvg-id="CLTV36.ph" tvg-name="CLTV 36" group-title="Other English" tvg-logo="https://i.imgur.com/2fGhl7q.png",CLTV 36
-https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 #EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA" group-title="Other English" tvg-logo="https://i.imgur.com/awIDugE.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-name="CNA International" group-title="Other English" tvg-logo="https://i.imgur.com/xWglicB.png",CNA International
@@ -5869,8 +5885,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=109
 https://fta.ektv.in/live/116/116_0.m3u8
 #EXTINF:-1 tvg-id="E4.uk" tvg-name="E4" group-title="Other English" tvg-logo="https://i.imgur.com/22MfjF4.png",E4
 https://lb.iptvnetwork.net/ls28/10113/playlist.m3u8
-#EXTINF:-1 tvg-id="EACNewsTV.kh" tvg-name="EAC News TV" group-title="Other English" tvg-logo="https://i.imgur.com/EuYhS9Z.png",EAC News TV
-https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
 #EXTINF:-1 tvg-id="EbS.be" tvg-name="EBS" group-title="Other English" tvg-logo="https://i.imgur.com/DIIRPNN.png",EBS
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 #EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS E" group-title="Other English" tvg-logo="https://i.imgur.com/5wLJzb0.png",EBS E
@@ -6245,8 +6259,6 @@ https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8
 #EXTINF:-1 tvg-id="H2.bg" tvg-name="H2" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",H2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03r
-#EXTINF:-1 tvg-id="HalaLondon.uk" tvg-name="Hala London" group-title="Other English" tvg-logo="https://i.imgur.com/bM4VZDH.png",Hala London
-https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 #EXTINF:-1 tvg-id="HappyDays.se" tvg-name="Happy Days" group-title="Other English" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png",Happy Days
 https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
 #EXTINF:-1 tvg-id="HappyDays.se" tvg-name="Happy Days" group-title="Other English" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png",Happy Days
@@ -7614,6 +7626,8 @@ https://d1hlbgn3fph0cz.cloudfront.net/playlist.m3u8
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RedCCTV.bo" tvg-name="Red CCTV" group-title="Other English" tvg-logo="https://i.imgur.com/YC5FRmq.png",Red CCTV
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedCCTV.bo" tvg-name="Red CCTV" group-title="Other English" tvg-logo="https://i.imgur.com/YC5FRmq.png",Red CCTV
+https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:-1 tvg-id="Reno911.se" tvg-name="Reno 911" group-title="Other English" tvg-logo="https://images.pluto.tv/channels/65e9766eec9fda0008cb418a/colorLogoPNG.png",Reno 911
 https://jmp2.uk/plu-65e9766eec9fda0008cb418a.m3u8
 #EXTINF:-1 tvg-id="Reno911.se" tvg-name="Reno 911" group-title="Other English" tvg-logo="https://images.pluto.tv/channels/65e9766eec9fda0008cb418a/colorLogoPNG.png",Reno 911
