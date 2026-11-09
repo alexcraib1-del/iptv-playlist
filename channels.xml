@@ -45,9 +45,7 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RT" lang="en" xmltv_id="RTIndia.in@HD">RT</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD" lang="en" xmltv_id="SansadTV1.in@HD">Sansad TV - 1 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANSAD_TV_HD" lang="en" xmltv_id="SansadTV2.in@HD">Sansad TV - 2 HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD" lang="en" xmltv_id="SonyBBCEarth.in@HD">Sony BBC earth HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_HD" lang="en" xmltv_id="StarMovies.in@HD">Star Movies HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD" lang="en" xmltv_id="StarMoviesSelect.in@HD">Star Movies Select HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD" lang="en" xmltv_id="StarSportsSelect2.in@HD">Star Sports Select 2 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VIJAY_HD" lang="en" xmltv_id="StarVijay.in@HD">Star Vijay HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TIMES_NOW" lang="en" xmltv_id="TimesNow.in@SD">TIMES NOW</channel>
@@ -167,6 +165,7 @@
   <channel site="entertainment.ie" site_id="itv3" lang="en" xmltv_id="ITV3.uk@SD">ITV3</channel>
   <channel site="entertainment.ie" site_id="itv4" lang="en" xmltv_id="ITV4.uk@SD">ITV4</channel>
   <channel site="entertainment.ie" site_id="more4" lang="en" xmltv_id="More4.uk@SD">More4</channel>
+  <channel site="entertainment.ie" site_id="nickelodeon" lang="en" xmltv_id="Nickelodeon.uk@SD">Nickelodeon</channel>
   <channel site="entertainment.ie" site_id="rte-jr" lang="en" xmltv_id="RTEjr.ie@SD">RTÉ Jr</channel>
   <channel site="entertainment.ie" site_id="tg4" lang="en" xmltv_id="TG4.ie@SD">TG4</channel>
   <channel site="foxtel.com.au" site_id="EXPO/EXP" lang="en" xmltv_id="ExpoChannel.au@SD">EXPO</channel>
@@ -205,7 +204,6 @@
   <channel site="freeview.co.uk" site_id="64257#12298" lang="en" xmltv_id="UW.uk@SD">U&amp;W</channel>
   <channel site="freeview.co.uk" site_id="64257#14464" lang="en" xmltv_id="WildEarth.za@SD">WildEarth</channel>
   <channel site="guidatv.sky.it" site_id="DTH#6741" lang="en" xmltv_id="FoxBusinessNetwork.us@SD">Fox Business</channel>
-  <channel site="horizon.tv" site_id="10104" lang="en" xmltv_id="Mezzo.fr@SD">Mezzo</channel>
   <channel site="horizon.tv" site_id="10105" lang="en" xmltv_id="FashionTVEurope.fr@SD">Fashion TV HD</channel>
   <channel site="horizon.tv" site_id="10119" lang="en" xmltv_id="TRTWorld.tr@SD">TRT World HD</channel>
   <channel site="horizon.tv" site_id="10128" lang="en" xmltv_id="FightBox.nl@SD">Fightbox HD</channel>
@@ -721,7 +719,6 @@
   <channel site="melita.com" site_id="f47884ed-751b-4656-99a7-26dc294476de" lang="en" xmltv_id="StingrayiConcerts.ca@SD">iConcerts HD</channel>
   <channel site="mewatch.sg" site_id="97098" lang="en" xmltv_id="Channel5.sg@SD">Channel 5</channel>
   <channel site="mewatch.sg" site_id="97129" lang="en" xmltv_id="ChannelU.sg@SD">Channel U</channel>
-  <channel site="mewatch.sg" site_id="382872" lang="en" xmltv_id="CinemaWorld.my@SD">CinemaWorld</channel>
   <channel site="mewatch.sg" site_id="97073" lang="en" xmltv_id="meWATCHLIVE1.sg@SD">LIVE 1</channel>
   <channel site="mncvision.id" site_id="47" lang="en" xmltv_id="DreamWorksChannelAsia.us@SD">Dreamworks</channel>
   <channel site="mncvision.id" site_id="161" lang="en" xmltv_id="KIX.hk@SD">KIX</channel>
