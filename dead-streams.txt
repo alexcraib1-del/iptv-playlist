@@ -13,15 +13,14 @@ Afrique54 TV | HTTP 404 | https://video1.getstreamhosting.com:1936/8318/8318/pla
 Al Jazeera English | HTTP 404 | https://cdn-7.pishow.tv/live/429/master.m3u8
 Alabama Weather Network | HTTP 404 | https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8
 Animal Planet | HTTP 404 | http://37.49.224.5/stream/10/index.m3u8
+Animal Planet | HTTP 404 | https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
+Animal Planet HD | HTTP 404 | https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 ArubaTV + | HTTP 404 | https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
 BBC Four | HTTP 404 | https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 BTL TV | HTTP 404 | https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
 Babyfirst | HTTP 404 | https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 Breinholts | HTTP 404 | https://jmp2.uk/plu-660d6c0094db140008fe2f74.m3u8
 Burbank Channel | HTTP 404 | https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
-CAN TV19 | HTTP 404 | https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8
-CAN TV21 | HTTP 404 | https://cantv.streamguys1.com/cantv/cantv21hls/playlist.m3u8
-CAN TV36 | HTTP 404 | https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8
 CBBC HD | HTTP 404 | https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd
 CBC News Network | HTTP 404 | https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
 CBS 12 Cincinnati OH (WKRC) | HTTP 404 | https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8
@@ -32,6 +31,7 @@ CBS 3 Kalamazoo MI (WWMT) | HTTP 404 | https://linear-701.frequency.stream/dist/
 CBS 3 Omaha NE (KMTV) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
 CBS 8 Des Moines IA (KCCI) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8
 CBeebies HD | HTTP 404 | https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
+CLTV 36 | HTTP 404 | https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 CMTv Kenya | HTTP 404 | https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8
 CNBC | HTTP 404 | http://41.205.93.154/CNBC/index.m3u8
 Canada One | HTTP 404 | http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
@@ -40,6 +40,7 @@ Cinevault 80s | HTTP 404 | https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4
 Clergy TV | HTTP 404 | https://goliveafrica.media:9998/live/650452cf2ddb2/index.m3u8
 CoastTV NBC (WRDE-LD) | HTTP 404 | https://live.field59.com/wrde/wrde1/playlist.m3u8
 Comedy Dynamics | HTTP 404 | https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8
+Concert Channel | HTTP 404 | https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 Court TV | HTTP 404 | https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8
 DAZN Combat | HTTP 404 | https://jmp2.uk/plu-648056f0f77b61000828f1ba.m3u8
 DAZN Combat | HTTP 404 | https://jmp2.uk/plu-64805755536e0c0008a19fa1.m3u8
@@ -47,20 +48,27 @@ DAZN Combat | HTTP 404 | https://jmp2.uk/plu-64805922536e0c0008a1a1e6.m3u8
 DD Assam | HTTP 404 | https://fta.ektv.in/live/672/master.m3u8
 DD Nagaland | HTTP 404 | https://fta.ektv.in/live/670/master.m3u8
 DW English | HTTP 404 | https://cdn-7.pishow.tv/live/431/master.m3u8
+DW English | HTTP 404 | https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
 DanceTV EDM Mainstage | HTTP 404 | https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
 DanceTV Minimal Tech | HTTP 404 | https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 De unge mødre | HTTP 404 | https://jmp2.uk/plu-69172a4fcf4a1101befdd894.m3u8
 Det sene show med Christian Fuhlendorff | HTTP 404 | https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8
 Discovery Channel | HTTP 404 | http://37.49.224.5/stream/11/index.m3u8
+Discovery Channel | HTTP 404 | https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+Discovery Channel HD | HTTP 404 | https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 Discovery History | HTTP 404 | http://37.49.224.5/stream/12/index.m3u8
+Discovery Kids | HTTP 404 | https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
+Discovery Science | HTTP 404 | https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
 Discovery Science Europe UK | HTTP 404 | http://37.49.224.5/stream/9/index.m3u8
 Discovery Turbo | HTTP 404 | http://37.49.224.5/stream/13/index.m3u8
+Discovery Turbo | HTTP 404 | https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
 Distrito Comedia | HTTP 404 | http://45.5.57.58:8000/play/a07n/index.m3u8
 Documentary+ International | HTTP 404 | https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
 EBN TV | HTTP 404 | https://goliveafrica.media:9998/live/65d8475d1e6cb/index.m3u8
 Elevate TV | HTTP 404 | https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8
 Escambia County TV ECTV (Escambia County FL) | HTTP 404 | https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
 Euronews English | HTTP 404 | https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8
+Eurosport | HTTP 404 | https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 FOX 10 Phoenix AZ (KSAZ) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/6bb80abf-8f73-46f3-a520-bb810d93f1d0/index.m3u8
 FOX 11 Los Angeles CA (KTTV) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/317a6700-b890-4066-a2e7-dea5c15fd915/index.m3u8
 FOX 13 Seattle WA (KCPQ) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
@@ -95,6 +103,7 @@ Homicide Hunter | HTTP 404 | https://jmp2.uk/plu-619e286e093e7c0007489e6a.m3u8
 Homicide Hunter | HTTP 404 | https://jmp2.uk/plu-619e4a3518d6970008bebc95.m3u8
 Humor Mill | HTTP 404 | https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK
 ICTV | HTTP 404 | https://goliveafrica.media:9998/live/659a7f33bed3f/index.m3u8
+Investigation Discovery | HTTP 404 | https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
 Iron Chef | HTTP 404 | https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8
 JCM TV | HTTP 404 | https://goliveafrica.media:9998/live/646c92d07b16c/index.m3u8
 Jamaica Travel Channel | HTTP 404 | https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8
@@ -111,9 +120,9 @@ Lolwe TV | HTTP 404 | https://goliveafrica.media:9998/live/62580e144eb43/index.m
 Lotus TV | HTTP 404 | https://play-sh.quklive.com/live/1780907795235397.m3u8
 Lucas & Friends | HTTP 404 | https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8
 MIS Televizija | HTTP 404 | https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
+MLB Strike Zone | HTTP 404 | http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 MOF TV | HTTP 404 | https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8
 MSG | HTTP 404 | http://23.237.104.106:8080/USA_MSG/index.m3u8
-Magnificent Movies Network | HTTP 404 | https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 Mashariki TV | HTTP 404 | https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8
 More TV Sci-fi | HTTP 404 | https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 Mwangaza TV | HTTP 404 | https://goliveafrica.media:9998/live/6516be24a6bac/index.m3u8
@@ -162,8 +171,9 @@ Starz Cinema | HTTP 404 | http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 Stockton GovTV (Stockton CA) | HTTP 404 | https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
 Summer of Movies | HTTP 404 | https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
 TBN | HTTP 404 | https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
-TBN Armenia | HTTP 404 | https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
 TBN Inspire | HTTP 404 | https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
+TLC | HTTP 404 | https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
+TLC HD | HTTP 404 | https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
 TNT Sports 1 | HTTP 404 | http://37.49.224.5/stream/1/index.m3u8
 TNT Sports 2 | HTTP 404 | http://37.49.224.5/stream/2/index.m3u8
 TNT Sports 3 | HTTP 404 | http://37.49.224.5/stream/3/index.m3u8
@@ -171,14 +181,12 @@ TNT Sports 4 | HTTP 404 | http://37.49.224.5/stream/4/index.m3u8
 TV3 | HTTP 404 | https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8
 TVCARiB | HTTP 404 | https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
 Tanzania Safari Channel | HTTP 404 | https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
-Tele Regency TV | HTTP 404 | https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8
 Teletubbies | HTTP 404 | https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8
 The Bob Ross Channel | HTTP 404 | https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8
 The Carol Burnett Show | HTTP 404 | https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8
 The Jamie Oliver Channel | HTTP 404 | https://aegis-cloudfront-1.tubi.video/28fb04b8-8d48-4c2a-833a-7f51059a405d/playlist.m3u8
 The Parliamentary Channel | HTTP 404 | https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8
 The Yellow Couch with Jeremy Lynch | HTTP 404 | https://jmp2.uk/plu-68e8ffee9d1d49e672fe790f.m3u8
-Timeless TV | HTTP 404 | https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
 Transformers | HTTP 404 | https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
 Transformers TV | HTTP 404 | https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
 True Crime Now | HTTP 404 | https://jmp2.uk/plu-65a7b04e7bdc8d0008488307.m3u8

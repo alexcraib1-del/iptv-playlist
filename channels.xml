@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <channels>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ABP_NEWS" lang="en" xmltv_id="ABPNews.in@SD">ABP News</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ANIMAL_PLANET" lang="en" xmltv_id="AnimalPlanet.in@SD">Animal Planet</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_BBC_NEWS" lang="en" xmltv_id="BBCNews.uk@SouthAsia">BBC News</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS" lang="en" xmltv_id="BharatExpress.in@SD">Bharat Express</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS" lang="en" xmltv_id="CartoonNetworkHDPlus.in@SD">CARTOON NETWORK HD+</channel>
@@ -16,9 +15,6 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_SPORTS_HD" lang="en" xmltv_id="DDSports.in@HD">DD Sports HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_URDU" lang="en" xmltv_id="DDUrdu.in@SD">DD Urdu</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISCOVERY_CHANNEL" lang="en" xmltv_id="DiscoveryChannel.in@SD">Discovery Channel</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS" lang="en" xmltv_id="DiscoveryKids.in@SD">Discovery Kids</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISCOVERY_SCIENCE" lang="en" xmltv_id="DiscoveryScience.in@SD">Discovery Science</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO" lang="en" xmltv_id="DiscoveryTurbo.in@SD">Discovery Turbo</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD" lang="en" xmltv_id="DisneyChannel.in@HD">DISNEY CHANNEL HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ET_NOW" lang="en" xmltv_id="ETNow.in@SD">ET NOW</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH" lang="en" xmltv_id="ETNowSwadesh.in@SD">ET SWADESH</channel>
@@ -29,7 +25,6 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_HORNBILL" lang="en" xmltv_id="HornbillTV.in@SD">HORNBILL</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_AHEAD" lang="en" xmltv_id="IndiaAhead.in@SD">INDIA AHEAD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_TODAY" lang="en" xmltv_id="IndiaToday.in@SD">India Today</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY" lang="en" xmltv_id="InvestigationDiscovery.in@SD">Investigation Discovery</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MIRROR_NOW" lang="en" xmltv_id="MirrorNow.in@SD">MIRROR NOW</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW_HD" lang="en" xmltv_id="MoviesNow.in@HD">MOVIES NOW HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" lang="en" xmltv_id="MoviesNowPlus.in@SD">MN+</channel>
@@ -49,7 +44,6 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD" lang="en" xmltv_id="StarSportsSelect2.in@HD">Star Sports Select 2 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VIJAY_HD" lang="en" xmltv_id="StarVijay.in@HD">Star Vijay HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TIMES_NOW" lang="en" xmltv_id="TimesNow.in@SD">TIMES NOW</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TLC" lang="en" xmltv_id="TLC.in@SD">TLC</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TRAVELXP" lang="en" xmltv_id="Travelxp.in@HD">Travelxp</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_WION" lang="en" xmltv_id="WION.in@SD">WION</channel>
   <channel site="aljazeera.com" site_id="aje#" lang="en" xmltv_id="AlJazeera.qa@English">Al Jazeera English</channel>
@@ -165,7 +159,9 @@
   <channel site="entertainment.ie" site_id="itv3" lang="en" xmltv_id="ITV3.uk@SD">ITV3</channel>
   <channel site="entertainment.ie" site_id="itv4" lang="en" xmltv_id="ITV4.uk@SD">ITV4</channel>
   <channel site="entertainment.ie" site_id="more4" lang="en" xmltv_id="More4.uk@SD">More4</channel>
+  <channel site="entertainment.ie" site_id="national-geographic" lang="en" xmltv_id="NationalGeographic.uk@SD">National Geographic</channel>
   <channel site="entertainment.ie" site_id="nickelodeon" lang="en" xmltv_id="Nickelodeon.uk@SD">Nickelodeon</channel>
+  <channel site="entertainment.ie" site_id="quest" lang="en" xmltv_id="Quest.uk@SD">Quest</channel>
   <channel site="entertainment.ie" site_id="rte-jr" lang="en" xmltv_id="RTEjr.ie@SD">RTÉ Jr</channel>
   <channel site="entertainment.ie" site_id="tg4" lang="en" xmltv_id="TG4.ie@SD">TG4</channel>
   <channel site="foxtel.com.au" site_id="EXPO/EXP" lang="en" xmltv_id="ExpoChannel.au@SD">EXPO</channel>
@@ -837,6 +833,7 @@
   <channel site="tvguide.com" site_id="9200019858" lang="en" xmltv_id="GameShowNetwork.us@East">Game Show Network</channel>
   <channel site="tvguide.com" site_id="9200020452" lang="en" xmltv_id="Lifetime.us@East">Lifetime</channel>
   <channel site="tvguide.com" site_id="9200020469" lang="en" xmltv_id="Nicktoons.us@East">Nicktoons</channel>
+  <channel site="tvguide.com" site_id="9233000037" lang="en" xmltv_id="VH1.us@East">VH1</channel>
   <channel site="tvguide.com" site_id="9233001847" lang="en" xmltv_id="MNT.us@East">MyNetworkTV National</channel>
   <channel site="tvguide.com" site_id="9233002271" lang="en" xmltv_id="Fox.us@East">FOX</channel>
   <channel site="tvguide.com" site_id="9233002310" lang="en" xmltv_id="NationalGeographic.us@East">National Geographic</channel>
@@ -922,7 +919,6 @@
   <channel site="tvtv.us" site_id="71798" lang="en" xmltv_id="ImpactNetwork.us@SD">Impact Network</channel>
   <channel site="tvtv.us" site_id="73580" lang="en" xmltv_id="KIIOLD101.us@HD">US Armenia (KIIO-LD) Los Angeles, CA</channel>
   <channel site="tvtv.us" site_id="74978" lang="en" xmltv_id="JBS.us@SD">JBS</channel>
-  <channel site="tvtv.us" site_id="80404" lang="en" xmltv_id="MLBStrikeZone.us@SD">MLB Strike Zone</channel>
   <channel site="tvtv.us" site_id="80740" lang="en" xmltv_id="ComedyTV.us@SD">Comedy.TV</channel>
   <channel site="tvtv.us" site_id="83166" lang="en" xmltv_id="AdultSwim.us@East">[adult swim]East</channel>
   <channel site="tvtv.us" site_id="88293" lang="en" xmltv_id="SmartLifeStyleTV.us@SD">Smart LifeStyle TV</channel>
