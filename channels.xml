@@ -41,7 +41,6 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD" lang="en" xmltv_id="SansadTV1.in@HD">Sansad TV - 1 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANSAD_TV_HD" lang="en" xmltv_id="SansadTV2.in@HD">Sansad TV - 2 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_HD" lang="en" xmltv_id="StarMovies.in@HD">Star Movies HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD" lang="en" xmltv_id="StarSportsSelect2.in@HD">Star Sports Select 2 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VIJAY_HD" lang="en" xmltv_id="StarVijay.in@HD">Star Vijay HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TIMES_NOW" lang="en" xmltv_id="TimesNow.in@SD">TIMES NOW</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TRAVELXP" lang="en" xmltv_id="Travelxp.in@HD">Travelxp</channel>
@@ -191,7 +190,6 @@
   <channel site="freeview.co.uk" site_id="64257#16406" lang="en" xmltv_id="TalkTV.uk@SD">Talk</channel>
   <channel site="freeview.co.uk" site_id="64257#20160" lang="en" xmltv_id="TBNUK.uk@SD">TBN UK</channel>
   <channel site="freeview.co.uk" site_id="64257#23904" lang="en" xmltv_id="Thats70s.uk@SD">That's 70s</channel>
-  <channel site="freeview.co.uk" site_id="64409#32880" lang="en" xmltv_id="ThatsTV.uk@Aberdeen">That's TV</channel>
   <channel site="freeview.co.uk" site_id="64257#16280" lang="en" xmltv_id="TinyPop.uk@SD">Tiny Pop</channel>
   <channel site="freeview.co.uk" site_id="64257#15592" lang="en" xmltv_id="TJC.uk@SD">TJC</channel>
   <channel site="freeview.co.uk" site_id="64257#27392" lang="en" xmltv_id="TogetherTV.uk@Plus1">Together TV+1</channel>
@@ -216,6 +214,7 @@
   <channel site="i.mjh.nz" site_id="au/Melbourne/epg#mjh-c31" lang="en" xmltv_id="C31Melbourne.au@SD">Channel 31</channel>
   <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-channel-9-sa" lang="en" xmltv_id="Channel9.au@Adelaide">Channel 9</channel>
   <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-c44" lang="en" xmltv_id="Channel44.au@SD">Channel 44</channel>
+  <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-10shake-sa" lang="en" xmltv_id="Nickelodeon.au@SD">Nickelodeon</channel>
   <channel site="i.mjh.nz" site_id="Flash/epg#ausbiz" lang="en" xmltv_id="AusbizTV.au@SD">Ausbiz</channel>
   <channel site="i.mjh.nz" site_id="Flash/epg#cnn" lang="en" xmltv_id="CNN.us@SD">CNN</channel>
   <channel site="i.mjh.nz" site_id="Flash/epg#i24-news" lang="en" xmltv_id="i24NEWSEnglishWorld.il@SD">i24 News</channel>
@@ -739,17 +738,13 @@
   <channel site="nzxmltv.com" site_id="xmltv/guide#41" lang="en" xmltv_id="WairarapaTV.nz@SD">Wairarapa TV</channel>
   <channel site="nzxmltv.com" site_id="xmltv/guide#200" lang="en" xmltv_id="Channel200.nz@SD">CH200</channel>
   <channel site="ontvtonight.com" site_id="us#69048344/abc" lang="en" xmltv_id="ABC.us@East">ABC</channel>
-  <channel site="ontvtonight.com" site_id="us#7224220194/acc-network" lang="en" xmltv_id="ACCNetwork.us@SD">ACC Network</channel>
-  <channel site="ontvtonight.com" site_id="us#69047124/amc-east" lang="en" xmltv_id="AMC.us@East">AMC (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69047235/animal-planet-east" lang="en" xmltv_id="AnimalPlanet.us@East">Animal Planet (East)</channel>
-  <channel site="ontvtonight.com" site_id="us#69044423/bbc-america-east" lang="en" xmltv_id="BBCAmerica.us@East">BBC America (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69030398/big-ten-network-national" lang="en" xmltv_id="BigTenNetwork.us@SD">Big Ten Network (National)</channel>
   <channel site="ontvtonight.com" site_id="us#69043286/bounce-tv" lang="en" xmltv_id="Bounce.us@SD">Bounce TV</channel>
   <channel site="ontvtonight.com" site_id="us#1922365932/comet-tv" lang="en" xmltv_id="Comet.us@SD">Comet TV</channel>
   <channel site="ontvtonight.com" site_id="us#69026454/espn2-hdtv" lang="en" xmltv_id="ESPN2.us@SD">ESPN2 HDTV</channel>
   <channel site="ontvtonight.com" site_id="us#69023272/espn-hdtv" lang="en" xmltv_id="ESPN.us@SD">ESPN HDTV</channel>
   <channel site="ontvtonight.com" site_id="us#69026524/espnu" lang="en" xmltv_id="ESPNU.us@SD">ESPNU</channel>
-  <channel site="ontvtonight.com" site_id="us#69022151/hbo-hdtv-east" lang="en" xmltv_id="HBO.us@East">HBO HDTV (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69023748/the-nfl-network" lang="en" xmltv_id="NFLNetwork.us@SD">The NFL Network</channel>
   <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" xmltv_id="ShowtimeFamilyZone.us@East">Showtime FamilyZone (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69023900/starz-hd-east" lang="en" xmltv_id="Starz.us@East">STARZ HD (East)</channel>
@@ -804,7 +799,6 @@
   <channel site="toonamiaftermath.com" site_id="Toonami Aftermath EST" lang="en" xmltv_id="ToonamiAftermath.us@East">Toonami Aftermath East</channel>
   <channel site="tv.blue.ch" site_id="366" lang="en" xmltv_id="RTRPlaneta.ru@Europe">RTR Planeta</channel>
   <channel site="tv24.se" site_id="horse-country" lang="en" xmltv_id="HorseCountryTV.uk@SD">Horse &amp; Country</channel>
-  <channel site="tv24.se" site_id="magnolia-network-hd" lang="en" xmltv_id="MagnoliaNetwork.us@East">Magnolia Network HD</channel>
   <channel site="tvguide.com" site_id="9200000016" lang="en" xmltv_id="CookingChannel.us@SD">Cooking</channel>
   <channel site="tvguide.com" site_id="9200000657" lang="en" xmltv_id="ComedyCentral.us@East">Comedy Central</channel>
   <channel site="tvguide.com" site_id="9200000872" lang="en" xmltv_id="MTV2.us@East">MTV2</channel>
@@ -815,9 +809,7 @@
   <channel site="tvguide.com" site_id="9200004683" lang="en" xmltv_id="NationalGeographicWild.us@East">National Geographic Wild</channel>
   <channel site="tvguide.com" site_id="9200004848" lang="en" xmltv_id="CartoonNetwork.us@East">Cartoon Network</channel>
   <channel site="tvguide.com" site_id="9200004852" lang="en" xmltv_id="DisneyXD.us@East">Disney XD</channel>
-  <channel site="tvguide.com" site_id="9200004889" lang="en" xmltv_id="AE.us@East">A&amp;E</channel>
   <channel site="tvguide.com" site_id="9200006932" lang="en" xmltv_id="FX.us@East">FX</channel>
-  <channel site="tvguide.com" site_id="9200006974" lang="en" xmltv_id="TeenNick.us@East">TeenNick</channel>
   <channel site="tvguide.com" site_id="9200006977" lang="en" xmltv_id="StarzKidsFamily.us@East">STARZ Kids &amp; Family</channel>
   <channel site="tvguide.com" site_id="9200009245" lang="en" xmltv_id="DestinationAmerica.us@SD">Destination America</channel>
   <channel site="tvguide.com" site_id="9200009884" lang="en" xmltv_id="FoxSports2.us@HD">FOX Sports 2</channel>
@@ -838,7 +830,6 @@
   <channel site="tvguide.com" site_id="9233002271" lang="en" xmltv_id="Fox.us@East">FOX</channel>
   <channel site="tvguide.com" site_id="9233002310" lang="en" xmltv_id="NationalGeographic.us@East">National Geographic</channel>
   <channel site="tvguide.com" site_id="9233004102" lang="en" xmltv_id="DiscoveryChannel.us@East">Discovery</channel>
-  <channel site="tvguide.com" site_id="9233004104" lang="en" xmltv_id="HGTV.us@East">HGTV</channel>
   <channel site="tvguide.com" site_id="9233004106" lang="en" xmltv_id="USANetwork.us@East">USA</channel>
   <channel site="tvguide.com" site_id="9233004141" lang="en" xmltv_id="PBS.us@East">PBS HD</channel>
   <channel site="tvguide.com" site_id="9233005443" lang="en" xmltv_id="GolfChannel.us@SD">Golf</channel>

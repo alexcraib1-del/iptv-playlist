@@ -7,6 +7,8 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 https://rpn.bozztv.com/gfaith/gfaith-amazing/index.m3u8
 #EXTINF:-1 tvg-id="BNNBloomberg.ca" tvg-name="BNN Bloomberg" group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/960px-BNN_Bloomberg.svg.png",BNN Bloomberg
 https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
+#EXTINF:-1 tvg-id="CanadaOne.ca" tvg-name="Canada One" group-title="Canada",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News Network" group-title="Canada" tvg-logo="https://i.imgur.com/SjTdhvJ.png",CBC News Network
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News" group-title="Canada" tvg-logo="https://i.imgur.com/SjTdhvJ.png",CBC News
@@ -379,8 +381,6 @@ https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 #EXTINF:-1 tvg-id="90sThrowback.us" tvg-name="90s Throwback" group-title="United States" tvg-logo="https://i.imgur.com/KoGko6M.png",90s Throwback
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
-#EXTINF:-1 tvg-id="AE.us" tvg-name="A&E" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",A&E
-http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC 6 Austin TX (KAAL)" group-title="United States" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNvETpbhVGYqrNLKf-Jh12zQsXVxAWJM-r6HlUG5NmHqNVlvDaWbBcFKRc-7wWaL7DVM0&usqp=CAU",ABC 6 Austin TX (KAAL)
 https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC 23 Bakersfield CA (KERO)" group-title="United States" tvg-logo="https://i.imgur.com/CMANZWk.png",ABC 23 Bakersfield CA (KERO)
@@ -469,8 +469,6 @@ https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 https://d53csymoczzde.cloudfront.net/ACC_Digital_Network.m3u8
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us" tvg-name="ACCDN" group-title="United States" tvg-logo="https://i.imgur.com/V6Kaqha.png",ACCDN
 https://aegis-cloudfront-1.tubi.video/a1e671ae-d1c2-4e39-99c7-889e83056fd2/playlist.m3u8
-#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" group-title="United States" tvg-logo="https://i.imgur.com/TpCkbkT.png",ACC Network
-http://23.239.31.26:8989/accnetwork/index.m3u8
 #EXTINF:-1 tvg-id="Access19.us" tvg-name="Access 19" group-title="United States" tvg-logo="https://i.imgur.com/7F4LJMT.png",Access 19
 https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="Access4PAC.us" tvg-name="Access 4 PAC" group-title="United States" tvg-logo="https://i.imgur.com/DQu3gES.png",Access 4 PAC
@@ -487,8 +485,6 @@ https://reflect-tuolumne.cablecast.tv/live-3/live/stream-1/live.m3u8
 https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AccessVisionChannel17.us" tvg-name="AccessVision Channel 17" group-title="United States" tvg-logo="https://i.imgur.com/vi4TCdb.png",AccessVision Channel 17
 https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-name="AccuWeather NOW" group-title="United States" tvg-logo="https://i.imgur.com/M8wbVYK.png",AccuWeather NOW
-http://23.239.31.26:8989/accuweather/index.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-name="AccuWeather Now" group-title="United States" tvg-logo="https://i.imgur.com/M8wbVYK.png",AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-name="AccuWeather Now" group-title="United States" tvg-logo="https://i.imgur.com/M8wbVYK.png",AccuWeather Now
@@ -549,8 +545,6 @@ https://d24l3uppudokci.cloudfront.net/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/a0713659-0883-4501-9aba-f7e651becae9/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazingFactsTV.us" tvg-name="Amazing Facts TV" group-title="United States" tvg-logo="https://i.imgur.com/3XrLoCF.png",Amazing Facts TV
 https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC
-http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-id="AmericasNextTopModel.us" tvg-name="America's Next Top Model" group-title="United States" tvg-logo="https://images.pluto.tv/channels/68679fc6bb46d0bdd38ac9a4/colorLogoPNG_1756466390265.png",America's Next Top Model
 https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8
 #EXTINF:-1 tvg-id="AmericasNextTopModel.us" tvg-name="America's Next Top Model" group-title="United States" tvg-logo="https://images.pluto.tv/channels/68679fc6bb46d0bdd38ac9a4/colorLogoPNG_1756466390265.png",America's Next Top Model
@@ -609,8 +603,6 @@ https://jmp2.uk/plu-6964b7e007ea70192df28d43.m3u8
 https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",Animal Planet
-http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1 tvg-id="AnimationPlus.us" tvg-name="Animation+" group-title="United States" tvg-logo="https://i.imgur.com/OIFK6JB.png",Animation+
 https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimexHIDIVE.us" tvg-name="ANIME x HIDIVE" group-title="United States" tvg-logo="https://i.imgur.com/v0BlxCa.png",ANIME x HIDIVE
@@ -710,8 +702,6 @@ http://141.94.193.53/axn_black/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/viasat_film/index.m3u8
 #EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png",AXS TV
-http://23.239.31.26:8989/axstv/index.m3u8
-#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png",AXS TV
 https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Baby Shark TV" group-title="United States" tvg-logo="https://i.imgur.com/SbBKr8L.png",Baby Shark TV
 https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
@@ -763,8 +753,6 @@ https://pb-mubj6htj155c6.akamaized.net/Baywatch_SONO5.m3u8
 https://aegis-cloudfront-1.tubi.video/9d1cd886-32b9-41ce-a7de-3babb46506aa/playlist.m3u8
 #EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" group-title="United States" tvg-logo="https://i.imgur.com/c2esKHg.png",Baywatch
 https://baywatch-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" group-title="United States" tvg-logo="https://imgx.fubo.tv/station_logos/bbc-america_c.png",BBC America
-http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 tvg-id="BBCHomeGarden.us" tvg-name="BBC Home & Garden" group-title="United States" tvg-logo="https://i.imgur.com/rC0pi1D.png",BBC Home & Garden
 https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCKids.us" tvg-name="BBC Kids" group-title="United States" tvg-logo="https://i.imgur.com/vKUD64a.png",BBC Kids
@@ -1527,12 +1515,6 @@ http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",Disney Channel
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",Disney Junior
-http://tvsen5.aynascope.net/disney/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",Disney Junior
-http://tvsen7.aynascope.net/disney/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",Disney Junior
-http://tvsen7.aynascope.net/disneyjr/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",Disney Junior
 https://directv-iptv-player.vercel.app/api/stream?url=http://212.5.144.156:8080/disneyjr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",Disney Junior
 http://212.5.144.156/disneyjr/index.m3u8
@@ -1672,8 +1654,6 @@ https://a-cdn.klowdtv.com/live3/entrepreneurtv_720p/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/estv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD" group-title="United States" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png",ESPN HD
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",ESPN
-http://tvsen7.aynascope.net/espn/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",ESPN
 http://212.5.144.156:8080/espn/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 HD" group-title="United States" tvg-logo="https://i.imgur.com/00tsvjE.png",ESPN 2 HD
@@ -1835,8 +1815,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="WNYW-DT1" group-title="United States" tvg-logo="https://i.imgur.com/zZd9Tkt.png",WNYW-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox WSVN" group-title="United States" tvg-logo="https://farm8.staticflickr.com/7915/46516027895_d72f7ee41f_n.jpg",Fox WSVN
-http://190.197.41.183/Fox/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="WTTG-DT1" group-title="United States" tvg-logo="https://i.imgur.com/ktLKla7.png",WTTG-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="WTVT-DT1" group-title="United States" tvg-logo="https://farm8.staticflickr.com/7915/46516027895_d72f7ee41f_n.jpg",WTVT-DT1
@@ -2038,10 +2016,6 @@ https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
 https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
 #EXTINF:-1 tvg-id="HBCUGOSports.us" tvg-name="HBCU-GO Sports" group-title="United States" tvg-logo="https://i.imgur.com/TY6sx5W.png",HBCU-GO Sports
 https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",HBO
-http://tvsen7.aynascope.net/hbo/index.m3u8
-#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" group-title="United States" tvg-logo="https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg",HBO Hits
-http://tvsen7.aynascope.net/hbo2/index.m3u8
 #EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-name="HBO Signature Latin America" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/960px-HBO_Signature.svg.png",HBO Signature Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hbosignature.stream/chunks.m3u8
@@ -2085,8 +2059,6 @@ https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
 https://amg00654-itvstudios-hellskitchen-samsunguk-c8rgt.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="HellsKitchen.us" tvg-name="Hell's Kitchen" group-title="United States" tvg-logo="https://i.imgur.com/P9eT0O9.png",Hell's Kitchen
 https://pb-lf7eocnc8ua2e.akamaized.net/Hells_Kitchen_SONO10.m3u8
-#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png",HGTV
-http://tvsen7.aynascope.net/hgtv/index.m3u8
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV Asia" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png",HGTV Asia
 https://freem3u.xyz/api/live/play.m3u8?vid=99
 #EXTINF:-1 tvg-id="HiYAH.us" tvg-name="Hi-YAH!" group-title="United States" tvg-logo="https://i.imgur.com/sOYAnTB.png",Hi-YAH!
@@ -2370,8 +2342,6 @@ https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="LacrosseTV.us" tvg-name="Lacrosse TV" group-title="United States" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj",Lacrosse TV
 https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff" group-title="United States" tvg-logo="https://i.imgur.com/ozFhY32.png",Laff
-http://tvsen7.aynascope.net/laff/index.m3u8
-#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff" group-title="United States" tvg-logo="https://i.imgur.com/ozFhY32.png",Laff
 https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8
 #EXTINF:-1 tvg-id="LakeHavasuCity4.us" tvg-name="LHCAZTV" group-title="United States" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lQ_vy6By43AoSdSQbFUzQePU0NWWIM-uzsAqnbbQXAql4=s512",LHCAZTV
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
@@ -2468,8 +2438,6 @@ https://amg00376-magellan-amg00376c5-samsung-nz-1714.playouts.now.amagi.tv/playl
 https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8
 #EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us" tvg-name="Magnificent Movies Network" group-title="United States" tvg-logo="https://i.imgur.com/CXjo8kn.png",Magnificent Movies Network
 https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
-#EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="Magnolia Network" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Magnolia_Network.svg/960px-Magnolia_Network.svg.png",Magnolia Network
-http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MariaVisionUSA.us" tvg-name="Maria Vision USA" group-title="United States" tvg-logo="https://i.imgur.com/eaVt8R1.png",Maria Vision USA
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:PALMIAMI/playlist.m3u8
 #EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" tvg-name="Marquee Sports Network" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/960px-Marquee_Sports_Network_Logo.svg.png",Marquee Sports Network
@@ -2743,8 +2711,6 @@ https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="The NBA Channel" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",The NBA Channel
 https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="United States" tvg-logo="https://i.imgur.com/nxY84W5.png",NBC
-http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="United States" tvg-logo="https://i.imgur.com/nxY84W5.png",NBC
 http://stream.cammonitorplus.net/1785/index.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="KNTV 11.1" group-title="United States" tvg-logo="https://i.imgur.com/nxY84W5.png",KNTV 11.1
 http://50.229.129.155/0.ts
@@ -2794,8 +2760,6 @@ https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8
 https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="WPXI-DT1" group-title="United States" tvg-logo="https://i.imgur.com/MNSBpDW.png",WPXI-DT1
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC WTLV" group-title="United States" tvg-logo="https://i.imgur.com/nxY84W5.png",NBC WTLV
-http://190.197.41.183/NBC/index.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC 4 Milwaukee WI (WTMJ)" group-title="United States" tvg-logo="https://i.imgur.com/HC85eBq.png",NBC 4 Milwaukee WI (WTMJ)
 https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="WTVJ-DT1" group-title="United States" tvg-logo="https://i.imgur.com/nxY84W5.png",WTVJ-DT1
@@ -2926,8 +2890,6 @@ https://d265y4sk8257lt.cloudfront.net/nh.m3u8
 https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." group-title="United States" tvg-logo="https://i.imgur.com/KT4tdQs.png",Nick Jr.
 http://212.5.144.156:8080/nickjr/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." group-title="United States" tvg-logo="https://i.imgur.com/KT4tdQs.png",Nick Jr.
-http://tvsen7.aynascope.net/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr. Pluto TV" group-title="United States" tvg-logo="https://i.imgur.com/8DAe8wr.png",Nick Jr. Pluto TV
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr. Pluto TV" group-title="United States" tvg-logo="https://i.imgur.com/8DAe8wr.png",Nick Jr. Pluto TV
@@ -3777,8 +3739,6 @@ https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8
 https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8
 #EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" group-title="United States" tvg-logo="https://i.imgur.com/4fMWhUE.png",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" group-title="United States" tvg-logo="https://i.imgur.com/4fMWhUE.png",SYFY
-http://tvsen7.aynascope.net/syfy/index.m3u8
 #EXTINF:-1 tvg-id="TalkinLiveClassicsTV.us" tvg-name="Talkin Live Classics TV" group-title="United States" tvg-logo="https://play-lh.googleusercontent.com/qt4POaxei89y6DP7sRJlRNv-yo4jlG3HuVO2Jb54Rf6T7aJ-j7RLG2z4aY9YrU5d0Q=w240-h480-rw",Talkin Live Classics TV
 https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
 #EXTINF:-1 tvg-id="TAPTVChannel23.us" tvg-name="Lompoc TAP TV Channel 23" group-title="United States" tvg-logo="https://i.imgur.com/5mhYHtD.png",Lompoc TAP TV Channel 23
@@ -3831,16 +3791,12 @@ https://d16yptpbiuldtt.cloudfront.net/0b4ebb8be00f40ee83c024f661a85dcd/index.m3u
 https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
 #EXTINF:-1 tvg-id="TeenMom.us" tvg-name="Teen Mom" group-title="United States" tvg-logo="https://i.imgur.com/8o3ClCV.png",Teen Mom
 https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
-#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png",TeenNick
-http://tvsen7.aynascope.net/teennick/index.m3u8
 #EXTINF:-1 tvg-id="TeleBoston.us" tvg-name="Tele Boston" group-title="United States" tvg-logo="https://i.imgur.com/xeTtup8.png",Tele Boston
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 #EXTINF:-1 tvg-id="TelePam.us" tvg-name="Tele Pam" group-title="United States" tvg-logo="https://i.ibb.co/xMYMyHh/telepammmm.png",Tele Pam
 https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Telecyan.us" tvg-name="Telecyan" group-title="United States" tvg-logo="https://i.imgur.com/9BnHCj5.png",Telecyan
 https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" group-title="United States" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8c_WMuQx6ScVKpDbeYrzyOno6600xj708zvieuW4rS2YIeK9namdorbVRCKw6WsUAM4&usqp=CAU",Telemundo
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo East HD" group-title="United States" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8c_WMuQx6ScVKpDbeYrzyOno6600xj708zvieuW4rS2YIeK9namdorbVRCKw6WsUAM4&usqp=CAU",Telemundo East HD
 https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="NBC West (San Diego)" group-title="United States" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8c_WMuQx6ScVKpDbeYrzyOno6600xj708zvieuW4rS2YIeK9namdorbVRCKw6WsUAM4&usqp=CAU",NBC West (San Diego)
@@ -4091,6 +4047,9 @@ https://jmp2.uk/plu-5d695f7db53adf96b78e7ce3.m3u8
 https://d37kx062o4ii0p.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="TODAYAllDay.us" tvg-name="Today All Day" group-title="United States" tvg-logo="https://i.imgur.com/LhbQ8Mr.png",Today All Day
 https://aegis-cloudfront-1.tubi.video/cb7f305d-049a-4feb-bc6e-028c43ad3c3e/master.m3u8
+#EXTINF:-1 tvg-id="TomSingsTV.us" tvg-name="Tom Sings TV" group-title="United States" tvg-logo="https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920",Tom Sings TV
+#EXTVLCOPT:http-referrer=https://tomsings.bamboo-cloud.com/channel/6af043956f49ecefd30d7fd4
+https://vodcdn.bamboo-cloud.com/livehls/6af043956f49ecefd30d7fd4/master.m3u8
 #EXTINF:-1 tvg-id="ToonamiAftermath.us" tvg-name="Toonami Aftermath East" group-title="United States" tvg-logo="https://i.imgur.com/aSjhZK7.png",Toonami Aftermath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-id="ToonamiAftermath.us" tvg-name="Toonami Aftermath West" group-title="United States" tvg-logo="https://i.imgur.com/aSjhZK7.png",Toonami Aftermath West
@@ -4241,10 +4200,6 @@ https://all3media-international-undercoverboss-1-au.samsung.wurl.tv/playlist.m3u
 https://all3media-international-undercoverboss-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Unidentified.us" tvg-name="Unidentified" group-title="United States" tvg-logo="https://i.imgur.com/naYszow.jpg",Unidentified
 https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas Central" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png",UniMas Central
-http://190.197.41.183/Unimas/mono.m3u8
-#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas WAMI-DT" group-title="United States" tvg-logo="https://i.imgur.com/UpnzXnr.png",UniMas WAMI-DT
-http://190.197.41.183/Unimas/index.m3u8
 #EXTINF:-1 tvg-id="UniMas.us" tvg-name="WFUT-DT1" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/WFUT-DT_(2021).svg/960px-WFUT-DT_(2021).svg.png",WFUT-DT1
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
 #EXTINF:-1 tvg-id="UniMas.us" tvg-name="WXTV-DT1" group-title="United States" tvg-logo="https://i.imgur.com/Q7xrM2w.png",WXTV-DT1
@@ -4263,8 +4218,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8
 https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
 #EXTINF:-1 tvg-id="UniversalCrime.us" tvg-name="Universal Crime" group-title="United States" tvg-logo="https://i.imgur.com/OwSlGMu.png",Universal Crime
 https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",Univision
-http://190.197.41.183/Univision/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",Univision
 https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8
 #EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision West" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",Univision West
@@ -4286,8 +4239,6 @@ https://jmp2.uk/plu-6181498caf6afc0007de9e72.m3u8
 https://jmp2.uk/plu-5b4e96a0423e067bd6df6901.m3u8
 #EXTINF:-1 tvg-id="UnsolvedMysteries.us" tvg-name="Unsolved Mysteries" group-title="United States" tvg-logo="https://i.imgur.com/De3khrX.png",Unsolved Mysteries
 https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",USA Network
-http://190.197.41.183/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",USA Network
 http://200.32.231.178/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="USATODAY.us" tvg-name="USA TODAY" group-title="United States" tvg-logo="https://i.imgur.com/37K0AZX.png",USA TODAY
@@ -4461,10 +4412,6 @@ https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
 https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8
 #EXTINF:-1 tvg-id="WillametteFallsMediaCenter.us" tvg-name="Willamette Falls Media Center" group-title="United States" tvg-logo="https://i.imgur.com/KwlFyem.png",Willamette Falls Media Center
 https://reflect-greater-clackamas-county-tv.cablecast.tv/live-7/live/stream-4/live.m3u8
-#EXTINF:-1 tvg-id="Willow.us" tvg-name="Willow" group-title="United States" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",Willow
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-id="Willow.us" tvg-name="Willow" group-title="United States" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",Willow
-http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8
 #EXTINF:-1 tvg-id="Willow.us" tvg-name="Willow" group-title="United States" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",Willow
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-id="Willow.us" tvg-name="Willow" group-title="United States" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",Willow
@@ -4859,8 +4806,6 @@ https://jmp2.uk/plu-61c1db8ed6d97900076ea15c.m3u8
 https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV HD" group-title="Other English" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang TV HD
 https://freem3u.xyz/api/live/play.m3u8?vid=111
-#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV HD" group-title="Other English" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang TV HD
-http://45.162.64.114/ARIRANG/index.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV HD" group-title="Other English" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang TV HD
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" group-title="Other English" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang TV
@@ -5855,6 +5800,8 @@ http://stream.mcquack.net/440/index.m3u8
 https://fta.ektv.in/live/116/116_0.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW English" group-title="Other English" tvg-logo="https://i.imgur.com/8MRNFb9.png",DW English
 https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW English" group-title="Other English" tvg-logo="https://i.imgur.com/8MRNFb9.png",DW English
+https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
 #EXTINF:-1 tvg-id="E4.uk" tvg-name="E4" group-title="Other English" tvg-logo="https://i.imgur.com/22MfjF4.png",E4
 https://lb.iptvnetwork.net/ls28/10113/playlist.m3u8
 #EXTINF:-1 tvg-id="EACNewsTV.kh" tvg-name="EAC News TV" group-title="Other English" tvg-logo="https://i.imgur.com/EuYhS9Z.png",EAC News TV
@@ -5944,6 +5891,8 @@ http://103.253.74.210:7070/stream/122/index.m3u8
 https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-name="Eurosport 4K Romania" group-title="Other English" tvg-logo="https://i.imgur.com/0o3zjC7.png",Eurosport 4K Romania
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
+#EXTINF:-1 tvg-id="EurovisionSport.uk" tvg-name="Eurovision Sport" group-title="Other English" tvg-logo="https://images.ctfassets.net/2b1dkanupt14/1A1Z8Gcn2NkbJRzTjxuj6h/2c14436cdc5b78e746a256e9f0c11a70/eurovision-icon.png",Eurovision Sport
+https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8
 #EXTINF:-1 tvg-id="EventyrligOppussing.se" tvg-name="Eventyrlig Oppussing" group-title="Other English" tvg-logo="https://images.pluto.tv/channels/61c1de93244e500007581d69/colorLogoPNG.png",Eventyrlig Oppussing
 https://jmp2.uk/plu-61c1de93244e500007581d69.m3u8
 #EXTINF:-1 tvg-id="EverybodyHatesChris.se" tvg-name="Everybody Hates Chris" group-title="Other English" tvg-logo="https://images.pluto.tv/channels/63a1cab19ab2df0007bf1c8b/colorLogoPNG.png",Everybody Hates Chris
@@ -6238,8 +6187,6 @@ https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8
 #EXTINF:-1 tvg-id="H2.bg" tvg-name="H2" group-title="Other English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",H2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03r
-#EXTINF:-1 tvg-id="HalaLondon.uk" tvg-name="Hala London" group-title="Other English" tvg-logo="https://i.imgur.com/bM4VZDH.png",Hala London
-https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 #EXTINF:-1 tvg-id="HappyDays.se" tvg-name="Happy Days" group-title="Other English" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png",Happy Days
 https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
 #EXTINF:-1 tvg-id="HappyDays.se" tvg-name="Happy Days" group-title="Other English" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png",Happy Days
@@ -6640,8 +6587,6 @@ https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
 #EXTINF:-1 tvg-id="MacGyver.se" tvg-name="MacGyver" group-title="Other English" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png",MacGyver
 https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
 #EXTINF:-1 tvg-id="MadaniChannelEnglish.pk" tvg-name="Madani Channel English" group-title="Other English" tvg-logo="https://i.imgur.com/Abi9j0A.png",Madani Channel English
-http://tvsen7.aynascope.net/MadaniTV/index.m3u8
-#EXTINF:-1 tvg-id="MadaniChannelEnglish.pk" tvg-name="Madani Channel English" group-title="Other English" tvg-logo="https://i.imgur.com/Abi9j0A.png",Madani Channel English
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
 #EXTINF:-1 tvg-id="MahaasinTV.tz" tvg-name="Mahaasin TV" group-title="Other English" tvg-logo="https://i.imgur.com/wdfdKvC.png",Mahaasin TV
 https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
@@ -6737,8 +6682,6 @@ https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
 #EXTINF:-1 tvg-id="MirrorNow.in" tvg-name="Mirror Now" group-title="Other English" tvg-logo="https://dtil.tmsimg.com/assets/s143543_ld_h15_aa.png?lock=720x540",Mirror Now
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MirrorNow.m3u8
-#EXTINF:-1 tvg-id="MISATV.ro" tvg-name="MISA TV English" group-title="Other English" tvg-logo="https://i.imgur.com/2RxQNm6.png",MISA TV English
-https://vidh.youniverse.name:5050/MSTV/english/chunklist_w1133422319.m3u8
 #EXTINF:-1 tvg-id="MissionAsia.au" tvg-name="Mission Asia" group-title="Other English" tvg-logo="https://i.imgur.com/B5mKwF6.png",Mission Asia
 https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MissionImpossible.se" tvg-name="Mission Impossible" group-title="Other English" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png",Mission Impossible
@@ -7006,8 +6949,6 @@ https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
 https://cdn.pishow.tv/ott/live/1287/master.m3u8
 #EXTINF:-1 tvg-id="NevisTelevision.kn" tvg-name="Nevis Television" group-title="Other English" tvg-logo="https://i.imgur.com/u76GqAi.png",Nevis Television
 https://media.slactech.com:1936/NTvDirect/ngrp:NTvDirect_all/playlist.m3u8
-#EXTINF:-1 tvg-id="NewVisionTV.ng" tvg-name="New Vision TV" group-title="Other English",New Vision TV
-https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsCentral.ng" tvg-name="News Central" group-title="Other English" tvg-logo="https://i.imgur.com/qvCgI8N.png",News Central
 https://wf.newscentral.ng:8443/hls/stream.m3u8
 #EXTINF:-1 tvg-id="News18AssamNorthEast.in" tvg-name="News18 Assam North-East" group-title="Other English" tvg-logo="https://dtil.tmsimg.com/assets/s143606_ld_h15_aa.png?lock=720x540",News18 Assam North-East
@@ -7090,6 +7031,9 @@ https://streamer-jv9.pages.dev/italy/nickjr.m3u
 http://103.253.74.210:7070/stream/116/index.m3u8
 #EXTINF:-1 tvg-id="NickComedyCentralPlus1.de" tvg-name="Nick/Comedy Central +1" group-title="Other English" tvg-logo="https://i.imgur.com/08ZUI9k.png",Nick/Comedy Central +1
 http://90.183.52.46:4000/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.au" tvg-name="Nickelodeon" group-title="Other English" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+https://i.mjh.nz/.r/10shake-nsw.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" group-title="Other English" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 #EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon Deutschland" group-title="Other English" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon Deutschland
@@ -7470,8 +7414,6 @@ https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/playlist/amg01
 https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
 #EXTINF:-1 tvg-id="POPWorldTV.es" tvg-name="POP World TV" group-title="Other English" tvg-logo="https://i.imgur.com/LQB6G3s.jpg",POP World TV
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-#EXTINF:-1 tvg-id="Power1017FM.aw" tvg-name="Power 101.7 FM" group-title="Other English" tvg-logo="https://i.imgur.com/bkQrXjB.png",Power 101.7 FM
-https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerHD.ar" tvg-name="PowerHD" group-title="Other English" tvg-logo="https://i.imgur.com/15gMDG0.png",PowerHD
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 tvg-id="PraiseTV.pk" tvg-name="Praise TV" group-title="Other English" tvg-logo="https://i.imgur.com/T9fIdLs.png",Praise TV
@@ -7813,8 +7755,6 @@ https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="SilverScreen.pk" tvg-name="Silver Screen" group-title="Other English" tvg-logo="https://i.imgur.com/s4Rv6pK.png",Silver Screen
 http://103.250.28.74:8000/play/a044/index.m3u8
-#EXTINF:-1 tvg-id="SilverbirdNews24.ng" tvg-name="Silverbird News 24" group-title="Other English" tvg-logo="https://i.imgur.com/9jcV9oG.png",Silverbird News 24
-https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SindhTV.pk" tvg-name="Sindh TV" group-title="Other English" tvg-logo="https://i.imgur.com/izpeOsx.png",Sindh TV
 http://103.250.28.74:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="SindhTVNews.pk" tvg-name="Sindh TV News" group-title="Other English" tvg-logo="https://i.imgur.com/Ap9K1lj.png",Sindh TV News
@@ -7967,8 +7907,6 @@ http://103.250.28.74:8000/play/a010/index.m3u8
 http://213.91.179.28:8000/play/a0c9
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies HD" group-title="Other English" tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540",Star Movies HD
 http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="Star Sports Select 2 HD" group-title="Other English" tvg-logo="https://dtil.tmsimg.com/assets/s143851_ld_h15_aa.png?lock=720x540",Star Sports Select 2 HD
-http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-id="StarTrekMovies.se" tvg-name="Star Trek Movies" group-title="Other English" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png",Star Trek Movies
 https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
 #EXTINF:-1 tvg-id="StarTrekMovies.se" tvg-name="Star Trek Movies" group-title="Other English" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png",Star Trek Movies
@@ -8107,12 +8045,8 @@ http://149.62.177.107:9999/TFX/index.m3u8
 https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
 #EXTINF:-1 tvg-id="Thats70s.uk" tvg-name="That's 70s" group-title="Other English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/That%27s_70s_2023.png",That's 70s
 https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8
-#EXTINF:-1 tvg-id="Thats70s.uk" tvg-name="That's 70s" group-title="Other English" tvg-logo="https://i.imgur.com/j2q53JQ.png",That's 70s
-http://92.114.85.72:8000/play/a0lc
 #EXTINF:-1 tvg-id="Thats80s.uk" tvg-name="That's 80s" group-title="Other English",That's 80s
 https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8
-#EXTINF:-1 tvg-id="ThatsTV.uk" tvg-name="That's TV" group-title="Other English" tvg-logo="https://i.imgur.com/rmdfcyG.png",That's TV
-http://92.114.85.72:8000/play/a0lb
 #EXTINF:-1 tvg-id="TheChatShowChannel.uk" tvg-name="The Chat Show Channel" group-title="Other English" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj",The Chat Show Channel
 https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="TheChatShowChannel.uk" tvg-name="The Chat Show Channel" group-title="Other English" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj",The Chat Show Channel
@@ -8392,10 +8326,6 @@ https://lana.psm.mv/live/tvm.m3u8
 https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOne.uk" tvg-name="TV One" group-title="Other English" tvg-logo="https://i.imgur.com/qkbRslf.png",TV One
 http://92.114.85.72:8000/play/a070
-#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" group-title="Other English" tvg-logo="https://i.imgur.com/iuoXchN.png",TV Pai Eterno
-http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" group-title="Other English" tvg-logo="https://i.imgur.com/iuoXchN.png",TV Pai Eterno
-http://168.197.104.22/TV_PAI_ETERNO/index.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" group-title="Other English" tvg-logo="https://i.imgur.com/iuoXchN.png",TV Pai Eterno
 http://186.219.52.187/pai_eterno/index.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" group-title="Other English" tvg-logo="https://i.imgur.com/iuoXchN.png",TV Pai Eterno
@@ -8719,8 +8649,6 @@ https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 tvg-id="AlloCine.cm" tvg-name="Allo Cine" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Allo%20Cine.jpeg",Allo Cine
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC
-http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk" tvg-name="AMC Europe Czech Republic" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC Europe Czech Republic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.7.14/live/test_amc_25p/playlist.m3u8
@@ -8884,16 +8812,12 @@ https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
 #EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Mystery" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg",Hallmark Mystery
 http://41.205.93.154/HALLMARK/index.m3u8
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",HBO
-http://tvsen7.aynascope.net/hbo/index.m3u8
 #EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia HD" group-title="Movies" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png",HBO Asia HD
 http://202.150.165.66:8088/play/100-HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia SD" group-title="Movies" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png",HBO Asia SD
 https://tinyurl.com/yn3d3rmd
 #EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia Taiwan" group-title="Movies" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png",HBO Asia Taiwan
 http://125.227.210.55:1003/VideoInput/play.ts
-#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" group-title="Movies" tvg-logo="https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg",HBO Hits
-http://tvsen7.aynascope.net/hbo2/index.m3u8
 #EXTINF:-1 tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits Asia HD" group-title="Movies" tvg-logo="https://i.ibb.co/Mkzs7g3J/IMG-2195.png",HBO Hits Asia HD
 http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
 #EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature Asia HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png",HBO Signature Asia HD
@@ -9187,8 +9111,6 @@ https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 #EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" group-title="Movies" tvg-logo="https://i.imgur.com/4fMWhUE.png",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" group-title="Movies" tvg-logo="https://i.imgur.com/4fMWhUE.png",SYFY
-http://tvsen7.aynascope.net/syfy/index.m3u8
 #EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png",TCM
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM West" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png",TCM West
@@ -9218,8 +9140,6 @@ http://168.196.127.137:6001/play/a09b/index.m3u8
 #EXTINF:-1 tvg-id="UniversalComedy.us" tvg-name="Universal Comedy" group-title="Movies" tvg-logo="https://i.imgur.com/avBL8pQ.png",Universal Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",USA Network
-http://190.197.41.183/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",USA Network
 http://200.32.231.178/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ViafreeMovies.se" tvg-name="Viafree Movies" group-title="Movies" tvg-logo="https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoPNG.png",Viafree Movies
@@ -9643,10 +9563,6 @@ https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8
 https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8
 #EXTINF:-1 tvg-id="HauntTV.ca" tvg-name="Haunt TV" group-title="Series" tvg-logo="https://haunt-tv.com/wp-content/uploads/2022/09/haunt-tv-logo.png",Haunt TV
 https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",HBO
-http://tvsen7.aynascope.net/hbo/index.m3u8
-#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" group-title="Series" tvg-logo="https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg",HBO Hits
-http://tvsen7.aynascope.net/hbo2/index.m3u8
 #EXTINF:-1 tvg-id="HellsKitchen.us" tvg-name="Hell's Kitchen" group-title="Series" tvg-logo="https://i.imgur.com/P9eT0O9.png",Hell's Kitchen
 https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8
 #EXTINF:-1 tvg-id="HellsKitchen.us" tvg-name="Hell's Kitchen" group-title="Series" tvg-logo="https://i.imgur.com/P9eT0O9.png",Hell's Kitchen
@@ -10049,8 +9965,6 @@ https://amg00627-banijaygroup-surviour-uk-samsunguk-uyz22.amagi.tv/playlist/amg0
 https://jmp2.uk/plu-5f21e7b24744c60007c1f6fc.m3u8
 #EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" group-title="Series" tvg-logo="https://i.imgur.com/4fMWhUE.png",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" group-title="Series" tvg-logo="https://i.imgur.com/4fMWhUE.png",SYFY
-http://tvsen7.aynascope.net/syfy/index.m3u8
 #EXTINF:-1 tvg-id="TPlusE.ca" tvg-name="T+E" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/T%2BE_Television.png",T+E
 http://185.246.209.113/T+E/index.m3u8
 #EXTINF:-1 tvg-id="Telecyan.us" tvg-name="Telecyan" group-title="Series" tvg-logo="https://i.imgur.com/9BnHCj5.png",Telecyan
@@ -10195,8 +10109,6 @@ https://jmp2.uk/plu-6181498caf6afc0007de9e72.m3u8
 https://jmp2.uk/plu-5b4e96a0423e067bd6df6901.m3u8
 #EXTINF:-1 tvg-id="UnsolvedMysteries.us" tvg-name="Unsolved Mysteries" group-title="Series" tvg-logo="https://i.imgur.com/De3khrX.png",Unsolved Mysteries
 https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",USA Network
-http://190.197.41.183/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",USA Network
 http://200.32.231.178/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="WeTV.us" tvg-name="We TV" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/3840px-Wetv-july-2024-logo.svg.png",We TV
