@@ -29,7 +29,6 @@ CBS 3 Kalamazoo MI (WWMT) | HTTP 404 | https://linear-701.frequency.stream/dist/
 CBS 3 Omaha NE (KMTV) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
 CBS 8 Des Moines IA (KCCI) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8
 CBeebies HD | HTTP 404 | https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
-CLTV 36 | HTTP 404 | https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 CMTv Kenya | HTTP 404 | https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8
 CNBC | HTTP 404 | http://41.205.93.154/CNBC/index.m3u8
 Cartoon Classics | HTTP 404 | https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
@@ -89,9 +88,7 @@ HBO | HTTP 404 | http://tvsen7.aynascope.net/hbo/index.m3u8
 HBO Hits | HTTP 404 | http://tvsen7.aynascope.net/hbo2/index.m3u8
 HGTV | HTTP 404 | http://tvsen7.aynascope.net/hgtv/index.m3u8
 HLC TV | HTTP 404 | https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8
-Hala London | HTTP 404 | https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 Hard Knocks | HTTP 404 | https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
-Harvest USA | HTTP 404 | https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
 Heaven Bound TV | HTTP 404 | https://goliveafrica.media:9998/live/62580b337c021/index.m3u8
 His Grace TV | HTTP 404 | https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8
 Homeful | HTTP 404 | https://jmp2.uk/plu-65786abdb3801200084c593a.m3u8
@@ -118,12 +115,12 @@ Lolwe TV | HTTP 404 | https://goliveafrica.media:9998/live/62580e144eb43/index.m
 Lotus TV | HTTP 404 | https://play-sh.quklive.com/live/1780907795235397.m3u8
 Lucas & Friends | HTTP 404 | https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8
 MIS Televizija | HTTP 404 | https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
-MISA TV English | HTTP 404 | https://vidh.youniverse.name:5050/MSTV/english/chunklist_w1133422319.m3u8
 MLB Strike Zone | HTTP 404 | http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 MOF TV | HTTP 404 | https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8
 MSG | HTTP 404 | http://23.237.104.106:8080/USA_MSG/index.m3u8
 Madani Channel English | HTTP 404 | http://tvsen7.aynascope.net/MadaniTV/index.m3u8
 Mashariki TV | HTTP 404 | https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8
+Monte Carlo Digital Television | HTTP 404 | https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 More TV Sci-fi | HTTP 404 | https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 Mwangaza TV | HTTP 404 | https://goliveafrica.media:9998/live/6516be24a6bac/index.m3u8
 NBC 10 Cranston RI (WJAR) | HTTP 404 | https://linear-694.frequency.stream/dist/stirr/694/hls/master/playlist.m3u8
@@ -162,6 +159,7 @@ Sayare TV | HTTP 404 | https://goliveafrica.media:9998/live/636dedfa327d7/index.
 Scorpion | HTTP 404 | https://jmp2.uk/plu-63d000ef4e83e700086e0d6c.m3u8
 Sheffield Live TV | HTTP 404 | http://tv.sheffieldlive.org/hls/main.m3u8
 Silverbird News 24 | HTTP 404 | https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
+Sky News Weather | HTTP 404 | https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 Sky Sport 1 | HTTP 404 | http://37.49.224.5/stream/44/index.m3u8
 Sky Sport 2 | HTTP 404 | http://37.49.224.5/stream/45/index.m3u8
 Sky Sport 3 | HTTP 404 | http://37.49.224.5/stream/46/index.m3u8

@@ -15,7 +15,6 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_SPORTS_HD" lang="en" xmltv_id="DDSports.in@HD">DD Sports HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_URDU" lang="en" xmltv_id="DDUrdu.in@SD">DD Urdu</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISCOVERY_CHANNEL" lang="en" xmltv_id="DiscoveryChannel.in@SD">Discovery Channel</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD" lang="en" xmltv_id="DisneyChannel.in@HD">DISNEY CHANNEL HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ET_NOW" lang="en" xmltv_id="ETNow.in@SD">ET NOW</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH" lang="en" xmltv_id="ETNowSwadesh.in@SD">ET SWADESH</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_EUROSPORT" lang="en" xmltv_id="Eurosport.in@SD">Eurosport</channel>
@@ -27,8 +26,6 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_TODAY" lang="en" xmltv_id="IndiaToday.in@SD">India Today</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MIRROR_NOW" lang="en" xmltv_id="MirrorNow.in@SD">MIRROR NOW</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW_HD" lang="en" xmltv_id="MoviesNow.in@HD">MOVIES NOW HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" lang="en" xmltv_id="MoviesNowPlus.in@SD">MN+</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL_HD" lang="en" xmltv_id="NationalGeographic.in@HD">National Geographic Channel HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NDTV_24X7" lang="en" xmltv_id="NDTV24x7.in@SD">NDTV 24x7</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOOD_TIMES" lang="en" xmltv_id="NDTVGoodTimes.in@SD">GOOD TiMES</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME" lang="en" xmltv_id="NDTVProfit.in@SD">NDTV Profit Prime</channel>
@@ -40,7 +37,6 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RT" lang="en" xmltv_id="RTIndia.in@HD">RT</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD" lang="en" xmltv_id="SansadTV1.in@HD">Sansad TV - 1 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANSAD_TV_HD" lang="en" xmltv_id="SansadTV2.in@HD">Sansad TV - 2 HD</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_MOVIES_HD" lang="en" xmltv_id="StarMovies.in@HD">Star Movies HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VIJAY_HD" lang="en" xmltv_id="StarVijay.in@HD">Star Vijay HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TIMES_NOW" lang="en" xmltv_id="TimesNow.in@SD">TIMES NOW</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TRAVELXP" lang="en" xmltv_id="Travelxp.in@HD">Travelxp</channel>
@@ -198,6 +194,7 @@
   <channel site="freeview.co.uk" site_id="64257#12298" lang="en" xmltv_id="UW.uk@SD">U&amp;W</channel>
   <channel site="freeview.co.uk" site_id="64257#14464" lang="en" xmltv_id="WildEarth.za@SD">WildEarth</channel>
   <channel site="guidatv.sky.it" site_id="DTH#6741" lang="en" xmltv_id="FoxBusinessNetwork.us@SD">Fox Business</channel>
+  <channel site="horizon.tv" site_id="10104" lang="en" xmltv_id="Mezzo.fr@SD">Mezzo</channel>
   <channel site="horizon.tv" site_id="10105" lang="en" xmltv_id="FashionTVEurope.fr@SD">Fashion TV HD</channel>
   <channel site="horizon.tv" site_id="10119" lang="en" xmltv_id="TRTWorld.tr@SD">TRT World HD</channel>
   <channel site="horizon.tv" site_id="10128" lang="en" xmltv_id="FightBox.nl@SD">Fightbox HD</channel>
@@ -221,7 +218,6 @@
   <channel site="i.mjh.nz" site_id="Flash/epg#msnbc" lang="en" xmltv_id="MSNOW.us@SD">MSNBC</channel>
   <channel site="i.mjh.nz" site_id="Flash/epg#nbc-news-now" lang="en" xmltv_id="NBCNewsNOW.us@SD">NBC News Now</channel>
   <channel site="i.mjh.nz" site_id="Flash/epg#quicktake" lang="en" xmltv_id="BloombergOriginals.us@SD">Bloomberg Originals</channel>
-  <channel site="i.mjh.nz" site_id="Flash/epg#sky-news-weather" lang="en" xmltv_id="SkyNewsWeather.uk@SD">Sky News Weather</channel>
   <channel site="i.mjh.nz" site_id="Flash/epg#ticker-news" lang="en" xmltv_id="tickerNews.au@SD">Ticker News</channel>
   <channel site="i.mjh.nz" site_id="Flash/epg#usa-today" lang="en" xmltv_id="USATODAY.us@SD">USA Today</channel>
   <channel site="i.mjh.nz" site_id="Foxtel/epg#NAT" lang="en" xmltv_id="NatureTime.ca@AU">Nature Time</channel>
