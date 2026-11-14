@@ -16,7 +16,6 @@ Animal Planet | HTTP 404 | http://37.49.224.5/stream/10/index.m3u8
 ArubaTV + | HTTP 404 | https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
 BBC Four | HTTP 404 | https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 BTL TV | HTTP 404 | https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
-BTV | HTTP 404 | https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
 Babyfirst | HTTP 404 | https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 Breinholts | HTTP 404 | https://jmp2.uk/plu-660d6c0094db140008fe2f74.m3u8
 Burbank Channel | HTTP 404 | https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
@@ -71,7 +70,6 @@ FOX 5 New York NY (WNYW) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/36a4
 FOX 5 Washington DC (WTTG) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/4b125d60-5d81-4a3c-99c3-726c9cb8cf99/index.m3u8
 FOX 6 Milwaukee WI (WITI) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/f16a76f1-fdb8-4e18-a14b-1e40e98eb1ff/index.m3u8
 Fox Deportes | HTTP 404 | http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-Fox News Channel | HTTP 404 | https://tvsen6.aynaott.com/foxnews/index.m3u8
 Fox Soul | HTTP 404 | https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8
 Fubo Sports Network | HTTP 404 | https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
 Fubo Sports Network | HTTP 404 | https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
@@ -81,10 +79,11 @@ GTN TV | HTTP 404 | https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u
 GZT | HTTP 404 | https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 Gainesville Community 12TV (Gainesville FL) | HTTP 404 | https://lin10.isilive.ca/live/gainesville/live/index.m3u8
 Galaxy TV | HTTP 404 | https://stream.castr.com/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/index.fmp4.m3u8
-Giggle Mug | HTTP 404 | https://tvsen6.aynaott.com/ytv/index.m3u8
 Great Commission TV | HTTP 404 | https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8
 HLC TV | HTTP 404 | https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8
+Hala London | HTTP 404 | https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 Hard Knocks | HTTP 404 | https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
+Harvest USA | HTTP 404 | https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
 Heaven Bound TV | HTTP 404 | https://goliveafrica.media:9998/live/62580b337c021/index.m3u8
 His Grace TV | HTTP 404 | https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8
 Homeful | HTTP 404 | https://jmp2.uk/plu-65786abdb3801200084c593a.m3u8
@@ -122,7 +121,6 @@ NBC 4 San Antonio TX (WOAI) | HTTP 404 | https://linear-703.frequency.stream/dis
 NBC 6 Johnstown PA (WJAC) | HTTP 404 | https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8
 NBC 9 Steubenville OH (WTOV) | HTTP 404 | https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8
 NBC News Now | HTTP 404 | https://aegis-cloudfront-1.tubi.video/605fb6ea-f89c-451a-873c-030cb726b493/master.m3u8
-NOW News Global | HTTP 404 | https://nowhls.wns.live/hls/stream.m3u8
 Nash Bridges | HTTP 404 | https://aegis-cloudfront-1.tubi.video/07f838db-e5bc-47c9-b2b8-6d7037b06b9b/playlist.m3u8
 New Vision TV | HTTP 404 | https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8
 News 12 New York | HTTP 404 | https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playlist.m3u8
