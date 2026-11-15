@@ -45,7 +45,9 @@
   <channel site="arirang.com" site_id="CH_K" lang="en" xmltv_id="ArirangTV.kr@SD">KOREA</channel>
   <channel site="arirang.com" site_id="CH_Z" lang="en" xmltv_id="ArirangUN.kr@SD">UN</channel>
   <channel site="bein.com" site_id="entertainment#22" lang="en" xmltv_id="BloombergTV.us@MiddleEast">22</channel>
+  <channel site="bein.com" site_id="entertainment#28" lang="en" xmltv_id="DiscoveryChannelMiddleEastAfrica.us@SD">28</channel>
   <channel site="bein.com" site_id="entertainment#27" lang="en" xmltv_id="EuronewsEnglish.fr@SD">27</channel>
+  <channel site="bein.com" site_id="entertainment#16" lang="en" xmltv_id="StarWorldMiddleEast.ae@SD">16</channel>
   <channel site="beinsports.com" site_id="1ACADCF1-DFAC-480B-872C-53D51FE1B45D" lang="en" xmltv_id="beINSPORTSXTRA.us@SD">beIN SPORTS XTRA</channel>
   <channel site="beinsports.com" site_id="C244C48D-3B54-406A-94C9-D63B16318267" lang="en" xmltv_id="beINSportsUSA.us@SD">beIN SPORTS</channel>
   <channel site="canalplus.com" site_id="#654" lang="en" xmltv_id="NHKWorldJapan.jp@SD">NHK WORLD-JAPAN</channel>
@@ -706,6 +708,7 @@
   <channel site="melita.com" site_id="90866e92-bb52-4842-b00d-ae2bad9dfec6" lang="en" xmltv_id="SmashTV.mt@SD">Smash TV</channel>
   <channel site="melita.com" site_id="aeb3011d-9106-4621-b5e8-693dec45f33e" lang="en" xmltv_id="ducktv.sk@SD">Duck TV</channel>
   <channel site="melita.com" site_id="dac0cc07-c3f1-4753-a1b6-fd9465ba2e20" lang="en" xmltv_id="CartoonitoCEE.uk@SD">Boomerang</channel>
+  <channel site="melita.com" site_id="ddd38bf4-0324-4a46-9174-b7023c632c60" lang="en" xmltv_id="Eurosport2.fr@France">Eurosport 2</channel>
   <channel site="melita.com" site_id="e9aa65aa-50b3-4045-abb7-edd2c876d593" lang="en" xmltv_id="MTVGlobal.uk@SD">MTV</channel>
   <channel site="melita.com" site_id="ea43081b-08a5-41e8-ba9a-3f22e4c0535a" lang="en" xmltv_id="JimJamEurope.uk@SD">JimJam</channel>
   <channel site="melita.com" site_id="f47884ed-751b-4656-99a7-26dc294476de" lang="en" xmltv_id="StingrayiConcerts.ca@SD">iConcerts HD</channel>
@@ -752,6 +755,7 @@
   <channel site="ontvtonight.com" site_id="us#69034109/trutv-hdtv-east" lang="en" xmltv_id="truTV.us@East">truTV HDTV (East)</channel>
   <channel site="ontvtonight.com" site_id="us#371340530/unimas-east" lang="en" xmltv_id="UniMas.us@East">UniMás (East)</channel>
   <channel site="osn.com" site_id="212" lang="en" xmltv_id="CrimePlusInvestigation.us@SD">C &amp; I</channel>
+  <channel site="osn.com" site_id="5663" lang="en" xmltv_id="NickelodeonArabia.ae@SD">Nickelodeon HD</channel>
   <channel site="osn.com" site_id="302" lang="en" xmltv_id="OSNMoviesAction.ae@SD">OSNtv Movies Action</channel>
   <channel site="osn.com" site_id="9047" lang="en" xmltv_id="SaudiThaqafiyaTV.sa@SD">Al Thaqafeya</channel>
   <channel site="plex.tv" site_id="6577ab54f8a8e7d24bc86ed3" lang="en" xmltv_id="KNXVTV611.us@HD">KNXV</channel>
@@ -808,6 +812,7 @@
   <channel site="tvguide.com" site_id="9200004848" lang="en" xmltv_id="CartoonNetwork.us@East">Cartoon Network</channel>
   <channel site="tvguide.com" site_id="9200004852" lang="en" xmltv_id="DisneyXD.us@East">Disney XD</channel>
   <channel site="tvguide.com" site_id="9200006932" lang="en" xmltv_id="FX.us@East">FX</channel>
+  <channel site="tvguide.com" site_id="9200006939" lang="en" xmltv_id="Nickelodeon.us@East">Nickelodeon</channel>
   <channel site="tvguide.com" site_id="9200006974" lang="en" xmltv_id="TeenNick.us@East">TeenNick</channel>
   <channel site="tvguide.com" site_id="9200006977" lang="en" xmltv_id="StarzKidsFamily.us@East">STARZ Kids &amp; Family</channel>
   <channel site="tvguide.com" site_id="9200009245" lang="en" xmltv_id="DestinationAmerica.us@SD">Destination America</channel>
@@ -907,7 +912,6 @@
   <channel site="tvtv.us" site_id="70113" lang="en" xmltv_id="PixLTV.us@SD">PixL TV</channel>
   <channel site="tvtv.us" site_id="71297" lang="en" xmltv_id="PetsTV.us@SD">Pets.TV</channel>
   <channel site="tvtv.us" site_id="71303" lang="en" xmltv_id="MyDestinationTV.us@SD">MyDestination.TV</channel>
-  <channel site="tvtv.us" site_id="71798" lang="en" xmltv_id="ImpactNetwork.us@SD">Impact Network</channel>
   <channel site="tvtv.us" site_id="73580" lang="en" xmltv_id="KIIOLD101.us@HD">US Armenia (KIIO-LD) Los Angeles, CA</channel>
   <channel site="tvtv.us" site_id="74978" lang="en" xmltv_id="JBS.us@SD">JBS</channel>
   <channel site="tvtv.us" site_id="80404" lang="en" xmltv_id="MLBStrikeZone.us@SD">MLB Strike Zone</channel>
