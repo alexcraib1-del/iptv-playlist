@@ -698,7 +698,6 @@
   <channel site="m.tv.sms.cz" site_id="NBA+SD" lang="en" xmltv_id="NBATV.us@SD">NBA SD</channel>
   <channel site="m.tv.sms.cz" site_id="Outdoor+Channel" lang="en" xmltv_id="OutdoorChannel.us@SD">Outdoor Channel</channel>
   <channel site="m.tv.sms.cz" site_id="Russian+Travel+Guide" lang="en" xmltv_id="RTGTV.ru@SD">Russian Travel Guide</channel>
-  <channel site="m.tv.sms.cz" site_id="Sky+Sports+News" lang="en" xmltv_id="SkySportsNews.uk@SD">Sky Sports News</channel>
   <channel site="m.tv.sms.cz" site_id="Trace+Sports" lang="en" xmltv_id="TraceSportStars.fr@HD">Trace Sports</channel>
   <channel site="m.tv.sms.cz" site_id="Wild+TV" lang="en" xmltv_id="WildTV.ca@SD">Wild TV</channel>
   <channel site="melita.com" site_id="6d7fbb66-a86a-46ef-9cb4-bee3594bfc39" lang="en" xmltv_id="HGTV.it@SD">HGTV HD</channel>
@@ -718,7 +717,6 @@
   <channel site="mncvision.id" site_id="161" lang="en" xmltv_id="KIX.hk@SD">KIX</channel>
   <channel site="mncvision.id" site_id="19" lang="en" xmltv_id="Thrill.hk@SD">Thrill</channel>
   <channel site="mytelly.co.uk" site_id="229/mutv" lang="en" xmltv_id="MUTV.uk@SD">MUTV</channel>
-  <channel site="mytelly.co.uk" site_id="435/sky-sports-nfl" lang="en" xmltv_id="SkySportsNFL.uk@SD">Sky Sports NFL</channel>
   <channel site="mytelly.co.uk" site_id="1511/cnbc-uk" lang="en" xmltv_id="CNBCUK.uk@SD">CNBC UK</channel>
   <channel site="mytelly.co.uk" site_id="1670/sky-sports-f1" lang="en" xmltv_id="SkySportsF1.uk@SD">Sky Sports F1</channel>
   <channel site="mytelly.co.uk" site_id="1915/now-80s" lang="en" xmltv_id="Now80s.uk@SD">NOW 80s</channel>
@@ -915,7 +913,6 @@
   <channel site="tvtv.us" site_id="71303" lang="en" xmltv_id="MyDestinationTV.us@SD">MyDestination.TV</channel>
   <channel site="tvtv.us" site_id="73580" lang="en" xmltv_id="KIIOLD101.us@HD">US Armenia (KIIO-LD) Los Angeles, CA</channel>
   <channel site="tvtv.us" site_id="74978" lang="en" xmltv_id="JBS.us@SD">JBS</channel>
-  <channel site="tvtv.us" site_id="80404" lang="en" xmltv_id="MLBStrikeZone.us@SD">MLB Strike Zone</channel>
   <channel site="tvtv.us" site_id="80740" lang="en" xmltv_id="ComedyTV.us@SD">Comedy.TV</channel>
   <channel site="tvtv.us" site_id="83166" lang="en" xmltv_id="AdultSwim.us@East">[adult swim]East</channel>
   <channel site="tvtv.us" site_id="88293" lang="en" xmltv_id="SmartLifeStyleTV.us@SD">Smart LifeStyle TV</channel>
