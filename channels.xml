@@ -54,8 +54,6 @@
   <channel site="chaines-tv.orange.fr" site_id="531" lang="en" xmltv_id="LuxeTV.lu@SD">LUXE TV</channel>
   <channel site="clickthecity.com" site_id="30" lang="en" xmltv_id="CinemaxAsia.sg@SD">Cinemax</channel>
   <channel site="clickthecity.com" site_id="168" lang="en" xmltv_id="AnimaxAsia.sg@Philippines">Animax</channel>
-  <channel site="clickthecity.com" site_id="180" lang="en" xmltv_id="ROCKEntertainment.sg@SD">Rock Entertainment</channel>
-  <channel site="clickthecity.com" site_id="186" lang="en" xmltv_id="ROCKAction.sg@SD">Rock Extreme</channel>
   <channel site="content.astro.com.my" site_id="91" lang="en" xmltv_id="AsianFoodNetwork.sg@SD">Asian Food Network HD</channel>
   <channel site="content.astro.com.my" site_id="143" lang="en" xmltv_id="HBOAsia.sg@Vietnam">HBO HD</channel>
   <channel site="content.astro.com.my" site_id="144" lang="en" xmltv_id="HistoryAsia.us@SD">History HD</channel>
@@ -719,14 +717,11 @@
   <channel site="mewatch.sg" site_id="97098" lang="en" xmltv_id="Channel5.sg@SD">Channel 5</channel>
   <channel site="mewatch.sg" site_id="97129" lang="en" xmltv_id="ChannelU.sg@SD">Channel U</channel>
   <channel site="mewatch.sg" site_id="97073" lang="en" xmltv_id="meWATCHLIVE1.sg@SD">LIVE 1</channel>
-  <channel site="mncvision.id" site_id="350" lang="en" xmltv_id="ABCAustralia.au@SD">ABC Australia</channel>
   <channel site="mncvision.id" site_id="47" lang="en" xmltv_id="DreamWorksChannelAsia.us@SD">Dreamworks</channel>
-  <channel site="mncvision.id" site_id="201" lang="en" xmltv_id="GlobalTrekker.sg@SD">Global Trekker</channel>
   <channel site="mncvision.id" site_id="161" lang="en" xmltv_id="KIX.hk@SD">KIX</channel>
   <channel site="mncvision.id" site_id="19" lang="en" xmltv_id="Thrill.hk@SD">Thrill</channel>
   <channel site="mytelly.co.uk" site_id="229/mutv" lang="en" xmltv_id="MUTV.uk@SD">MUTV</channel>
   <channel site="mytelly.co.uk" site_id="1511/cnbc-uk" lang="en" xmltv_id="CNBCUK.uk@SD">CNBC UK</channel>
-  <channel site="mytelly.co.uk" site_id="1670/sky-sports-f1" lang="en" xmltv_id="SkySportsF1.uk@SD">Sky Sports F1</channel>
   <channel site="mytelly.co.uk" site_id="1915/now-80s" lang="en" xmltv_id="Now80s.uk@SD">NOW 80s</channel>
   <channel site="mytelly.co.uk" site_id="1917/now-70s" lang="en" xmltv_id="Now70s.uk@SD">NOW 70s</channel>
   <channel site="mytelly.co.uk" site_id="2003/channels-24" lang="en" xmltv_id="Channels24.ng@SD">Channels 24</channel>
@@ -908,6 +903,7 @@
   <channel site="tvtv.us" site_id="50270" lang="en" xmltv_id="MBCAmerica.us@SD">MBC America</channel>
   <channel site="tvtv.us" site_id="50338" lang="en" xmltv_id="BabyFirst.us@US">BabyFirst TV</channel>
   <channel site="tvtv.us" site_id="58698" lang="en" xmltv_id="MegaTV.us@SD">Mega TV</channel>
+  <channel site="tvtv.us" site_id="60111" lang="en" xmltv_id="PursuitChannel.us@SD">Pursuit Channel</channel>
   <channel site="tvtv.us" site_id="62900" lang="en" xmltv_id="CatholicFaithNetwork.us@SD">Catholic Faith Network</channel>
   <channel site="tvtv.us" site_id="67676" lang="en" xmltv_id="SBNTV.us@SD">SonLife Broadcasting Network</channel>
   <channel site="tvtv.us" site_id="68605" lang="en" xmltv_id="Willow.us@SD">Willow</channel>

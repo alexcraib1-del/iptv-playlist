@@ -5,6 +5,7 @@ ABC 4 Charleston SC (WCIV) | HTTP 404 | https://linear-700.frequency.stream/dist
 ABC 5 Boston MA (WCVB) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
 ABC News Live | HTTP 404 | https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
 AMC | HTTP 404 | http://41.205.93.154/AMC/index.m3u8
+AXN Black Hungary | HTTP 404 | http://141.94.193.53/axn_black/index.m3u8
 Adinkra TV | HTTP 404 | https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8
 Afrique54 TV | HTTP 404 | https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
 Al Jazeera English | HTTP 404 | https://cdn-7.pishow.tv/live/429/master.m3u8
@@ -43,6 +44,9 @@ CoastTV NBC (WRDE-LD) | HTTP 404 | https://live.field59.com/wrde/wrde1/playlist.
 Comedy Dynamics | HTTP 404 | https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8
 Concert Channel | HTTP 404 | https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 Court TV | HTTP 404 | https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8
+Crazy Ex-Girlfriend | HTTP 404 | https://jmp2.uk/plu-693ae5660eedebc8d5db6579.m3u8
+Crazy Ex-Girlfriend | HTTP 404 | https://jmp2.uk/plu-693ae58fc2d0f38be38df821.m3u8
+Crazy Ex-Girlfriend | HTTP 404 | https://jmp2.uk/plu-693ae5b792fad2e93412a2c7.m3u8
 DAZN Combat | HTTP 404 | https://jmp2.uk/plu-648056f0f77b61000828f1ba.m3u8
 DAZN Combat | HTTP 404 | https://jmp2.uk/plu-64805755536e0c0008a19fa1.m3u8
 DAZN Combat | HTTP 404 | https://jmp2.uk/plu-64805922536e0c0008a1a1e6.m3u8
@@ -86,7 +90,6 @@ Great Commission TV | HTTP 404 | https://stream-server9-jupiter.muxlive.com/hls/
 Grit Xtra | HTTP 404 | https://aegis-cloudfront-1.tubi.video/3bda1ff3-ae32-45ab-ad49-f5e206511a70/playlist.m3u8
 HLC TV | HTTP 404 | https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8
 Hard Knocks | HTTP 404 | https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
-Harvest USA | HTTP 404 | https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
 Heaven Bound TV | HTTP 404 | https://goliveafrica.media:9998/live/62580b337c021/index.m3u8
 His Grace TV | HTTP 404 | https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8
 Homeful | HTTP 404 | https://jmp2.uk/plu-65786abdb3801200084c593a.m3u8
@@ -114,6 +117,8 @@ Lucas & Friends | HTTP 404 | https://app.viloud.tv/hls/channel/01e3b17a3605b7c03
 MLB | HTTP 404 | https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 MOF TV | HTTP 404 | https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8
 Mashariki TV | HTTP 404 | https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8
+Mission TV | HTTP 404 | http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8
+Mission TV | HTTP 404 | https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
 Monte Carlo Digital Television | HTTP 404 | https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 More TV Sci-fi | HTTP 404 | https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 MovieSphere | HTTP 404 | https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
@@ -131,7 +136,6 @@ NBC 8 Lancaster PA (WGAL) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/5d3
 NBC 8 Salinas CA (KSBW) | HTTP 404 | https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8
 NBC 9 Steubenville OH (WTOV) | HTTP 404 | https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8
 NBC News Now | HTTP 404 | https://aegis-cloudfront-1.tubi.video/605fb6ea-f89c-451a-873c-030cb726b493/master.m3u8
-NHL AntenaPlay | HTTP 404 | https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8
 NHRA TV | HTTP 404 | https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
 Nash Bridges | HTTP 404 | https://aegis-cloudfront-1.tubi.video/07f838db-e5bc-47c9-b2b8-6d7037b06b9b/playlist.m3u8
 New Vision TV | HTTP 404 | https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8
@@ -143,7 +147,6 @@ Overcomers TV | HTTP 404 | https://glorystartv.live/Overcomers/index.m3u8
 PGA Tour | HTTP 404 | https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
 Pillar TV | HTTP 404 | https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8
 Plus TLT | HTTP 404 | http://15.204.246.24:8080/PlusTLTHD/index.m3u8
-Pursuit Channel | HTTP 404 | https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8
 PursuitUP | HTTP 404 | https://a-cdn.klowdtv.com/live2/pursuitup/playlist.m3u8
 Quest TV | HTTP 404 | https://media2.streambrothers.com:19360/8028/8028.m3u8
 Raia TV | HTTP 404 | https://goliveafrica.media:9998/live/64873b6222c93/index.m3u8
@@ -158,7 +161,6 @@ Rakuten TV Family Movies UK | HTTP 404 | https://e3207568b726401995c25670faaf32e
 Rakuten TV Top Movies Finland | HTTP 404 | https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
 Rakuten Top Movies UK | HTTP 404 | https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 Really | HTTP 404 | http://37.49.224.5/stream/36/index.m3u8
-Red CCTV | HTTP 404 | https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 Reelz Famous & Infamous | HTTP 404 | https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8
 Rocky Hill Government Access Channel 16 | HTTP 404 | https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8
 SGTV (Seminole County FL) | HTTP 404 | https://live.seminolecountyfl.gov/live-2/live/stream-1/live.m3u8
@@ -174,6 +176,7 @@ Sky Sport 7 | HTTP 404 | http://37.49.224.5/stream/50/index.m3u8
 Sky Sport 8 | HTTP 404 | http://37.49.224.5/stream/70/index.m3u8
 Sky Sport 9 | HTTP 404 | http://37.49.224.5/stream/52/index.m3u8
 Sky Sport Select | HTTP 404 | http://37.49.224.5/stream/53/index.m3u8
+Sky Sports F1 | HTTP 404 | https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8
 Sky Sports NFL | HTTP 404 | https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
 Sky Sports News | HTTP 404 | https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
 Stadium | HTTP 404 | https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
