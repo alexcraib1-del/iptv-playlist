@@ -34,6 +34,8 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RT" lang="en" xmltv_id="RTIndia.in@HD">RT</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD" lang="en" xmltv_id="SansadTV1.in@HD">Sansad TV - 1 HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANSAD_TV_HD" lang="en" xmltv_id="SansadTV2.in@HD">Sansad TV - 2 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD" lang="en" xmltv_id="SonySportsTen2.in@HD">SONY SPORTS TEN 2 HD</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL" lang="en" xmltv_id="StarSportsKhel.in@SD">STAR SPORTS KHEL</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_VIJAY_HD" lang="en" xmltv_id="StarVijay.in@HD">Star Vijay HD</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TIMES_NOW" lang="en" xmltv_id="TimesNow.in@SD">TIMES NOW</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TRAVELXP" lang="en" xmltv_id="Travelxp.in@HD">Travelxp</channel>
@@ -46,7 +48,6 @@
   <channel site="bein.com" site_id="entertainment#27" lang="en" xmltv_id="EuronewsEnglish.fr@SD">27</channel>
   <channel site="bein.com" site_id="entertainment#16" lang="en" xmltv_id="StarWorldMiddleEast.ae@SD">16</channel>
   <channel site="beinsports.com" site_id="1ACADCF1-DFAC-480B-872C-53D51FE1B45D" lang="en" xmltv_id="beINSPORTSXTRA.us@SD">beIN SPORTS XTRA</channel>
-  <channel site="beinsports.com" site_id="C244C48D-3B54-406A-94C9-D63B16318267" lang="en" xmltv_id="beINSportsUSA.us@SD">beIN SPORTS</channel>
   <channel site="canalplus.com" site_id="#654" lang="en" xmltv_id="NHKWorldJapan.jp@SD">NHK WORLD-JAPAN</channel>
   <channel site="cgates.lt" site_id="docubox-hd" lang="en" xmltv_id="DocuBox.nl@SD">DocuBox</channel>
   <channel site="cgates.lt" site_id="kidzone-tv" lang="en" xmltv_id="KidZoneMax.ee@SD">Kidzone Max</channel>
@@ -71,8 +72,6 @@
   <channel site="content.astro.com.my" site_id="426" lang="en" xmltv_id="CGTN.cn@SD">CGTN HD</channel>
   <channel site="content.astro.com.my" site_id="428" lang="en" xmltv_id="NHKWorldPremium.jp@SD">NHK World Premium</channel>
   <channel site="content.astro.com.my" site_id="447" lang="en" xmltv_id="LifetimeAsia.us@SD">Lifetime HD</channel>
-  <channel site="content.astro.com.my" site_id="449" lang="en" xmltv_id="HBOHitsAsia.sg@SD">HBO Hits</channel>
-  <channel site="content.astro.com.my" site_id="450" lang="en" xmltv_id="HBOFamilyAsia.sg@SD">HBO Family</channel>
   <channel site="content.astro.com.my" site_id="452" lang="en" xmltv_id="BBCEarth.uk@Asia">BBC Earth</channel>
   <channel site="content.astro.com.my" site_id="465" lang="en" xmltv_id="MoonbugKids.uk@SD">Moonbug</channel>
   <channel site="dishtv.in" site_id="142794" lang="en" xmltv_id="DDMizoram.in@SD">DD MIZORAM</channel>
@@ -708,8 +707,10 @@
   <channel site="melita.com" site_id="e9aa65aa-50b3-4045-abb7-edd2c876d593" lang="en" xmltv_id="MTVGlobal.uk@SD">MTV</channel>
   <channel site="melita.com" site_id="ea43081b-08a5-41e8-ba9a-3f22e4c0535a" lang="en" xmltv_id="JimJamEurope.uk@SD">JimJam</channel>
   <channel site="melita.com" site_id="f47884ed-751b-4656-99a7-26dc294476de" lang="en" xmltv_id="StingrayiConcerts.ca@SD">iConcerts HD</channel>
+  <channel site="mewatch.sg" site_id="569516" lang="en" xmltv_id="CBeebiesAsia.uk@SD">CBeebies HD</channel>
   <channel site="mewatch.sg" site_id="97098" lang="en" xmltv_id="Channel5.sg@SD">Channel 5</channel>
   <channel site="mewatch.sg" site_id="97129" lang="en" xmltv_id="ChannelU.sg@SD">Channel U</channel>
+  <channel site="mewatch.sg" site_id="382872" lang="en" xmltv_id="CinemaWorld.my@SD">CinemaWorld</channel>
   <channel site="mewatch.sg" site_id="97073" lang="en" xmltv_id="meWATCHLIVE1.sg@SD">LIVE 1</channel>
   <channel site="mncvision.id" site_id="47" lang="en" xmltv_id="DreamWorksChannelAsia.us@SD">Dreamworks</channel>
   <channel site="mncvision.id" site_id="161" lang="en" xmltv_id="KIX.hk@SD">KIX</channel>
@@ -727,7 +728,7 @@
   <channel site="neo.io" site_id="bbc-first" lang="en" xmltv_id="BBCFirst.uk@Benelux">BBC First</channel>
   <channel site="neo.io" site_id="funbox" lang="en" xmltv_id="FunBoxUHD.nl@SD">FunBox 4K</channel>
   <channel site="nhl.com" site_id="network" lang="en" xmltv_id="NHLNetwork.us@SD">NHL Network</channel>
-  <channel site="nowplayer.now.com" site_id="114" lang="en" xmltv_id="HBOSignatureAsia.sg@SD">HBO Signature</channel>
+  <channel site="nowplayer.now.com" site_id="209" lang="en" xmltv_id="DiscoveryChannelSoutheastAsia.sg@SD">Discovery Channel</channel>
   <channel site="nowplayer.now.com" site_id="782" lang="en" xmltv_id="ZeeTVAsiaPacific.sg@SD">Zee TV</channel>
   <channel site="nzxmltv.com" site_id="xmltv/guide#41" lang="en" xmltv_id="WairarapaTV.nz@SD">Wairarapa TV</channel>
   <channel site="nzxmltv.com" site_id="xmltv/guide#200" lang="en" xmltv_id="Channel200.nz@SD">CH200</channel>
@@ -740,7 +741,6 @@
   <channel site="ontvtonight.com" site_id="us#69023272/espn-hdtv" lang="en" xmltv_id="ESPN.us@SD">ESPN HDTV</channel>
   <channel site="ontvtonight.com" site_id="us#69026524/espnu" lang="en" xmltv_id="ESPNU.us@SD">ESPNU</channel>
   <channel site="ontvtonight.com" site_id="us#69022151/hbo-hdtv-east" lang="en" xmltv_id="HBO.us@East">HBO HDTV (East)</channel>
-  <channel site="ontvtonight.com" site_id="us#69023748/the-nfl-network" lang="en" xmltv_id="NFLNetwork.us@SD">The NFL Network</channel>
   <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" xmltv_id="ShowtimeFamilyZone.us@East">Showtime FamilyZone (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69023900/starz-hd-east" lang="en" xmltv_id="Starz.us@East">STARZ HD (East)</channel>
   <channel site="ontvtonight.com" site_id="us#69023898/starz-comedy-east" lang="en" xmltv_id="StarzComedy.us@East">Starz Comedy (East)</channel>
@@ -831,7 +831,6 @@
   <channel site="tvguide.com" site_id="9233004104" lang="en" xmltv_id="HGTV.us@East">HGTV</channel>
   <channel site="tvguide.com" site_id="9233004106" lang="en" xmltv_id="USANetwork.us@East">USA</channel>
   <channel site="tvguide.com" site_id="9233004141" lang="en" xmltv_id="PBS.us@East">PBS HD</channel>
-  <channel site="tvguide.com" site_id="9233005443" lang="en" xmltv_id="GolfChannel.us@SD">Golf</channel>
   <channel site="tvguide.com" site_id="9233007153" lang="en" xmltv_id="NickJr.us@East">Nick Jr.</channel>
   <channel site="tvguide.com" site_id="9233008002" lang="en" xmltv_id="History.us@East">History</channel>
   <channel site="tvguide.com" site_id="9233008440" lang="en" xmltv_id="FoxSports1.us@HD">FOX Sports 1</channel>
@@ -852,7 +851,6 @@
   <channel site="tvpassport.com" site_id="amp2/13283" lang="en" xmltv_id="AMP2.us@SD">AMP2</channel>
   <channel site="tvpassport.com" site_id="charge/15228" lang="en" xmltv_id="Charge.us@SD">CHARGE!</channel>
   <channel site="tvpassport.com" site_id="cottage-life/455" lang="en" xmltv_id="CottageLife.ca@SD">Cottage Life</channel>
-  <channel site="tvpassport.com" site_id="cp24-cablepulse-24/321" lang="en" xmltv_id="CP24.ca@SD">CP24 (CablePulse 24)</channel>
   <channel site="tvpassport.com" site_id="estv-hd/18805" lang="en" xmltv_id="ESTV.us@SD">ES.TV HD</channel>
   <channel site="tvpassport.com" site_id="fox-deportes-hd/10502" lang="en" xmltv_id="FoxDeportes.us@SD">Fox Deportes HD</channel>
   <channel site="tvpassport.com" site_id="hope-channel/6827" lang="en" xmltv_id="HopeChannelNorthAmerica.us@SD">Hope Channel</channel>
